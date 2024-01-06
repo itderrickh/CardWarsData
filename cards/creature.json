@@ -1691,7 +1691,8 @@
     "ability": "+3 ATK while your opponent does not control a Creature in this Lane.",
     "attack": 3,
     "defense": 2,
-    "id": 200
+    "id": 200,
+    "set": 3
   },
   {
     "name": "Ban-She Princess",
@@ -1724,7 +1725,8 @@
     "ability": "FLOOP >>> Move Boarder Collie to any of your empty Landscapes. If either Landscape in this Lane is Frozen, gain 1 Action.",
     "attack": 1,
     "defense": 7,
-    "id": 203
+    "id": 203,
+    "set": 3
   },
   {
     "name": "Bog Ban-She Angel",
@@ -1768,7 +1770,8 @@
     "ability": "+3 ATK while your opponent does not control a Creature in this Lane.",
     "attack": 2,
     "defense": 4,
-    "id": 207
+    "id": 207,
+    "set": 3
   },
   {
     "name": "Cottonpult",
@@ -1801,7 +1804,8 @@
     "ability": "Creatures on Landscapes with a Frozen token on it have -1 ATK.",
     "attack": 1,
     "defense": 8,
-    "id": 210
+    "id": 210,
+    "set": 3
   },
   {
     "name": "Fly Swatter",
@@ -1823,7 +1827,8 @@
     "ability": "Pay 1 Action >>> Freeze a Landscape in this Lane.",
     "attack": 2,
     "defense": 10,
-    "id": 212
+    "id": 212,
+    "set": 3
   },
   {
     "name": "Frozen Fish",
@@ -1834,7 +1839,8 @@
     "ability": "When Frozen Fish deals Damage to a Creature, you may Freeze a Landscape in this Lane.",
     "attack": 1,
     "defense": 8,
-    "id": 213
+    "id": 213,
+    "set": 3
   },
   {
     "name": "Furious Chick",
@@ -1878,7 +1884,8 @@
     "ability": "At the start of your turn, deal 1 Damage to each Creature on a Landscape with a Frozen token on it.",
     "attack": 1,
     "defense": 10,
-    "id": 217
+    "id": 217,
+    "set": 3
   },
   {
     "name": "Man-Witch",
@@ -1922,7 +1929,8 @@
     "ability": "FLOOP >>> Draw a card for each Landscape with a Frozen token on it players control.",
     "attack": 4,
     "defense": 4,
-    "id": 221
+    "id": 221,
+    "set": 3
   },
   {
     "name": "Slay Rider",
@@ -1933,7 +1941,8 @@
     "ability": "FLOOP >>> Deal 3 Damage to target Creature on a Landscape with a Frozen token on it.",
     "attack": 0,
     "defense": 5,
-    "id": 222
+    "id": 222,
+    "set": 3
   },
   {
     "name": "Snow Angel",
@@ -1944,7 +1953,8 @@
     "ability": "FLOOP >>> Heal 1 Damage from each of your Creatures for each Landscape with a Frozen token on it players control.",
     "attack": 2,
     "defense": 7,
-    "id": 223
+    "id": 223,
+    "set": 3
   },
   {
     "name": "Snow Bunny",
@@ -1955,7 +1965,8 @@
     "ability": "Destroy Snow Bunny >>> Freeze target Landscape.",
     "attack": 3,
     "defense": 3,
-    "id": 224
+    "id": 224,
+    "set": 3
   },
   {
     "name": "Snow Dog",
@@ -1966,7 +1977,8 @@
     "ability": "FLOOP >>> Each adjacent Creature has +2 ATK this turn.",
     "attack": 2,
     "defense": 7,
-    "id": 225
+    "id": 225,
+    "set": 3
   },
   {
     "name": "Spike Icicle",
@@ -1988,7 +2000,8 @@
     "ability": "Sprucy Lucy has +1 ATK for each Landscape with a Frozen token on it players control.",
     "attack": 2,
     "defense": 9,
-    "id": 227
+    "id": 227,
+    "set": 3
   },
   {
     "name": "Unicyclops",
@@ -2153,7 +2166,8 @@
     "ability": "Remove a Frozen token from Snow Baller's Landscape >>> Deal 3 Damage to target Creature.",
     "attack": 2,
     "defense": 7,
-    "id": 242
+    "id": 242,
+    "set": 4
   },
   {
     "name": "Frosted Snowwoman",
@@ -2164,7 +2178,8 @@
     "ability": "When Frosted Snowwoman enters play, Freeze both Landscapes in her Lane.",
     "attack": 3,
     "defense": 5,
-    "id": 243
+    "id": 243,
+    "set": 4
   },
   {
     "name": "The Cooler",
@@ -2175,7 +2190,8 @@
     "ability": "When The Cooler leaves play, Freeze its Landscape.",
     "attack": 4,
     "defense": 7,
-    "id": 244
+    "id": 244,
+    "set": 4
   },
   {
     "name": "Glacier Racer",
@@ -2186,7 +2202,8 @@
     "ability": "+4 ATK if both Landscapes in this Lane have Frozen tokens on them.",
     "attack": 2,
     "defense": 6,
-    "id": 245
+    "id": 245,
+    "set": 4
   },
   {
     "name": "Frosted Deanimator",
@@ -2197,7 +2214,8 @@
     "ability": "Frosted Deanimator may enter play onto a Landscape that has a Frozen token on it.",
     "attack": 2,
     "defense": 6,
-    "id": 246
+    "id": 246,
+    "set": 4
   },
   {
     "name": "Icy Infiltrator",
@@ -2219,7 +2237,8 @@
     "ability": "Icy Commando has +1 ATK for each Landscape with a Frozen token on it.",
     "attack": 1,
     "defense": 7,
-    "id": 248
+    "id": 248,
+    "set": 4
   },
   {
     "name": "Icy Intruder",
@@ -2230,7 +2249,8 @@
     "ability": "Pay 1 Action, FLOOP >>> Freeze target Landscape.",
     "attack": 1,
     "defense": 8,
-    "id": 249
+    "id": 249,
+    "set": 4
   },
   {
     "name": "Industrial Assassin",
@@ -3055,7 +3075,8 @@
     "ability": "When Brigadier Banana Split attacks, deal 2 Damage to target opposing Creature on a Landscape with a Frozen token on it.",
     "attack": 3,
     "defense": 9,
-    "id": 324
+    "id": 324,
+    "set": 6
   },
   {
     "name": "Chocolate TaCody",
@@ -3066,7 +3087,8 @@
     "ability": "At the start of your Fight Phase, if there are 1 or more Frozen tokens in this Lane, deal 1 Damage to each Creature target player controls.",
     "attack": 2,
     "defense": 7,
-    "id": 325
+    "id": 325,
+    "set": 6
   },
   {
     "name": "Four Star Fudge",
@@ -3077,7 +3099,8 @@
     "ability": "Each time a Landscape becomes Frozen, draw a card.",
     "attack": 2,
     "defense": 9,
-    "id": 326
+    "id": 326,
+    "set": 6
   },
   {
     "name": "Frozen BanaNancy",
@@ -3088,7 +3111,8 @@
     "ability": "At the start of your Fight Phase, if there are one or more Frozen tokens in this Lane, deal 2 Damage to target opponent.",
     "attack": 1,
     "defense": 7,
-    "id": 327
+    "id": 327,
+    "set": 6
   },
   {
     "name": "Ice Cream Captain",
@@ -3099,7 +3123,8 @@
     "ability": "Ice Cream Captain costs 1 less to play for each player that has a Landscape with a Frozen token on it.",
     "attack": 4,
     "defense": 8,
-    "id": 328
+    "id": 328,
+    "set": 6
   },
   {
     "name": "Ice Cream Sammy",
@@ -3110,7 +3135,8 @@
     "ability": "Pay 1 Action, FLOOP >>> Choose a Lane, Freeze both Landscapes in that Lane.",
     "attack": 2,
     "defense": 7,
-    "id": 329
+    "id": 329,
+    "set": 6
   },
   {
     "name": "Mint Chocouflage",
@@ -3121,7 +3147,8 @@
     "ability": "While there is no opposing Creature in this Lane, Mint Chocouflage can't be damaged by your opponent's Spells or Creature abilities.",
     "attack": 3,
     "defense": 3,
-    "id": 330
+    "id": 330,
+    "set": 6
   },
   {
     "name": "Mocha Launcher",
@@ -3132,7 +3159,8 @@
     "ability": "Pay 1 Action, FLOOP >>> Deal 2 Damage to target Creature. If that Creature is destroyed this way, Freeze the Landscape it is on.",
     "attack": 0,
     "defense": 4,
-    "id": 331
+    "id": 331,
+    "set": 6
   },
   {
     "name": "Patriot Popsicle",
@@ -3143,7 +3171,8 @@
     "ability": "When Patriot Popsicle enters play, you may Freeze a Landscape in this Lane.",
     "attack": 1,
     "defense": 6,
-    "id": 332
+    "id": 332,
+    "set": 6
   },
   {
     "name": "Smooth Eli",
@@ -3154,7 +3183,8 @@
     "ability": "FLOOP >>> Move target Frozen token from one Landscape to a new Landscape.",
     "attack": 2,
     "defense": 6,
-    "id": 333
+    "id": 333,
+    "set": 6
   },
   {
     "name": "Softie Recruit",
@@ -3165,7 +3195,8 @@
     "ability": "When Softie Recruit enters play, if your opponent does not control a Creature in this Lane, gain 1 Action.",
     "attack": 2,
     "defense": 5,
-    "id": 334
+    "id": 334,
+    "set": 6
   },
   {
     "name": "Ultra Dog",
@@ -3176,7 +3207,8 @@
     "ability": "FLOOP >>> Freeze target Landscape with a Creature on it.",
     "attack": 3,
     "defense": 6,
-    "id": 335
+    "id": 335,
+    "set": 6
   },
   {
     "name": "Adorabunny",
