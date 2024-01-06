@@ -4,174 +4,199 @@
     "type": 4,
     "imageurl": "Finn.jpg",
     "ability": "Creatures you control with Damage on them have \"FLOOP\">> Deal 1 Damage to target Creature",
-    "id": 0
+    "id": 0,
+    "set": 0
   },
   {
     "name": "Jake",
     "type": 4,
     "imageurl": "Jake.jpg",
     "ability": "Creatures on facedown Landscapes you control have +2 ATK.",
-    "id": 1
+    "id": 1,
+    "set": 0
   },
   {
     "name": "Abracadaniel",
     "type": 4,
     "imageurl": "Abracadaniel.jpg",
     "ability": "Pay 1 Action >>> Reveal the top card of your deck. If it's a Rainbow card, play it.",
-    "id": 2
+    "id": 2,
+    "set": 7
   },
   {
     "name": "Billy",
     "type": 4,
     "imageurl": "Billy.jpg",
     "ability": "If your opponent's deck runs out of cards, you win the game.",
-    "id": 3
+    "id": 3,
+    "set": 7
   },
   {
     "name": "BMO",
     "type": 4,
     "imageurl": "BMO.jpg",
     "ability": "Discard a card from your hand >>> Deal 1 Damage to target Creature.",
-    "id": 4
+    "id": 4,
+    "set": 1
   },
   {
     "name": "Cosmic Owl",
     "type": 4,
     "imageurl": "Cosmic_Owl.jpg",
     "ability": "Pay 1 Action >>> Look at the top 4 cards of your deck and rearrange them.",
-    "id": 5
+    "id": 5,
+    "set": 7
   },
   {
     "name": "Huntress Wizard",
     "type": 4,
     "imageurl": "Huntress_Wizard.jpg",
     "ability": "At the start of the game, choose a word with 3 or more letters. Whenever you play a card with that work in its name, deal 1 Damage to target Creature an opponent controls.",
-    "id": 6
+    "id": 6,
+    "set": 7
   },
   {
     "name": "Lady Rainicorn",
     "type": 4,
     "imageurl": "Lady_Rainicorn.jpg",
     "ability": "If you return two or more Creatures to your hand from play or your discard pile during your turn, heal 2 HP.",
-    "id": 7
+    "id": 7,
+    "set": 1
   },
   {
     "name": "Lumpy Space Princess",
     "type": 4,
     "imageurl": "Lumpy_Space_Princess.jpg",
     "ability": "The first time you replace a Creature on your turn, draw a card.",
-    "id": 8
+    "id": 8,
+    "set": 2
   },
   {
     "name": "Magic Man",
     "type": 4,
     "imageurl": "Magic_Man.jpg",
     "ability": "When you play a card with cost exactly 2, deal 2 Damage to a Creature an opponent controls.",
-    "id": 9
+    "id": 9,
+    "set": 7
   },
   {
     "name": "Princess Bubblegum",
     "type": 4,
     "imageurl": "Princess_Bubblegum.jpg",
     "ability": "Once per turn, you may deal 1 Damage to one of your Creatures. That Creature has +1 ATK this turn.",
-    "id": 10
+    "id": 10,
+    "set": 2
   },
   {
     "name": "Prismo",
     "type": 4,
     "imageurl": "Prismo.jpg",
     "ability": "If you have no matching Landscapes, your Creatures have +1 DEF.",
-    "id": 11
+    "id": 11,
+    "set": 7
   },
   {
     "name": "Ricardio",
     "type": 4,
     "imageurl": "Ricardio.jpg",
     "ability": "Once during each of your turns, you may pay 1 HP. If you do, reveal the top card of your deck. You may discard it.",
-    "id": 12
+    "id": 12,
+    "set": 7
   },
   {
     "name": "Susan Strong",
     "type": 4,
     "imageurl": "Susan_Strong.jpg",
     "ability": "Pay 1 Action & destroy a Creature you control >>> Deal Damage equal to its cost to each opposing Creature.",
-    "id": 13
+    "id": 13,
+    "set": 7
   },
   {
     "name": "Tree Trunks",
     "type": 4,
     "imageurl": "Tree_Trunks.jpg",
     "ability": "Once during each of your turns, you may discard a card with \"Pie\" in its name to gain 1 Action.",
-    "id": 14
+    "id": 14,
+    "set": 7
   },
   {
     "name": "Ice King",
     "type": 4,
     "imageurl": "Ice_King.jpg",
     "ability": "The first time a Creature you control attacks down an empty Lane during each of your turns, it has +1 ATK.",
-    "id": 15
+    "id": 15,
+    "set": 3
   },
   {
     "name": "Marceline",
     "type": 4,
     "imageurl": "Marceline.jpg",
     "ability": "Your Creatures with 5 or more Damage on them have +1 ATK.",
-    "id": 16
+    "id": 16,
+    "set": 3
   },
   {
     "name": "Lemongrab",
     "type": 4,
     "imageurl": "Lemongrab.jpg",
     "ability": "At the start of your Fight Phase, if you have 1 or more empty Landscapes, gain 1 HP. (Can't go over 25.)",
-    "id": 17
+    "id": 17,
+    "set": 4
   },
   {
     "name": "Gunter",
     "type": 4,
     "imageurl": "Gunter.jpg",
     "ability": "Creatures you control on Landscapes with Frozen tokens have +1 ATK.",
-    "id": 18
+    "id": 18,
+    "set": 4
   },
   {
     "name": "Fionna",
     "type": 4,
     "imageurl": "Fionna.jpg",
     "ability": "While you control only one Landscape type, your Rainbow Creatures have +1 ATK.",
-    "id": 19
+    "id": 19,
+    "set": 5
   },
   {
     "name": "Cake",
     "type": 4,
     "imageurl": "Cake.jpg",
     "ability": "Each time a Building enters play under your control, heal 2 Damage from each Creature you control with a Building on its Landscape.",
-    "id": 20
+    "id": 20,
+    "set": 5
   },
   {
     "name": "Doubles Jake",
     "type": 4,
     "imageurl": "Jake_2v2.jpg",
     "ability": "Once during your turn, when a Creature you control damages an opponent, you may deal 1 Damage to target Creature in one of your Lanes.",
-    "id": 21
+    "id": 21,
+    "set": 6
   },
   {
     "name": "Charlie",
     "type": 4,
     "imageurl": "Charlie.jpg",
     "ability": "Once during your turn, you may move a Creature you control to an adjacent empty Landscape.",
-    "id": 22
+    "id": 22,
+    "set": 6
   },
   {
     "name": "Grand Prix",
     "type": 4,
     "imageurl": "Grand_Prix.jpg",
     "ability": "Once during your turn, you may put a Creature you played this turn back into your hand, then play it for free and put 3 damage on it.",
-    "id": 23
+    "id": 23,
+    "set": 6
   },
   {
     "name": "Moniker",
     "type": 4,
     "imageurl": "Moniker.jpg",
     "ability": "Once during your turn, you may ready a Flooped Creature",
-    "id": 24
+    "id": 24,
+    "set": 6
   }
 ]
