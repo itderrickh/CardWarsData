@@ -1,0 +1,1064 @@
+[
+  {
+    "name": "Abraca Amadeus",
+    "cost": 1,
+    "landscape": 2,
+    "type": 1,
+    "imageurl": "Abraca_Amadeus.jpg",
+    "ability": "Target opponent discards a card from his hand for every 5 cards in your discard pile.",
+    "id": 348
+  },
+  {
+    "name": "Blue Candy",
+    "cost": 1,
+    "landscape": 4,
+    "type": 1,
+    "imageurl": "Blue_Candy.jpg",
+    "ability": "Heal up to 3 Damage from target Creature you control.",
+    "id": 349
+  },
+  {
+    "name": "Bone Wand",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Bone_Wand.jpg",
+    "ability": "Play only if you control a Useless Swamp Creature. Target opponent discards a card from his hand.",
+    "id": 350
+  },
+  {
+    "name": "Brief Power",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Brief_Power.jpg",
+    "ability": "Target Useless Swamp Creature you control has +2 ATK this turn.",
+    "id": 351
+  },
+  {
+    "name": "Cerebral Bloodstorm",
+    "cost": 1,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Cerebral_Bloodstorm.jpg",
+    "ability": "Deal 1 Damage to each opposing Creature.",
+    "id": 352
+  },
+  {
+    "name": "Confectionary Ring",
+    "cost": 1,
+    "landscape": 4,
+    "type": 1,
+    "imageurl": "Confectionary_Ring.jpg",
+    "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Cornfield Landscape.",
+    "id": 353
+  },
+  {
+    "name": "Corn Scepter",
+    "cost": 1,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Corn_Scepter.jpg",
+    "ability": "Deal 1 Damage to target Creature for each Cornfield Landscape you control.",
+    "id": 354
+  },
+  {
+    "name": "Cross Pollination",
+    "cost": 2,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Cross_Pollination.jpg",
+    "ability": "Each of your Cornfield Creatures has +1 ATK this turn for each different Landscape type you control.",
+    "id": 355
+  },
+  {
+    "name": "Falling Star",
+    "cost": 2,
+    "landscape": 4,
+    "type": 1,
+    "imageurl": "Falling_Star.jpg",
+    "ability": "Creatures you control take no Damage from opposing Creatures this turn.",
+    "id": 356
+  },
+  {
+    "name": "Field of Nightmares",
+    "cost": 1,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Field_of_Nightmares.jpg",
+    "ability": "Deal 1 Damage to your opponent for each card in his hand.",
+    "id": 357
+  },
+  {
+    "name": "Full Metal Racket",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Full_Metal_Racket.jpg",
+    "ability": "Deal 2 Damage to target Creature.",
+    "id": 358
+  },
+  {
+    "name": "Gnome Snot",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Gnome_Snot.jpg",
+    "ability": "Draw 3 cards.",
+    "id": 359
+  },
+  {
+    "name": "Grape Butt",
+    "cost": 1,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Grape_Butt.jpg",
+    "ability": "Play only if you played a non-Cornfield card this turn. Deal 5 Damage to target Creature.",
+    "id": 360
+  },
+  {
+    "name": "Green Candy",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Green_Candy.jpg",
+    "ability": "Heal or deal 1 Damage to target Creature.",
+    "id": 361
+  },
+  {
+    "name": "Husker Amulet",
+    "cost": 1,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Husker_Amulet.jpg",
+    "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a NiceLands Landscape.",
+    "id": 362
+  },
+  {
+    "name": "Incredible Egg",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Incredible_Egg.jpg",
+    "ability": "Reveal the top 2 cards of your deck. You may put a revealed Cornfield card into your hand. Discard the rest.",
+    "id": 363
+  },
+  {
+    "name": "Kung Fu Power",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Kung_Fu_Power.jpg",
+    "ability": "Ready 1 Creature of each type you control. (The types are Cornfield, Rainbow, Useless Swamp, Blue Plains, NiceLands, and SandyLands.)",
+    "id": 364
+  },
+  {
+    "name": "Lucky Penny",
+    "cost": 1,
+    "landscape": 3,
+    "type": 1,
+    "imageurl": "Lucky_Penny.jpg",
+    "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Blue Plains Landscape.",
+    "id": 365
+  },
+  {
+    "name": "Magic Lamp",
+    "cost": 1,
+    "landscape": 2,
+    "type": 1,
+    "imageurl": "Magic_Lamp.jpg",
+    "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a SandyLands Landscape.",
+    "id": 366
+  },
+  {
+    "name": "Magic Ring Ding",
+    "cost": 2,
+    "landscape": 2,
+    "type": 1,
+    "imageurl": "Magic_Ring_Ding.jpg",
+    "ability": "Each of your Creatures has +1 ATK this turn for every 5 cards in your discard pile.",
+    "id": 367
+  },
+  {
+    "name": "Master of Disguise",
+    "cost": 1,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Master_of_Disguise.jpg",
+    "ability": "Each of your opponent's Creatures has -1 ATK this turn.",
+    "id": 368
+  },
+  {
+    "name": "Musical Chair",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Musical_Chair.jpg",
+    "ability": "Swap up to 2 of your Landscapes with ones from outside of the game.",
+    "id": 369
+  },
+  {
+    "name": "Ogre Braces",
+    "cost": 1,
+    "landscape": 2,
+    "type": 1,
+    "imageurl": "Ogre_Braces.jpg",
+    "ability": "You heal 1 Hit Point for every 5 cards in your discard pile.",
+    "id": 370
+  },
+  {
+    "name": "Ogre Gas",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Ogre_Gas.jpg",
+    "ability": "Reveal the top 3 cards of your deck. Put one of them on the bottom of your deck and discard the rest.",
+    "id": 371
+  },
+  {
+    "name": "Pants of Awesome",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Pants_of_Awesome.jpg",
+    "ability": "Move target Creature you control to an empty Blue Plains Landscape you control, and then draw a card.",
+    "id": 372
+  },
+  {
+    "name": "Piestorm",
+    "cost": 1,
+    "landscape": 4,
+    "type": 1,
+    "imageurl": "Piestorm.jpg",
+    "ability": "Each of your Creatures with no Damage has +2 ATK this turn.",
+    "id": 373
+  },
+  {
+    "name": "Pink Candy",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Pink_Candy.jpg",
+    "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a SandyLands Landscape.",
+    "id": 374
+  },
+  {
+    "name": "Popcorn Power",
+    "cost": 1,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Popcorn_Power.jpg",
+    "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Blue Plains Landscape.",
+    "id": 375
+  },
+  {
+    "name": "Portal of Unsummoning",
+    "cost": 2,
+    "landscape": 3,
+    "type": 1,
+    "imageurl": "Portal_of_Unsummoning.jpg",
+    "ability": "Return target Creature to its owner's hand.",
+    "id": 376
+  },
+  {
+    "name": "Portal to Nowhere",
+    "cost": 1,
+    "landscape": 3,
+    "type": 1,
+    "imageurl": "Portal_to_Nowhere.jpg",
+    "ability": "Move 1 of your opponent's Creatures to an adjacent empty Lane (on his side).",
+    "id": 377
+  },
+  {
+    "name": "Psychic Tempest",
+    "cost": 1,
+    "landscape": 3,
+    "type": 1,
+    "imageurl": "Psychic_Tempest.jpg",
+    "ability": "Return all Creatures in play you own to your hand. (This includes stolen Creatures.)",
+    "id": 378
+  },
+  {
+    "name": "Puma Paw",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Puma_Paw.jpg",
+    "ability": "Ready a Flooped Creature you control. It has +2 ATK this turn.",
+    "id": 379
+  },
+  {
+    "name": "Raise the Dead",
+    "cost": 1,
+    "landscape": 2,
+    "type": 1,
+    "imageurl": "Raise_the_Dead.jpg",
+    "ability": "Put a Creature with cost 2 or less from your discard pile into play.",
+    "id": 380
+  },
+  {
+    "name": "Reclaim Landscape",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Reclaim_Landscape.jpg",
+    "ability": "You may flip one of your Landscapes face up, and you may move one of your Buildings to one of your Lanes without one.",
+    "id": 381
+  },
+  {
+    "name": "Ring of Damage",
+    "cost": 2,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Ring_of_Damage.jpg",
+    "ability": "Each of your Creatures has +2 ATK this turn.",
+    "id": 382
+  },
+  {
+    "name": "Ring of Fluffy",
+    "cost": 2,
+    "landscape": 4,
+    "type": 1,
+    "imageurl": "Ring_of_Fluffy.jpg",
+    "ability": "Target Creature you control has +X ATK this turn, where X is the amount of Damage on it.",
+    "id": 383
+  },
+  {
+    "name": "Ring of Third Eye",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Ring_of_Third_Eye.jpg",
+    "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Cornfield Landscape.",
+    "id": 384
+  },
+  {
+    "name": "Scroll of Bad Breath",
+    "cost": 1,
+    "landscape": 2,
+    "type": 1,
+    "imageurl": "Scroll_of_Bad_Breath.jpg",
+    "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a NiceLands Landscape.",
+    "id": 385
+  },
+  {
+    "name": "Scroll of Fresh Breath",
+    "cost": 1,
+    "landscape": 4,
+    "type": 1,
+    "imageurl": "Scroll_of_Fresh_Breath.jpg",
+    "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Useless Swamp Landscape.",
+    "id": 386
+  },
+  {
+    "name": "Snake Eye Ring",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Snake_Eye_Ring.jpg",
+    "ability": "Return a random Useless Swamp Creature from your discard pile to your hand.",
+    "id": 387
+  },
+  {
+    "name": "Snake Eyes",
+    "cost": 1,
+    "landscape": 3,
+    "type": 1,
+    "imageurl": "Snake_Eyes.jpg",
+    "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Useless Swamp Landscape.",
+    "id": 388
+  },
+  {
+    "name": "Socks of Fortitude",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Socks_of_Fortitude.jpg",
+    "ability": "Ready each Creature that changed Lanes this turn. They each have +2 ATK this turn.",
+    "id": 389
+  },
+  {
+    "name": "Spell Warp",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Spell_Warp.jpg",
+    "ability": "Swap the positions of 2 Creatures you control. (They change Lanes simultaneously.)",
+    "id": 390
+  },
+  {
+    "name": "Strength Crystal",
+    "cost": 2,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Strength_Crystal.jpg",
+    "ability": "Target player draws five cards.",
+    "id": 391
+  },
+  {
+    "name": "Subliminal Strength",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Subliminal_Strength.jpg",
+    "ability": "Target Creature you control has +2 ATK this turn for each Spell you played this turn (including this one).",
+    "id": 392
+  },
+  {
+    "name": "Tax Reduction",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Tax_Reduction.jpg",
+    "ability": "You may move each of your Buildings to different Lanes you control. You may move each of your opponent's Buildings to different Lanes he controls.",
+    "id": 393
+  },
+  {
+    "name": "Teleport",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Teleport.jpg",
+    "ability": "Move one of your Creatures to one of your empty Lanes.",
+    "id": 394
+  },
+  {
+    "name": "Toilet of Doom",
+    "cost": 1,
+    "landscape": 2,
+    "type": 1,
+    "imageurl": "Toilet_of_Doom.jpg",
+    "ability": "Deal 1 Damage to target Creature for every 5 cards in your discard pile.",
+    "id": 395
+  },
+  {
+    "name": "Tome of Ankhs",
+    "cost": 1,
+    "landscape": 3,
+    "type": 1,
+    "imageurl": "Tome_of_Ankhs.jpg",
+    "ability": "Draw a card for each of your empty Lanes.",
+    "id": 396
+  },
+  {
+    "name": "Unempty Coffin",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Unempty_Coffin.jpg",
+    "ability": "Reduce the cost of the next Creature you play this turn by 2 Actions.",
+    "id": 397
+  },
+  {
+    "name": "Volcano",
+    "cost": 1,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Volcano.jpg",
+    "ability": "Destroy target Building. You may deal 3 Damage to a Creature in that Lane. Flip your Landscape in that Lane face down.",
+    "id": 398
+  },
+  {
+    "name": "Witch Slap",
+    "cost": 2,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Witch_Slap.jpg",
+    "ability": "Target opponent discards down to 5 cards, and then takes 1 Damage for each card discarded this way.",
+    "id": 399
+  },
+  {
+    "name": "Witch Way",
+    "cost": 1,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Witch_Way.jpg",
+    "ability": "Each of your Creatures that is on a Useless Swamp Landscape has +2 ATK this turn.",
+    "id": 400
+  },
+  {
+    "name": "Woad Blood",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Woad_Blood.jpg",
+    "ability": "Each Creature that changed Lanes this turn has +2 ATK this turn.",
+    "id": 401
+  },
+  {
+    "name": "Woad Talisman",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Woad_Talisman.jpg",
+    "ability": "Target Blue Plains Creature you control has +2 ATK this turn.",
+    "id": 402
+  },
+  {
+    "name": "ZaZo's Magic Seeds",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "ZaZo%27s_Magic_Seeds.jpg",
+    "ability": "Target SandyLands Creature has +2 ATK this turn for each Creature that entered play into an adjacent Lane this turn.",
+    "id": 403
+  },
+  {
+    "name": "Black Hole Pendant",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Black_Hole_Pendant.jpg",
+    "ability": "Target Creature has +X ATK this turn, where X is the number of different Landscape types your opponent controls.",
+    "id": 404
+  },
+  {
+    "name": "Blood Bath",
+    "cost": 2,
+    "landscape": 2,
+    "type": 1,
+    "imageurl": "Blood_Bath.jpg",
+    "ability": "Target foe may discard a card with cost 2 or greater. If they do not, deal 5 Damage to that foe.",
+    "id": 405
+  },
+  {
+    "name": "Blood Transfusion",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Blood_Transfusion.jpg",
+    "ability": "Remove from game a card in any player's discard pile. Heal X Damage from target Creature, where X is the cost of the card removed this way.",
+    "id": 406
+  },
+  {
+    "name": "Bums Away!",
+    "cost": 1,
+    "landscape": 2,
+    "type": 1,
+    "imageurl": "Bums_Away%21.jpg",
+    "ability": "Target foe may discard a card. If they do not, deal 2 Damage to each of their Creatures.",
+    "id": 407
+  },
+  {
+    "name": "Freeze Ray",
+    "cost": 1,
+    "landscape": 5,
+    "type": 1,
+    "imageurl": "Freeze_Ray.jpg",
+    "ability": "Freeze target Landscape, and then draw a card.",
+    "id": 408
+  },
+  {
+    "name": "Freezing Point",
+    "cost": 2,
+    "landscape": 5,
+    "type": 1,
+    "imageurl": "Freezing_Point.jpg",
+    "ability": "Freeze each of your opponent's Landscapes.",
+    "id": 409
+  },
+  {
+    "name": "Frosty Frolic",
+    "cost": 2,
+    "landscape": 5,
+    "type": 1,
+    "imageurl": "Frosty_Frolic.jpg",
+    "ability": "Target player discards 1 card from her hand for each Landscape with a Frozen token on it she controls.",
+    "id": 410
+  },
+  {
+    "name": "Frozen Heart",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Frozen_Heart.jpg",
+    "ability": "Deal 1 Damage to target Creature. If that Creature is on a Landscape with a Frozen token on it, deal 3 Damage instead.",
+    "id": 411
+  },
+  {
+    "name": "Pentaid",
+    "cost": 1,
+    "landscape": 4,
+    "type": 1,
+    "imageurl": "Pentaid.jpg",
+    "ability": "Heal exactly 5 Damage from target Creature you control (no more and no less).",
+    "id": 412
+  },
+  {
+    "name": "Snow Way",
+    "cost": 1,
+    "landscape": 5,
+    "type": 1,
+    "imageurl": "Snow_Way.jpg",
+    "ability": "Freeze two target Landscapes.",
+    "id": 413
+  },
+  {
+    "name": "Rock Out!",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Rock_Out%21.jpg",
+    "ability": "Flip target Landscape face down until the start of your next turn.",
+    "id": 414
+  },
+  {
+    "name": "Amaizing Avalanche",
+    "cost": 1,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Amaizing_Avalanche.jpg",
+    "ability": "Each of your Creatures has +1 ATK this turn for each face down Landscape in play.",
+    "id": 415
+  },
+  {
+    "name": "Drop Zone",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Drop_Zone.jpg",
+    "ability": "Return target Creature you own to your hand.",
+    "id": 416
+  },
+  {
+    "name": "Ham Fist",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Ham_Fist.jpg",
+    "ability": "Target Creature you control has -5 ATK this turn. Draw a card.",
+    "id": 417
+  },
+  {
+    "name": "Quick Pick Me Up",
+    "cost": 1,
+    "landscape": 3,
+    "type": 1,
+    "imageurl": "Quick_Pick_Me_Up.jpg",
+    "ability": "Return target Creature you control to its owner's hand. Gain Actions equal to its cost.",
+    "id": 418
+  },
+  {
+    "name": "Snowblower",
+    "cost": 1,
+    "landscape": 5,
+    "type": 1,
+    "imageurl": "Snowblower.jpg",
+    "ability": "Choose a Lane. Freeze both Landscapes in that Lane.",
+    "id": 419
+  },
+  {
+    "name": "Snowvalanche",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Snowvalanche.jpg",
+    "ability": "Deal 2 Damage to each opposing Creature on a Landscape with a Frozen token on it.",
+    "id": 420
+  },
+  {
+    "name": "Wake Up Call",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Wake_Up_Call.jpg",
+    "ability": "Ready each Creature you control.",
+    "id": 421
+  },
+  {
+    "name": "Spazzy Cola",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Spazzy_Cola.jpg",
+    "ability": "Each Creature in play has +1 ATK this turn (including your opponent's Creatures).",
+    "id": 422
+  },
+  {
+    "name": "Tapped Out",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Tapped_Out.jpg",
+    "ability": "Target Creature you control has +2 ATK for each exhausted Creature you control (at the time you play this).",
+    "id": 423
+  },
+  {
+    "name": "Magenapping",
+    "cost": 2,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Magenapping.jpg",
+    "ability": "Play only if you control one or fewer Creatures and have 15 or fewer Hit Points. Move target Creature to target empty Landscape you control.",
+    "id": 424
+  },
+  {
+    "name": "Free Fall",
+    "cost": 1,
+    "landscape": 3,
+    "type": 1,
+    "imageurl": "Free_Fall.jpg",
+    "ability": "Each of your Creatures has +1 ATK this turn for each Creature that entered play this turn.",
+    "id": 425
+  },
+  {
+    "name": "Cute Overload",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Cute_Overload.jpg",
+    "ability": "Destroy any number of Creatures you control. Draw a card for each Creature destroyed this way.",
+    "id": 426
+  },
+  {
+    "name": "Friendship Bracelet",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Friendship_Bracelet.jpg",
+    "ability": "Swap any amount of Damage between two Creatures you control.",
+    "id": 427
+  },
+  {
+    "name": "Singing Sword",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Singing_Sword.jpg",
+    "ability": "Target Creature has +1 ATK this turn for every 2 cards you have drawn this turn.",
+    "id": 428
+  },
+  {
+    "name": "Sword Bouquet",
+    "cost": 1,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Sword_Bouquet.jpg",
+    "ability": "Deal 1 Damage to target Creature for every card you have drawn this turn.",
+    "id": 429
+  },
+  {
+    "name": "Glorious Gramophone",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Glorious_Gramophone.jpg",
+    "ability": "Draw 4 cards, then discard 2 cards.",
+    "id": 430
+  },
+  {
+    "name": "River of Swords",
+    "cost": 2,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "River_of_Swords.jpg",
+    "ability": "Creatures you control have +2 ATK this turn. Draw 2 cards.",
+    "id": 431
+  },
+  {
+    "name": "Puppy Parade",
+    "cost": 2,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Puppy_Parade.jpg",
+    "ability": "Heal 2 Damage from each Creature you control. Creatures you control lose their Landscape type and become Rainbow Creatures this turn.",
+    "id": 432
+  },
+  {
+    "name": "Void Thimble",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Void_Thimble.jpg",
+    "ability": "Lose 2 Hit Points, gain 1 Action.",
+    "id": 433
+  },
+  {
+    "name": "Furious Furor",
+    "cost": 1,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Furious_Furor.jpg",
+    "ability": "Target Creature has +2 ATK this turn for each Flooped Creature you control.",
+    "id": 434
+  },
+  {
+    "name": "Log Rhythm",
+    "cost": 1,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Log_Rhythm.jpg",
+    "ability": "Each Creature you control with a Building on its Landscape has +2 ATK this turn.",
+    "id": 435
+  },
+  {
+    "name": "Harvest Moon",
+    "cost": 2,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Harvest_Moon.jpg",
+    "ability": "Put a Building from your discard pile into play.",
+    "id": 436
+  },
+  {
+    "name": "Deforestation",
+    "cost": 2,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Deforestation.jpg",
+    "ability": "Additional Cost: Floop a Creature you control. Search your deck for a Building and put it into play. Then shuffle your deck.",
+    "id": 437
+  },
+  {
+    "name": "Staff of Frailty",
+    "cost": 1,
+    "landscape": 2,
+    "type": 1,
+    "imageurl": "Staff_of_Frailty.jpg",
+    "ability": "Add Damage to target Creature until it has 1 DEF remaining.",
+    "id": 438
+  },
+  {
+    "name": "Water Logged",
+    "cost": 1,
+    "landscape": 2,
+    "type": 1,
+    "imageurl": "Water_Logged.jpg",
+    "ability": "Opposing Creatures have -2 ATK this turn (min 0).",
+    "id": 439
+  },
+  {
+    "name": "Bail Out",
+    "cost": 1,
+    "landscape": 3,
+    "type": 1,
+    "imageurl": "Bail_Out.jpg",
+    "ability": "Put target Creature you own into your hand, and then play it for free.",
+    "id": 440
+  },
+  {
+    "name": "Scorching Serve",
+    "cost": 1,
+    "landscape": 3,
+    "type": 1,
+    "imageurl": "Scorching_Serve.jpg",
+    "ability": "Destroy target opposing Creature. Each opponent draws cards equal to that Creature's cost.",
+    "id": 441
+  },
+  {
+    "name": "Clone",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Clone.jpg",
+    "ability": "Play your next Creature or Building for free if a Creature or Building with that name is in play.",
+    "id": 442
+  },
+  {
+    "name": "Extreme High Five",
+    "cost": 1,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Extreme_High_Five.jpg",
+    "ability": "Heal or deal 1 Damage to target Creature. After playing this, you may put it into your Teammate's hand.",
+    "id": 443
+  },
+  {
+    "name": "Royal Revelry",
+    "cost": 1,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Royal_Revelry.jpg",
+    "ability": "If target Creature you control deals 1 or more Damage to an opponent this turn, deal 2 damage to that opponent. After playing this, you may put it into your Teammate's hand.",
+    "id": 444
+  },
+  {
+    "name": "Family Gathering",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Family_Gathering.jpg",
+    "ability": "Choose another player and a Landscape you control. Draw a card for each of their Creatures that match that Landscape.",
+    "id": 445
+  },
+  {
+    "name": "Enchanted Celebration",
+    "cost": 1,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Enchanted_Celebration.jpg",
+    "ability": "Move target Creature to an adjacent empty Landscape its controller controls. After playing this, you may put it into your Teammate's hand.",
+    "id": 446
+  },
+  {
+    "name": "Tandem Bike",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Tandem_Bike.jpg",
+    "ability": "Choose a Creature you control and put it into its owner's hand. Then choose another player. That player chooses a Creature they control and put it into its owners hand.",
+    "id": 447
+  },
+  {
+    "name": "Firm Handshake",
+    "cost": 2,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Firm_Handshake.jpg",
+    "ability": "Deal 5 Damage to yourself and target opponent.",
+    "id": 448
+  },
+  {
+    "name": "Beach Blast",
+    "cost": 1,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Beach_Blast.jpg",
+    "ability": "Reveal the top 3 cards of your deck. Draw 1 card and discard the rest. After playing this, you may put it into your Teammate's hand.",
+    "id": 449
+  },
+  {
+    "name": "Duet",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Duet.jpg",
+    "ability": "Heal 1 Damage from a Creature you control and 1 Damage from a Creature you do not control.",
+    "id": 450
+  },
+  {
+    "name": "Twinsies",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Twinsies.jpg",
+    "ability": "Draw a card and reveal it. Another target player then reveals the top card of their deck. If their costs match, the targeted player draws it.",
+    "id": 451
+  },
+  {
+    "name": "Matchy Matchy",
+    "cost": 1,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Matchy_Matchy.jpg",
+    "ability": "Discard the top 2 cards of your deck. If they have the same cost, deal Damage equal to their combined cost to target opponent. After playing this, you may put it into your Teammate's hand.",
+    "id": 452
+  },
+  {
+    "name": "Jinx",
+    "cost": 0,
+    "landscape": 6,
+    "type": 1,
+    "imageurl": "Jinx.jpg",
+    "ability": "Choose two players. Each reveals a random card from their hand. If their costs don't match they discard those cards.",
+    "id": 453
+  },
+  {
+    "name": "Convey Wisdom",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Convey_Wisdom.jpg",
+    "ability": "Look at the top 4 cards of target player's deck and put them back in any order. Then draw a card.",
+    "id": 454
+  },
+  {
+    "name": "Redirect Danger",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Redirect_Danger.jpg",
+    "ability": "Move up to 3 Damage on a Creature you control to target opposing Creature in its Lane.",
+    "id": 455
+  },
+  {
+    "name": "Bale Out",
+    "cost": 1,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Bale_Out.jpg",
+    "ability": "When target Creature attacks this turn, if it would leave play during the Fight Phase, remove all Damage from it instead.",
+    "id": 456
+  },
+  {
+    "name": "Infinite Haymaker",
+    "cost": 1,
+    "landscape": 1,
+    "type": 1,
+    "imageurl": "Infinite_Haymaker.jpg",
+    "ability": "Deal damage to yourself equal to target Creature's remaining DEF, then destroy it.",
+    "id": 457
+  },
+  {
+    "name": "Bomb Pop",
+    "cost": 1,
+    "landscape": 5,
+    "type": 1,
+    "imageurl": "Bomb_Pop.jpg",
+    "ability": "Destroy target Creature on a Landscape with a Frozen token on it.",
+    "id": 458
+  },
+  {
+    "name": "Frozen Lemon Aid",
+    "cost": 1,
+    "landscape": 5,
+    "type": 1,
+    "imageurl": "Frozen_Lemon_Aid.jpg",
+    "ability": "Count the number of Landscapes with Frozen tokens. Heal 1 damage from that many friendly Creatures.",
+    "id": 459
+  },
+  {
+    "name": "Ice Sing",
+    "cost": 1,
+    "landscape": 5,
+    "type": 1,
+    "imageurl": "Ice_Sing.jpg",
+    "ability": "Freeze 1 of each player's target Landscapes an then draw a card.",
+    "id": 460
+  },
+  {
+    "name": "Slushie Salvo",
+    "cost": 1,
+    "landscape": 5,
+    "type": 1,
+    "imageurl": "Slushie_Salvo.jpg",
+    "ability": "Freeze target Landscape. You may move any number of Frozen tokens to new Landscapes (1 token per Landscape).",
+    "id": 461
+  },
+  {
+    "name": "Cuddle Puddle",
+    "cost": 1,
+    "landscape": 4,
+    "type": 1,
+    "imageurl": "Cuddle_Puddle.jpg",
+    "ability": "Friendly Creatures have +1 ATK until the start of the Fight Phase. Then each Creature deals Damage equal to its ATK to the opposing Creature in its Lane.",
+    "id": 462
+  },
+  {
+    "name": "Hug It Out",
+    "cost": 1,
+    "landscape": 4,
+    "type": 1,
+    "imageurl": "Hug_It_Out.jpg",
+    "ability": "Destroy target Creature you control, and then destroy target opposing Creature in its Lane.",
+    "id": 463
+  },
+  {
+    "name": "Patchwork",
+    "cost": 1,
+    "landscape": 4,
+    "type": 1,
+    "imageurl": "Patchwork.jpg",
+    "ability": "Redistribute the Damage oon Creatures you control (no Creature can have more Damage than DEF).",
+    "id": 464
+  },
+  {
+    "name": "Stuffed",
+    "cost": 1,
+    "landscape": 4,
+    "type": 1,
+    "imageurl": "Stuffed.jpg",
+    "ability": "Choose a Creature you control and deal Damage to it equal to its ATK, and then double its ATK this turn.",
+    "id": 465
+  }
+]
