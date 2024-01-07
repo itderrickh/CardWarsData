@@ -32,7 +32,8 @@
     "ability": "While Angel Heart has exactly 3 Damage on it, it has +3 ATK.",
     "attack": 0,
     "defense": 7,
-    "id": 49
+    "id": 49,
+    "set": 2
   },
   {
     "name": "Angel of Chocolate",
@@ -115,7 +116,8 @@
     "ability": "FLOOP >>> Flip target face down Landscape you control face up.",
     "attack": 1,
     "defense": 4,
-    "id": 56
+    "id": 56,
+    "set": 0
   },
   {
     "name": "Black Paladin",
@@ -138,7 +140,8 @@
     "ability": "",
     "attack": 3,
     "defense": 9,
-    "id": 58
+    "id": 58,
+    "set": 1
   },
   {
     "name": "Blue Gnome",
@@ -365,7 +368,8 @@
     "ability": "",
     "attack": 1,
     "defense": 5,
-    "id": 77
+    "id": 77,
+    "set": 2
   },
   {
     "name": "Cowsper",
@@ -412,7 +416,8 @@
     "ability": "Davey Bones has +2 ATK while defending against a Creature that is on a SandyLands Landscape.",
     "attack": 1,
     "defense": 4,
-    "id": 81
+    "id": 81,
+    "set": 8
   },
   {
     "name": "Diamond Dan",
@@ -447,7 +452,8 @@
     "ability": "Discard a card >>> Dogboy has +2 ATK this turn. (Use only once during each of your turns.)",
     "attack": 0,
     "defense": 5,
-    "id": 84
+    "id": 84,
+    "set": 2
   },
   {
     "name": "Dr. Death",
@@ -494,7 +500,8 @@
     "ability": "",
     "attack": 3,
     "defense": 9,
-    "id": 88
+    "id": 88,
+    "set": 0
   },
   {
     "name": "Embarrassing Bard",
@@ -529,7 +536,8 @@
     "ability": "",
     "attack": 1,
     "defense": 5,
-    "id": 91
+    "id": 91,
+    "set": 0
   },
   {
     "name": "Extraordinary Spider",
@@ -660,7 +668,8 @@
     "ability": "Ghost has +2 ATK while defending against a Creature that is on a Useless Swamp Landscape.",
     "attack": 1,
     "defense": 4,
-    "id": 102
+    "id": 102,
+    "set": 8
   },
   {
     "name": "Ghost Chest Burster",
@@ -683,7 +692,8 @@
     "ability": "Ghost Hag has +2 ATK while defending against a Creature that is on a Blue Plains Landscape.",
     "attack": 1,
     "defense": 4,
-    "id": 104
+    "id": 104,
+    "set": 8
   },
   {
     "name": "Ghost Ninja",
@@ -706,7 +716,8 @@
     "ability": "Ghost Tree has +2 ATK while defending against a Creature that is on a Cornfield Landscape.",
     "attack": 1,
     "defense": 4,
-    "id": 106
+    "id": 106,
+    "set": 8
   },
   {
     "name": "Giant Mummy Hand",
@@ -729,7 +740,8 @@
     "ability": "When Goat enters play, if it replaced a Creature, draw a card.",
     "attack": 1,
     "defense": 4,
-    "id": 108
+    "id": 108,
+    "set": 2
   },
   {
     "name": "Gold Ninja",
@@ -1098,7 +1110,8 @@
     "ability": "At the start of your turn, you may return Ms. Mummy to its owner's hand. If you do, target SandyLand Creature you control gains 1 DEF.",
     "attack": 1,
     "defense": 4,
-    "id": 139
+    "id": 139,
+    "set": 1
   },
   {
     "name": "Nice Ice Baby",
@@ -1109,7 +1122,8 @@
     "ability": "+3 ATK while your opponent does not control a Creature in this Lane.",
     "attack": 1,
     "defense": 2,
-    "id": 140
+    "id": 140,
+    "set": 0
   },
   {
     "name": "Niceasaurus Rex",
@@ -1180,7 +1194,8 @@
     "ability": "When a SandyLand Creature enters play under your control, Peach Djinni has +1 ATK this turn.",
     "attack": 0,
     "defense": 6,
-    "id": 146
+    "id": 146,
+    "set": 1
   },
   {
     "name": "Pentacutie",
@@ -1203,7 +1218,8 @@
     "ability": "",
     "attack": 2,
     "defense": 7,
-    "id": 148
+    "id": 148,
+    "set": 0
   },
   {
     "name": "Pickler",
@@ -1298,7 +1314,8 @@
     "ability": "At the start of your turn, deal 2 Damage to each opponent with 4 or more cards in hand.",
     "attack": 0,
     "defense": 6,
-    "id": 156
+    "id": 156,
+    "set": 8
   },
   {
     "name": "Rainbow Eyebat",
@@ -1333,7 +1350,8 @@
     "ability": "Rocktopus has +1 ATK while attacking a Creature that is on a SandyLands Landscape.",
     "attack": 3,
     "defense": 6,
-    "id": 159
+    "id": 159,
+    "set": 8
   },
   {
     "name": "Sack of Pain",
@@ -1356,7 +1374,8 @@
     "ability": "",
     "attack": 1,
     "defense": 5,
-    "id": 161
+    "id": 161,
+    "set": 1
   },
   {
     "name": "Sand Eyebat",
@@ -1451,7 +1470,8 @@
     "ability": "Sea Hag has +1 ATK while attacking a Creature that is on a Useless Swamp Landscape.",
     "attack": 3,
     "defense": 6,
-    "id": 169
+    "id": 169,
+    "set": 8
   },
   {
     "name": "Shark",
@@ -1606,7 +1626,8 @@
     "ability": "FLOOP >>> Flip target Cornfield Landscape in this Lane face down.",
     "attack": 1,
     "defense": 4,
-    "id": 182
+    "id": 182,
+    "set": 0
   },
   {
     "name": "The Sludger",
@@ -1629,7 +1650,8 @@
     "ability": "Timmy Magic Eyes has +1 ATK while attacking a Creature that is on a Blue Plains Landscape.",
     "attack": 3,
     "defense": 6,
-    "id": 184
+    "id": 184,
+    "set": 8
   },
   {
     "name": "Travelin' Farmer",
@@ -1736,7 +1758,8 @@
     "ability": "At the start of your turn, put the top card of your deck into your discard pile.",
     "attack": 0,
     "defense": 10,
-    "id": 193
+    "id": 193,
+    "set": 1
   },
   {
     "name": "Well-Dressed Wolf",
@@ -1747,7 +1770,8 @@
     "ability": "Well-Dressed Wolf has +1 ATK while attacking a Creature that is on a Cornfield Landscape.",
     "attack": 3,
     "defense": 6,
-    "id": 194
+    "id": 194,
+    "set": 8
   },
   {
     "name": "Woadic Chief",
@@ -1986,7 +2010,8 @@
     "ability": "Furious Chick has +1 ATK for each Damage on it.",
     "attack": 0,
     "defense": 5,
-    "id": 214
+    "id": 214,
+    "set": 3
   },
   {
     "name": "Furious Hen",
@@ -2129,7 +2154,8 @@
     "ability": "",
     "attack": 3,
     "defense": 1,
-    "id": 226
+    "id": 226,
+    "set": 3
   },
   {
     "name": "Sprucy Lucy",
@@ -2284,7 +2310,8 @@
     "ability": "When Static Parrotrooper enters play, move it to any empty Landscape. It cannot be replaced. At the start of your turn, deal 1 Damage to your Hero.",
     "attack": 0,
     "defense": 6,
-    "id": 239
+    "id": 239,
+    "set": 4
   },
   {
     "name": "Jinxed Parrotrooper",
@@ -2295,7 +2322,8 @@
     "ability": "When Jinxed Parrotrooper enters play, move it to any empty Landscape. It cannot be replaced. At the start of your turn, discard a card.",
     "attack": 1,
     "defense": 5,
-    "id": 240
+    "id": 240,
+    "set": 4
   },
   {
     "name": "Fancy Zebracorn",
@@ -2378,7 +2406,8 @@
     "ability": "When Icy Infiltrator enters play, Freeze its Landscape.",
     "attack": 1,
     "defense": 5,
-    "id": 247
+    "id": 247,
+    "set": 4
   },
   {
     "name": "Icy Commando",
@@ -2485,7 +2514,8 @@
     "ability": "When Dragoon Parrotrooper enters play, move it to an empty Landscape. It cannot be replaced. Ajacent Creatures have -1 ATK.",
     "attack": 1,
     "defense": 8,
-    "id": 256
+    "id": 256,
+    "set": 4
   },
   {
     "name": "Husky Parrotrooper",
@@ -2496,7 +2526,8 @@
     "ability": "When Husky Parrotrooper enters play, move it to an empty Landscape, and then flip that Landscape face down.",
     "attack": 2,
     "defense": 4,
-    "id": 257
+    "id": 257,
+    "set": 4
   },
   {
     "name": "TNTimmy",
@@ -2507,7 +2538,8 @@
     "ability": "When TNTimmy leaves play, deal 1 Damage to each opposing Creature.",
     "attack": 0,
     "defense": 5,
-    "id": 258
+    "id": 258,
+    "set": 4
   },
   {
     "name": "The Dog",
@@ -2518,7 +2550,8 @@
     "ability": "FLOOP >>> Opposing Buildings in this Lane are blank while The Dog is Flooped.",
     "attack": 1,
     "defense": 7,
-    "id": 259
+    "id": 259,
+    "set": 5
   },
   {
     "name": "Lonely Panda",
@@ -2625,7 +2658,8 @@
     "ability": "When Vampire Lord deals damage, heal that much Damage from him.",
     "attack": 1,
     "defense": 8,
-    "id": 268
+    "id": 268,
+    "set": 5
   },
   {
     "name": "Emboldened Retriever",
@@ -2696,7 +2730,8 @@
     "ability": "FLOOP >>> Return a Building from your discard pile to your hand.",
     "attack": 1,
     "defense": 4,
-    "id": 274
+    "id": 274,
+    "set": 5
   },
   {
     "name": "Hunkclops",
@@ -2707,7 +2742,8 @@
     "ability": "",
     "attack": 3,
     "defense": 3,
-    "id": 275
+    "id": 275,
+    "set": 5
   },
   {
     "name": "Husker Champion",
@@ -2862,7 +2898,8 @@
     "ability": "",
     "attack": 1,
     "defense": 5,
-    "id": 288
+    "id": 288,
+    "set": 5
   },
   {
     "name": "FumiGator",
@@ -3076,7 +3113,8 @@
     "ability": "",
     "attack": 2,
     "defense": 3,
-    "id": 306
+    "id": 306,
+    "set": 6
   },
   {
     "name": "The Barrel",
@@ -3087,7 +3125,8 @@
     "ability": "Each The Barrel has +1 ATK and +1 DEF for each other The Barrel in play.",
     "attack": 1,
     "defense": 5,
-    "id": 307
+    "id": 307,
+    "set": 6
   },
   {
     "name": "Aeromancer",

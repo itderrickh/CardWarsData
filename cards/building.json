@@ -6,7 +6,8 @@
     "type": 2,
     "imageurl": "Blood_Fortress.jpg",
     "ability": "Your Creature in this Lane has +1 ATK.",
-    "id": 466
+    "id": 466,
+    "set": 0
   },
   {
     "name": "Cave of Solitude",
@@ -25,7 +26,8 @@
     "type": 2,
     "imageurl": "Celestial_Castle.jpg",
     "ability": "Your Creature in this Lane has +3 DEF.",
-    "id": 468
+    "id": 468,
+    "set": 0
   },
   {
     "name": "Elf Hut",
@@ -44,7 +46,8 @@
     "type": 2,
     "imageurl": "Fountain_of_Tears.jpg",
     "ability": "While your Creature in this Lane has exactly 3 Damage on it, it has +3 ATK.",
-    "id": 470
+    "id": 470,
+    "set": 8
   },
   {
     "name": "Fright Tower",
@@ -330,7 +333,8 @@
     "type": 2,
     "imageurl": "Parrotmilitary_Outpost.jpg",
     "ability": "Each Creature in this Lane has -1 ATK (min 0).",
-    "id": 499
+    "id": 499,
+    "set": 4
   },
   {
     "name": "Floating Ice Palace",
@@ -349,7 +353,8 @@
     "type": 2,
     "imageurl": "Snow_Training_Camp.jpg",
     "ability": "FLOOP >> Freeze both Landscapes in this Lane. Use only if no Frozen tokens are in play.",
-    "id": 501
+    "id": 501,
+    "set": 4
   },
   {
     "name": "Fancy Spa",
@@ -368,7 +373,8 @@
     "type": 2,
     "imageurl": "Weary_Trading_Post.jpg",
     "ability": "FLOOP >>> Move an exhausted Creature you control to this Landscape (if empty).",
-    "id": 503
+    "id": 503,
+    "set": 4
   },
   {
     "name": "Lunchpad",
@@ -407,7 +413,8 @@
     "type": 2,
     "imageurl": "Blood_Castle.jpg",
     "ability": "Each time an opposing Creature in this Lane takes Damage, increase the amount by 1.",
-    "id": 507
+    "id": 507,
+    "set": 5
   },
   {
     "name": "Farmhouse",
@@ -446,7 +453,8 @@
     "type": 2,
     "imageurl": "Celestial_Fortress.jpg",
     "ability": "The opposing Creature in this Lane has -2 DEF.",
-    "id": 511
+    "id": 511,
+    "set": 5
   },
   {
     "name": "Bayou Fountain",

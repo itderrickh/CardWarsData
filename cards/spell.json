@@ -26,7 +26,8 @@
     "type": 1,
     "imageurl": "Bone_Wand.jpg",
     "ability": "Play only if you control a Useless Swamp Creature. Target opponent discards a card from his hand.",
-    "id": 350
+    "id": 350,
+    "set": 1
   },
   {
     "name": "Brief Power",
@@ -35,7 +36,8 @@
     "type": 1,
     "imageurl": "Brief_Power.jpg",
     "ability": "Target Useless Swamp Creature you control has +2 ATK this turn.",
-    "id": 351
+    "id": 351,
+    "set": 2
   },
   {
     "name": "Cerebral Bloodstorm",
@@ -44,7 +46,8 @@
     "type": 1,
     "imageurl": "Cerebral_Bloodstorm.jpg",
     "ability": "Deal 1 Damage to each opposing Creature.",
-    "id": 352
+    "id": 352,
+    "set": 0
   },
   {
     "name": "Confectionary Ring",
@@ -63,7 +66,8 @@
     "type": 1,
     "imageurl": "Corn_Scepter.jpg",
     "ability": "Deal 1 Damage to target Creature for each Cornfield Landscape you control.",
-    "id": 354
+    "id": 354,
+    "set": 0
   },
   {
     "name": "Cross Pollination",
@@ -72,7 +76,8 @@
     "type": 1,
     "imageurl": "Cross_Pollination.jpg",
     "ability": "Each of your Cornfield Creatures has +1 ATK this turn for each different Landscape type you control.",
-    "id": 355
+    "id": 355,
+    "set": 0
   },
   {
     "name": "Falling Star",
@@ -101,7 +106,8 @@
     "type": 1,
     "imageurl": "Full_Metal_Racket.jpg",
     "ability": "Deal 2 Damage to target Creature.",
-    "id": 358
+    "id": 358,
+    "set": 8
   },
   {
     "name": "Gnome Snot",
@@ -130,7 +136,8 @@
     "type": 1,
     "imageurl": "Green_Candy.jpg",
     "ability": "Heal or deal 1 Damage to target Creature.",
-    "id": 361
+    "id": 361,
+    "set": 2
   },
   {
     "name": "Husker Amulet",
@@ -149,7 +156,8 @@
     "type": 1,
     "imageurl": "Incredible_Egg.jpg",
     "ability": "Reveal the top 2 cards of your deck. You may put a revealed Cornfield card into your hand. Discard the rest.",
-    "id": 363
+    "id": 363,
+    "set": 8
   },
   {
     "name": "Kung Fu Power",
@@ -198,7 +206,8 @@
     "type": 1,
     "imageurl": "Master_of_Disguise.jpg",
     "ability": "Each of your opponent's Creatures has -1 ATK this turn.",
-    "id": 368
+    "id": 368,
+    "set": 8
   },
   {
     "name": "Musical Chair",
@@ -207,7 +216,8 @@
     "type": 1,
     "imageurl": "Musical_Chair.jpg",
     "ability": "Swap up to 2 of your Landscapes with ones from outside of the game.",
-    "id": 369
+    "id": 369,
+    "set": 8
   },
   {
     "name": "Ogre Braces",
@@ -226,7 +236,8 @@
     "type": 1,
     "imageurl": "Ogre_Gas.jpg",
     "ability": "Reveal the top 3 cards of your deck. Put one of them on the bottom of your deck and discard the rest.",
-    "id": 371
+    "id": 371,
+    "set": 1
   },
   {
     "name": "Pants of Awesome",
@@ -325,7 +336,8 @@
     "type": 1,
     "imageurl": "Reclaim_Landscape.jpg",
     "ability": "You may flip one of your Landscapes face up, and you may move one of your Buildings to one of your Lanes without one.",
-    "id": 381
+    "id": 381,
+    "set": 0
   },
   {
     "name": "Ring of Damage",
@@ -334,7 +346,8 @@
     "type": 1,
     "imageurl": "Ring_of_Damage.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn.",
-    "id": 382
+    "id": 382,
+    "set": 8
   },
   {
     "name": "Ring of Fluffy",
@@ -383,7 +396,8 @@
     "type": 1,
     "imageurl": "Snake_Eye_Ring.jpg",
     "ability": "Return a random Useless Swamp Creature from your discard pile to your hand.",
-    "id": 387
+    "id": 387,
+    "set": 1
   },
   {
     "name": "Snake Eyes",
@@ -452,7 +466,8 @@
     "type": 1,
     "imageurl": "Teleport.jpg",
     "ability": "Move one of your Creatures to one of your empty Lanes.",
-    "id": 394
+    "id": 394,
+    "set": 0
   },
   {
     "name": "Toilet of Doom",
@@ -481,7 +496,8 @@
     "type": 1,
     "imageurl": "Unempty_Coffin.jpg",
     "ability": "Reduce the cost of the next Creature you play this turn by 2 Actions.",
-    "id": 397
+    "id": 397,
+    "set": 1
   },
   {
     "name": "Volcano",
@@ -490,7 +506,8 @@
     "type": 1,
     "imageurl": "Volcano.jpg",
     "ability": "Destroy target Building. You may deal 3 Damage to a Creature in that Lane. Flip your Landscape in that Lane face down.",
-    "id": 398
+    "id": 398,
+    "set": 2
   },
   {
     "name": "Witch Slap",
@@ -499,7 +516,8 @@
     "type": 1,
     "imageurl": "Witch_Slap.jpg",
     "ability": "Target opponent discards down to 5 cards, and then takes 1 Damage for each card discarded this way.",
-    "id": 399
+    "id": 399,
+    "set": 8
   },
   {
     "name": "Witch Way",
@@ -518,7 +536,8 @@
     "type": 1,
     "imageurl": "Woad_Blood.jpg",
     "ability": "Each Creature that changed Lanes this turn has +2 ATK this turn.",
-    "id": 401
+    "id": 401,
+    "set": 0
   },
   {
     "name": "Woad Talisman",
@@ -527,7 +546,8 @@
     "type": 1,
     "imageurl": "Woad_Talisman.jpg",
     "ability": "Target Blue Plains Creature you control has +2 ATK this turn.",
-    "id": 402
+    "id": 402,
+    "set": 0
   },
   {
     "name": "ZaZo's Magic Seeds",
@@ -536,7 +556,8 @@
     "type": 1,
     "imageurl": "ZaZo%27s_Magic_Seeds.jpg",
     "ability": "Target SandyLands Creature has +2 ATK this turn for each Creature that entered play into an adjacent Lane this turn.",
-    "id": 403
+    "id": 403,
+    "set": 1
   },
   {
     "name": "Black Hole Pendant",
@@ -545,7 +566,8 @@
     "type": 1,
     "imageurl": "Black_Hole_Pendant.jpg",
     "ability": "Target Creature has +X ATK this turn, where X is the number of different Landscape types your opponent controls.",
-    "id": 404
+    "id": 404,
+    "set": 3
   },
   {
     "name": "Blood Bath",
@@ -564,7 +586,8 @@
     "type": 1,
     "imageurl": "Blood_Transfusion.jpg",
     "ability": "Remove from game a card in any player's discard pile. Heal X Damage from target Creature, where X is the cost of the card removed this way.",
-    "id": 406
+    "id": 406,
+    "set": 3
   },
   {
     "name": "Bums Away!",
@@ -613,7 +636,8 @@
     "type": 1,
     "imageurl": "Frozen_Heart.jpg",
     "ability": "Deal 1 Damage to target Creature. If that Creature is on a Landscape with a Frozen token on it, deal 3 Damage instead.",
-    "id": 411
+    "id": 411,
+    "set": 3
   },
   {
     "name": "Pentaid",
@@ -642,7 +666,8 @@
     "type": 1,
     "imageurl": "Rock_Out%21.jpg",
     "ability": "Flip target Landscape face down until the start of your next turn.",
-    "id": 414
+    "id": 414,
+    "set": 4
   },
   {
     "name": "Amaizing Avalanche",
@@ -661,7 +686,8 @@
     "type": 1,
     "imageurl": "Drop_Zone.jpg",
     "ability": "Return target Creature you own to your hand.",
-    "id": 416
+    "id": 416,
+    "set": 4
   },
   {
     "name": "Ham Fist",
@@ -670,7 +696,8 @@
     "type": 1,
     "imageurl": "Ham_Fist.jpg",
     "ability": "Target Creature you control has -5 ATK this turn. Draw a card.",
-    "id": 417
+    "id": 417,
+    "set": 4
   },
   {
     "name": "Quick Pick Me Up",
@@ -699,7 +726,8 @@
     "type": 1,
     "imageurl": "Snowvalanche.jpg",
     "ability": "Deal 2 Damage to each opposing Creature on a Landscape with a Frozen token on it.",
-    "id": 420
+    "id": 420,
+    "set": 4
   },
   {
     "name": "Wake Up Call",
@@ -718,7 +746,8 @@
     "type": 1,
     "imageurl": "Spazzy_Cola.jpg",
     "ability": "Each Creature in play has +1 ATK this turn (including your opponent's Creatures).",
-    "id": 422
+    "id": 422,
+    "set": 4
   },
   {
     "name": "Tapped Out",
@@ -757,7 +786,8 @@
     "type": 1,
     "imageurl": "Cute_Overload.jpg",
     "ability": "Destroy any number of Creatures you control. Draw a card for each Creature destroyed this way.",
-    "id": 426
+    "id": 426,
+    "set": 4
   },
   {
     "name": "Friendship Bracelet",
@@ -766,7 +796,8 @@
     "type": 1,
     "imageurl": "Friendship_Bracelet.jpg",
     "ability": "Swap any amount of Damage between two Creatures you control.",
-    "id": 427
+    "id": 427,
+    "set": 5
   },
   {
     "name": "Singing Sword",
@@ -775,7 +806,8 @@
     "type": 1,
     "imageurl": "Singing_Sword.jpg",
     "ability": "Target Creature has +1 ATK this turn for every 2 cards you have drawn this turn.",
-    "id": 428
+    "id": 428,
+    "set": 5
   },
   {
     "name": "Sword Bouquet",
@@ -784,7 +816,8 @@
     "type": 1,
     "imageurl": "Sword_Bouquet.jpg",
     "ability": "Deal 1 Damage to target Creature for every card you have drawn this turn.",
-    "id": 429
+    "id": 429,
+    "set": 5
   },
   {
     "name": "Glorious Gramophone",
@@ -803,7 +836,8 @@
     "type": 1,
     "imageurl": "River_of_Swords.jpg",
     "ability": "Creatures you control have +2 ATK this turn. Draw 2 cards.",
-    "id": 431
+    "id": 431,
+    "set": 5
   },
   {
     "name": "Puppy Parade",
@@ -822,7 +856,8 @@
     "type": 1,
     "imageurl": "Void_Thimble.jpg",
     "ability": "Lose 2 Hit Points, gain 1 Action.",
-    "id": 433
+    "id": 433,
+    "set": 5
   },
   {
     "name": "Furious Furor",
@@ -911,7 +946,8 @@
     "type": 1,
     "imageurl": "Clone.jpg",
     "ability": "Play your next Creature or Building for free if a Creature or Building with that name is in play.",
-    "id": 442
+    "id": 442,
+    "set": 6
   },
   {
     "name": "Extreme High Five",
@@ -920,7 +956,8 @@
     "type": 1,
     "imageurl": "Extreme_High_Five.jpg",
     "ability": "Heal or deal 1 Damage to target Creature. After playing this, you may put it into your Teammate's hand.",
-    "id": 443
+    "id": 443,
+    "set": 6
   },
   {
     "name": "Royal Revelry",
@@ -929,7 +966,8 @@
     "type": 1,
     "imageurl": "Royal_Revelry.jpg",
     "ability": "If target Creature you control deals 1 or more Damage to an opponent this turn, deal 2 damage to that opponent. After playing this, you may put it into your Teammate's hand.",
-    "id": 444
+    "id": 444,
+    "set": 6
   },
   {
     "name": "Family Gathering",
@@ -938,7 +976,8 @@
     "type": 1,
     "imageurl": "Family_Gathering.jpg",
     "ability": "Choose another player and a Landscape you control. Draw a card for each of their Creatures that match that Landscape.",
-    "id": 445
+    "id": 445,
+    "set": 6
   },
   {
     "name": "Enchanted Celebration",
@@ -947,7 +986,8 @@
     "type": 1,
     "imageurl": "Enchanted_Celebration.jpg",
     "ability": "Move target Creature to an adjacent empty Landscape its controller controls. After playing this, you may put it into your Teammate's hand.",
-    "id": 446
+    "id": 446,
+    "set": 6
   },
   {
     "name": "Tandem Bike",
@@ -956,7 +996,8 @@
     "type": 1,
     "imageurl": "Tandem_Bike.jpg",
     "ability": "Choose a Creature you control and put it into its owner's hand. Then choose another player. That player chooses a Creature they control and put it into its owners hand.",
-    "id": 447
+    "id": 447,
+    "set": 6
   },
   {
     "name": "Firm Handshake",
@@ -965,7 +1006,8 @@
     "type": 1,
     "imageurl": "Firm_Handshake.jpg",
     "ability": "Deal 5 Damage to yourself and target opponent.",
-    "id": 448
+    "id": 448,
+    "set": 6
   },
   {
     "name": "Beach Blast",
@@ -974,7 +1016,8 @@
     "type": 1,
     "imageurl": "Beach_Blast.jpg",
     "ability": "Reveal the top 3 cards of your deck. Draw 1 card and discard the rest. After playing this, you may put it into your Teammate's hand.",
-    "id": 449
+    "id": 449,
+    "set": 6
   },
   {
     "name": "Duet",
@@ -983,7 +1026,8 @@
     "type": 1,
     "imageurl": "Duet.jpg",
     "ability": "Heal 1 Damage from a Creature you control and 1 Damage from a Creature you do not control.",
-    "id": 450
+    "id": 450,
+    "set": 6
   },
   {
     "name": "Twinsies",
@@ -992,7 +1036,8 @@
     "type": 1,
     "imageurl": "Twinsies.jpg",
     "ability": "Draw a card and reveal it. Another target player then reveals the top card of their deck. If their costs match, the targeted player draws it.",
-    "id": 451
+    "id": 451,
+    "set": 6
   },
   {
     "name": "Matchy Matchy",
@@ -1001,7 +1046,8 @@
     "type": 1,
     "imageurl": "Matchy_Matchy.jpg",
     "ability": "Discard the top 2 cards of your deck. If they have the same cost, deal Damage equal to their combined cost to target opponent. After playing this, you may put it into your Teammate's hand.",
-    "id": 452
+    "id": 452,
+    "set": 6
   },
   {
     "name": "Jinx",
@@ -1010,7 +1056,8 @@
     "type": 1,
     "imageurl": "Jinx.jpg",
     "ability": "Choose two players. Each reveals a random card from their hand. If their costs don't match they discard those cards.",
-    "id": 453
+    "id": 453,
+    "set": 6
   },
   {
     "name": "Convey Wisdom",
