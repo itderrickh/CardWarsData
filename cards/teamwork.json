@@ -6,7 +6,7 @@
         "cost": 2,
         "set": 6,
         "imageurl": "Camaraderie.jpg",
-        "id": 467
+        "id": 524
     },
     {
         "name": "Coordination",
@@ -15,7 +15,7 @@
         "cost": 1,
         "set": 6,
         "imageurl": "Coordination.jpg",
-        "id": 468
+        "id": 525
     },
     {
         "name": "Assistance",
@@ -24,7 +24,7 @@
         "cost": 1,
         "set": 6,
         "imageurl": "Assistance.jpg",
-        "id": 469
+        "id": 526
     },
     {
         "name": "Fellowship",
@@ -33,7 +33,7 @@
         "cost": 1,
         "set": 6,
         "imageurl": "Fellowship.jpg",
-        "id": 470
+        "id": 527
     },
     {
         "name": "Solidarity",
@@ -42,7 +42,7 @@
         "cost": 2,
         "set": 6,
         "imageurl": "Solidarity.jpg",
-        "id": 471
+        "id": 528
     },
     {
         "name": "Synchronization",
@@ -51,7 +51,7 @@
         "cost": 1,
         "set": 6,
         "imageurl": "Synchronization.jpg",
-        "id": 472
+        "id": 529
     },
     {
         "name": "Cooperation",
@@ -60,7 +60,7 @@
         "cost": 1,
         "set": 6,
         "imageurl": "Cooperation.jpg",
-        "id": 4673
+        "id": 530
     },
     {
         "name": "Contribution",
@@ -69,7 +69,7 @@
         "cost": 1,
         "set": 6,
         "imageurl": "Contribution.jpg",
-        "id": 474
+        "id": 531
     },
     {
         "name": "Collaboration",
@@ -78,7 +78,7 @@
         "cost": 1,
         "set": 6,
         "imageurl": "Collaboration.jpg",
-        "id": 475
+        "id": 532
     },
     {
         "name": "Communication",
@@ -87,6 +87,6 @@
         "cost": 1,
         "set": 6,
         "imageurl": "Communication.jpg",
-        "id": 476
+        "id": 533
     }
 ]
