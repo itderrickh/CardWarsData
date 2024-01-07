@@ -110,7 +110,8 @@
     "type": 1,
     "imageurl": "Gnome_Snot.jpg",
     "ability": "Draw 3 cards.",
-    "id": 359
+    "id": 359,
+    "set": 0
   },
   {
     "name": "Grape Butt",
@@ -157,7 +158,8 @@
     "type": 1,
     "imageurl": "Kung_Fu_Power.jpg",
     "ability": "Ready 1 Creature of each type you control. (The types are Cornfield, Rainbow, Useless Swamp, Blue Plains, NiceLands, and SandyLands.)",
-    "id": 364
+    "id": 364,
+    "set": 8
   },
   {
     "name": "Lucky Penny",
@@ -233,7 +235,8 @@
     "type": 1,
     "imageurl": "Pants_of_Awesome.jpg",
     "ability": "Move target Creature you control to an empty Blue Plains Landscape you control, and then draw a card.",
-    "id": 372
+    "id": 372,
+    "set": 2
   },
   {
     "name": "Piestorm",
@@ -252,7 +255,8 @@
     "type": 1,
     "imageurl": "Pink_Candy.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a SandyLands Landscape.",
-    "id": 374
+    "id": 374,
+    "set": 8
   },
   {
     "name": "Popcorn Power",
@@ -301,7 +305,8 @@
     "type": 1,
     "imageurl": "Puma_Paw.jpg",
     "ability": "Ready a Flooped Creature you control. It has +2 ATK this turn.",
-    "id": 379
+    "id": 379,
+    "set": 8
   },
   {
     "name": "Raise the Dead",
@@ -348,7 +353,8 @@
     "type": 1,
     "imageurl": "Ring_of_Third_Eye.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Cornfield Landscape.",
-    "id": 384
+    "id": 384,
+    "set": 8
   },
   {
     "name": "Scroll of Bad Breath",
@@ -396,7 +402,8 @@
     "type": 1,
     "imageurl": "Socks_of_Fortitude.jpg",
     "ability": "Ready each Creature that changed Lanes this turn. They each have +2 ATK this turn.",
-    "id": 389
+    "id": 389,
+    "set": 8
   },
   {
     "name": "Spell Warp",
@@ -405,7 +412,8 @@
     "type": 1,
     "imageurl": "Spell_Warp.jpg",
     "ability": "Swap the positions of 2 Creatures you control. (They change Lanes simultaneously.)",
-    "id": 390
+    "id": 390,
+    "set": 8
   },
   {
     "name": "Strength Crystal",
@@ -414,7 +422,8 @@
     "type": 1,
     "imageurl": "Strength_Crystal.jpg",
     "ability": "Target player draws five cards.",
-    "id": 391
+    "id": 391,
+    "set": 2
   },
   {
     "name": "Subliminal Strength",
@@ -423,7 +432,8 @@
     "type": 1,
     "imageurl": "Subliminal_Strength.jpg",
     "ability": "Target Creature you control has +2 ATK this turn for each Spell you played this turn (including this one).",
-    "id": 392
+    "id": 392,
+    "set": 2
   },
   {
     "name": "Tax Reduction",
@@ -432,7 +442,8 @@
     "type": 1,
     "imageurl": "Tax_Reduction.jpg",
     "ability": "You may move each of your Buildings to different Lanes you control. You may move each of your opponent's Buildings to different Lanes he controls.",
-    "id": 393
+    "id": 393,
+    "set": 8
   },
   {
     "name": "Teleport",
@@ -697,7 +708,8 @@
     "type": 1,
     "imageurl": "Wake_Up_Call.jpg",
     "ability": "Ready each Creature you control.",
-    "id": 421
+    "id": 421,
+    "set": 4
   },
   {
     "name": "Spazzy Cola",
@@ -715,7 +727,8 @@
     "type": 1,
     "imageurl": "Tapped_Out.jpg",
     "ability": "Target Creature you control has +2 ATK for each exhausted Creature you control (at the time you play this).",
-    "id": 423
+    "id": 423,
+    "set": 4
   },
   {
     "name": "Magenapping",
@@ -724,7 +737,8 @@
     "type": 1,
     "imageurl": "Magenapping.jpg",
     "ability": "Play only if you control one or fewer Creatures and have 15 or fewer Hit Points. Move target Creature to target empty Landscape you control.",
-    "id": 424
+    "id": 424,
+    "set": 4
   },
   {
     "name": "Free Fall",
@@ -779,7 +793,8 @@
     "type": 1,
     "imageurl": "Glorious_Gramophone.jpg",
     "ability": "Draw 4 cards, then discard 2 cards.",
-    "id": 430
+    "id": 430,
+    "set": 5
   },
   {
     "name": "River of Swords",
@@ -797,7 +812,8 @@
     "type": 1,
     "imageurl": "Puppy_Parade.jpg",
     "ability": "Heal 2 Damage from each Creature you control. Creatures you control lose their Landscape type and become Rainbow Creatures this turn.",
-    "id": 432
+    "id": 432,
+    "set": 5
   },
   {
     "name": "Void Thimble",
@@ -1003,7 +1019,8 @@
     "type": 1,
     "imageurl": "Convey_Wisdom.jpg",
     "ability": "Look at the top 4 cards of target player's deck and put them back in any order. Then draw a card.",
-    "id": 454
+    "id": 454,
+    "set": 6
   },
   {
     "name": "Redirect Danger",
@@ -1012,7 +1029,8 @@
     "type": 1,
     "imageurl": "Redirect_Danger.jpg",
     "ability": "Move up to 3 Damage on a Creature you control to target opposing Creature in its Lane.",
-    "id": 455
+    "id": 455,
+    "set": 6
   },
   {
     "name": "Bale Out",

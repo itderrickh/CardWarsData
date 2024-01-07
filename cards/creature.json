@@ -20,7 +20,8 @@
     "ability": "FLOOP >>> Return a random Rainbow card from your discard pile to your hand. If you control a Building in this Lane, gain 1 Action.",
     "attack": 1,
     "defense": 7,
-    "id": 48
+    "id": 48,
+    "set": 0
   },
   {
     "name": "Angel Heart",
@@ -148,7 +149,8 @@
     "ability": "FLOOP >>> Deal 1 Damage to each opposing Creture that is on a Useless Swamp Landscape.",
     "attack": 1,
     "defense": 6,
-    "id": 59
+    "id": 59,
+    "set": 8
   },
   {
     "name": "Blue Merlock",
@@ -171,7 +173,8 @@
     "ability": "Whenever you draw a card, Blue Ogre has +1 ATK this turn.",
     "attack": 1,
     "defense": 5,
-    "id": 61
+    "id": 61,
+    "set": 8
   },
   {
     "name": "Blue Slimey",
@@ -182,7 +185,8 @@
     "ability": "If you control 3 or more different Landscape types when Blue Slimey enters play, return a Creature in this Lane to its owner's hand.",
     "attack": 2,
     "defense": 6,
-    "id": 62
+    "id": 62,
+    "set": 8
   },
   {
     "name": "Blueberry Djini",
@@ -193,7 +197,8 @@
     "ability": "When Blueberry Djini enters play, if it replaced a Creature, draw two cards.",
     "attack": 2,
     "defense": 6,
-    "id": 63
+    "id": 63,
+    "set": 2
   },
   {
     "name": "Blueberry Pieclops",
@@ -204,7 +209,8 @@
     "ability": "Blueberry Pieclops costs 1 less to play for each Spell you have played this turn.",
     "attack": 5,
     "defense": 6,
-    "id": 64
+    "id": 64,
+    "set": 8
   },
   {
     "name": "Brain Gooey",
@@ -215,7 +221,8 @@
     "ability": "When Brain Gooey enters play, if it replaced a Creature, it has +2 ATK this turn.",
     "attack": 1,
     "defense": 7,
-    "id": 65
+    "id": 65,
+    "set": 2
   },
   {
     "name": "Cactus Thug",
@@ -262,7 +269,8 @@
     "ability": "Your Creatures on adjacent Lanes may not be Attacked.",
     "attack": 2,
     "defense": 7,
-    "id": 69
+    "id": 69,
+    "set": 0
   },
   {
     "name": "Corn Bat",
@@ -427,7 +435,8 @@
     "ability": "FLOOP >>> Pay 2 less to play your next Spell this turn.",
     "attack": 1,
     "defense": 6,
-    "id": 83
+    "id": 83,
+    "set": 8
   },
   {
     "name": "Dogboy",
@@ -461,7 +470,8 @@
     "ability": "FLOOP >>> Move a Creature you control to an empty Lane.",
     "attack": 1,
     "defense": 8,
-    "id": 86
+    "id": 86,
+    "set": 0
   },
   {
     "name": "Dragon Foot",
@@ -495,7 +505,8 @@
     "ability": "FLOOP >>> Draw a card for each Flooped Creature you control (including this one).",
     "attack": 1,
     "defense": 5,
-    "id": 89
+    "id": 89,
+    "set": 0
   },
   {
     "name": "Ethan Allfire",
@@ -637,7 +648,8 @@
     "ability": "When Future Scholar enters play, if it replaced a Creature, gain 1 Action.",
     "attack": 2,
     "defense": 8,
-    "id": 101
+    "id": 101,
+    "set": 2
   },
   {
     "name": "Ghost",
@@ -682,7 +694,8 @@
     "ability": "When Ghost Ninja deals Damage to an opposing player, that opponent can't play Spells during his next turn.",
     "attack": 2,
     "defense": 7,
-    "id": 105
+    "id": 105,
+    "set": 8
   },
   {
     "name": "Ghost Tree",
@@ -763,7 +776,8 @@
     "ability": "When Grape Djini enters play, if it replaced a Creature, you may put a card from your discard pile on top of your deck.",
     "attack": 1,
     "defense": 6,
-    "id": 112
+    "id": 112,
+    "set": 2
   },
   {
     "name": "Gray Eyebat",
@@ -858,7 +872,8 @@
     "ability": "When Headphone Jerk enters play, if it replaced a Creature, deal 3 Damage to another Creature in this Lane.",
     "attack": 2,
     "defense": 7,
-    "id": 120
+    "id": 120,
+    "set": 2
   },
   {
     "name": "Heavenly Gazer",
@@ -869,7 +884,8 @@
     "ability": "FLOOP >>> Put a Spell from your discard pile on top of your deck.",
     "attack": 2,
     "defense": 5,
-    "id": 121
+    "id": 121,
+    "set": 0
   },
   {
     "name": "Herculeye",
@@ -1000,7 +1016,8 @@
     "ability": "+1 DEF for each different Landscape type you control.",
     "attack": 4,
     "defense": 1,
-    "id": 132
+    "id": 132,
+    "set": 8
   },
   {
     "name": "Log Knight",
@@ -1139,7 +1156,8 @@
     "ability": "Each Creature that changed Lanes this turn has +3 ATK this turn. (Opposing Creatures do not benefit from this.)",
     "attack": 3,
     "defense": 7,
-    "id": 144
+    "id": 144,
+    "set": 8
   },
   {
     "name": "Patchy the Pumpkin",
@@ -1173,7 +1191,8 @@
     "ability": "Opponents can't play 0 cost cards.",
     "attack": 3,
     "defense": 8,
-    "id": 147
+    "id": 147,
+    "set": 8
   },
   {
     "name": "Phyllis",
@@ -1255,7 +1274,8 @@
     "ability": "When Psionic Architect enters play, you may ready a Flooped Creature you control.",
     "attack": 2,
     "defense": 6,
-    "id": 154
+    "id": 154,
+    "set": 0
   },
   {
     "name": "Punk Cat",
@@ -1266,7 +1286,8 @@
     "ability": "Each Creature that changed Lanes this turn has +2 ATK this turn.",
     "attack": 2,
     "defense": 6,
-    "id": 155
+    "id": 155,
+    "set": 0
   },
   {
     "name": "Quadurai",
@@ -1525,7 +1546,8 @@
     "ability": "+2 ATK for each Flooped Creature you control.",
     "attack": 1,
     "defense": 11,
-    "id": 177
+    "id": 177,
+    "set": 0
   },
   {
     "name": "Sun King",
@@ -1630,7 +1652,8 @@
     "ability": "FLOOP >>> Travelin' Skeleton and another Creature you control change Lands with each other.",
     "attack": 0,
     "defense": 8,
-    "id": 186
+    "id": 186,
+    "set": 2
   },
   {
     "name": "Travelin' Wizard",
@@ -1641,7 +1664,8 @@
     "ability": "When Travelin' Wizard enters play, the opposing Creature in this Lane and Travelin' Wizard switch sides.",
     "attack": 3,
     "defense": 3,
-    "id": 187
+    "id": 187,
+    "set": 8
   },
   {
     "name": "Tree of Undeath",
@@ -1664,7 +1688,8 @@
     "ability": "Pay 1 Action >>> Target Creature in this Lane has -10 ATK this turn.",
     "attack": 3,
     "defense": 4,
-    "id": 189
+    "id": 189,
+    "set": 0
   },
   {
     "name": "Wall of Chocolate",
@@ -1733,7 +1758,8 @@
     "ability": "Woadic Chief has +2 ATK this turn for each Spell you have played this turn.",
     "attack": 2,
     "defense": 10,
-    "id": 195
+    "id": 195,
+    "set": 0
   },
   {
     "name": "Woadic Marauder",
@@ -1744,7 +1770,8 @@
     "ability": "When Woadic Marauder changes Lanes during a turn, draw a card.",
     "attack": 3,
     "defense": 9,
-    "id": 196
+    "id": 196,
+    "set": 0
   },
   {
     "name": "X-Large Spirit Soldier",
@@ -1755,7 +1782,8 @@
     "ability": "Each adjacent Creature has +1 ATK.",
     "attack": 1,
     "defense": 9,
-    "id": 197
+    "id": 197,
+    "set": 0
   },
   {
     "name": "Yellow Gnome",
@@ -2385,7 +2413,8 @@
     "ability": "Destroy a Creature you control, FLOOP >>> Draw a card.",
     "attack": 2,
     "defense": 6,
-    "id": 250
+    "id": 250,
+    "set": 4
   },
   {
     "name": "Tired Wombat",
@@ -2396,7 +2425,8 @@
     "ability": "At the start of your turn, move Tired Wombat to an empty Landscape you control. If you cannot, move it to an empty Landscape your opponent controls.",
     "attack": 4,
     "defense": 5,
-    "id": 251
+    "id": 251,
+    "set": 4
   },
   {
     "name": "Fatigued Librarian",
@@ -2407,7 +2437,8 @@
     "ability": "Fatigued Librarian comes into play exhausted and does not ready at the start of your turn. Whenever Fatigued Librarian changes Lanes, ready it.",
     "attack": 3,
     "defense": 4,
-    "id": 252
+    "id": 252,
+    "set": 4
   },
   {
     "name": "Woadic Ring Leader",
@@ -2418,7 +2449,8 @@
     "ability": "At the start of your turn, move Woadic Ring Leader to an empty Landscape you control. If you cannot, destroy it.",
     "attack": 3,
     "defense": 4,
-    "id": 253
+    "id": 253,
+    "set": 4
   },
   {
     "name": "Weakened Warrior",
@@ -2429,7 +2461,8 @@
     "ability": "Weakened Warrior comes into play exhausted and does not ready at the start of your turn. Whenever Weakened Warrior changes Lanes, ready it.",
     "attack": 5,
     "defense": 6,
-    "id": 254
+    "id": 254,
+    "set": 4
   },
   {
     "name": "Drained Cleric",
@@ -2440,7 +2473,8 @@
     "ability": "At the start of your turn, move Drained Cleric to an empty Landscape you control. If you cannot, discard a card.",
     "attack": 3,
     "defense": 5,
-    "id": 255
+    "id": 255,
+    "set": 4
   },
   {
     "name": "Dragoon Parrotrooper",
@@ -2495,7 +2529,8 @@
     "ability": "When Lonely Panda enters play, if you control no other Creatures, draw a card.",
     "attack": 1,
     "defense": 8,
-    "id": 260
+    "id": 260,
+    "set": 5
   },
   {
     "name": "Infant Scholar",
@@ -2506,7 +2541,8 @@
     "ability": "If you played one or more Rainbow cards this turn, Infant Scholar has +3 ATK this turn.",
     "attack": 1,
     "defense": 6,
-    "id": 261
+    "id": 261,
+    "set": 5
   },
   {
     "name": "Tiny Elephant",
@@ -2517,7 +2553,8 @@
     "ability": "While in play, Tiny Elephant is also a Rainbow Creature. (In addition to Blue Plains.)",
     "attack": 2,
     "defense": 6,
-    "id": 262
+    "id": 262,
+    "set": 5
   },
   {
     "name": "Woadic Matriarch",
@@ -2528,7 +2565,8 @@
     "ability": "Woadic Matriarch has +1 ATK for each Rainbow Creature you control.",
     "attack": 1,
     "defense": 7,
-    "id": 263
+    "id": 263,
+    "set": 5
   },
   {
     "name": "Psionic Swashbuckler",
@@ -2539,7 +2577,8 @@
     "ability": "When Psionic Swashbuckler enters play, you may deal 3 Damage to target Flooped Creature.",
     "attack": 2,
     "defense": 6,
-    "id": 264
+    "id": 264,
+    "set": 5
   },
   {
     "name": "Business Dog",
@@ -2550,7 +2589,8 @@
     "ability": "Business Dog has +2 ATK this turn for each card you have played with \"Dog\" or \"Puppy\" in its title this turn.",
     "attack": 1,
     "defense": 6,
-    "id": 265
+    "id": 265,
+    "set": 5
   },
   {
     "name": "Fiddling Ferret",
@@ -2561,7 +2601,8 @@
     "ability": "FLOOP >>> Draw a card, and then discard a card. If you discard a Rainbow card this way, gain 1 Action.",
     "attack": 1,
     "defense": 6,
-    "id": 266
+    "id": 266,
+    "set": 5
   },
   {
     "name": "Woadic Weirdo",
@@ -2572,7 +2613,8 @@
     "ability": "FLOOP >>> Reveal a card from your hand. That card becomes a Rainbow card until the end of your turn. (It has no Landscape type.)",
     "attack": 1,
     "defense": 7,
-    "id": 267
+    "id": 267,
+    "set": 5
   },
   {
     "name": "Vampire Lord",
@@ -2594,7 +2636,8 @@
     "ability": "Each time Emboldened Retriever attacks, you may draw a card.",
     "attack": 2,
     "defense": 7,
-    "id": 269
+    "id": 269,
+    "set": 5
   },
   {
     "name": "Crazy Cat Lady",
@@ -2605,7 +2648,8 @@
     "ability": "Rainbow Creatures you control have +1 ATK.",
     "attack": 1,
     "defense": 10,
-    "id": 270
+    "id": 270,
+    "set": 5
   },
   {
     "name": "Impossible Possum",
@@ -2616,7 +2660,8 @@
     "ability": "When this card is placed into your discard pile from anywhere, you may discard a card from your hand to return Impossible Possum to your hand.",
     "attack": 2,
     "defense": 8,
-    "id": 271
+    "id": 271,
+    "set": 5
   },
   {
     "name": "Woadic Enchantress",
@@ -2627,7 +2672,8 @@
     "ability": "Creatures in this Land cannot use Floop abilities.",
     "attack": 2,
     "defense": 10,
-    "id": 272
+    "id": 272,
+    "set": 5
   },
   {
     "name": "Lumbercaddy",
@@ -3052,7 +3098,8 @@
     "ability": "When Aeromancer enters play, you may swap the positions of 2 Creatures target player controls.",
     "attack": 3,
     "defense": 5,
-    "id": 308
+    "id": 308,
+    "set": 6
   },
   {
     "name": "Biomancer",
@@ -3063,7 +3110,8 @@
     "ability": "Each time a Creature you control changes Lanes, heal 2 Damage from Biomancer.",
     "attack": 1,
     "defense": 8,
-    "id": 309
+    "id": 309,
+    "set": 6
   },
   {
     "name": "Chronomancer",
@@ -3074,7 +3122,8 @@
     "ability": "Each time Chronomancer changes Lanes, gain 1 Action.",
     "attack": 3,
     "defense": 6,
-    "id": 310
+    "id": 310,
+    "set": 6
   },
   {
     "name": "Geomancer",
@@ -3085,7 +3134,8 @@
     "ability": "At the start of your turn, you may move Geomancer to an empty Landscape you control.",
     "attack": 2,
     "defense": 6,
-    "id": 311
+    "id": 311,
+    "set": 6
   },
   {
     "name": "Hydromancer",
@@ -3096,7 +3146,8 @@
     "ability": "When Hydromancer enters into play, you may reveal cards from the top of your deck until you reveal a Teamwork, and then play it for free. Shuffle the other revealed cards into your deck.",
     "attack": 3,
     "defense": 6,
-    "id": 312
+    "id": 312,
+    "set": 6
   },
   {
     "name": "Necromancer",
@@ -3107,7 +3158,8 @@
     "ability": "Each time a Creature you control leaves play, you may move Necromancer to that Creature's empty Landscape.",
     "attack": 1,
     "defense": 8,
-    "id": 313
+    "id": 313,
+    "set": 6
   },
   {
     "name": "Pyromancer",
@@ -3118,7 +3170,8 @@
     "ability": "Each time Pyromancer enters a Landscape you may deal 2 Damage to that target Creature in that Lane. Pay 1 Action >>> Move Pyromancer to an empty Landscape you control.",
     "attack": 0,
     "defense": 8,
-    "id": 314
+    "id": 314,
+    "set": 6
   },
   {
     "name": "Robomancer",
@@ -3129,7 +3182,8 @@
     "ability": "+1 ATK for each Creature that changed Lanes during your turn.",
     "attack": 2,
     "defense": 7,
-    "id": 315
+    "id": 315,
+    "set": 6
   },
   {
     "name": "Feedman",

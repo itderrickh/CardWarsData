@@ -54,5 +54,29 @@
         "cost": 1,
         "set": 6,
         "imageurl": ""
+    },
+    {
+        "name": "Contribution",
+        "type": 5,
+        "landscape": 0,
+        "cost": 1,
+        "set": 6,
+        "imageurl": ""
+    },
+    {
+        "name": "Collaboration",
+        "type": 5,
+        "landscape": 6,
+        "cost": 1,
+        "set": 6,
+        "imageurl": ""
+    },
+    {
+        "name": "Communication",
+        "type": 5,
+        "landscape": 6,
+        "cost": 1,
+        "set": 6,
+        "imageurl": ""
     }
 ]

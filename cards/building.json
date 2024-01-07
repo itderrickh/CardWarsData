@@ -34,7 +34,8 @@
     "type": 2,
     "imageurl": "Elf_Hut.jpg",
     "ability": "Pay 1 Action >>> Draw a card for each Creature in this Lane.",
-    "id": 469
+    "id": 469,
+    "set": 8
   },
   {
     "name": "Fountain of Tears",
@@ -62,7 +63,8 @@
     "type": 2,
     "imageurl": "Igloo_of_Sanctuary.jpg",
     "ability": "FLOOP >>> If your Creature in this Lane moved here from another Lane this turn, it has +3 ATK this turn.",
-    "id": 472
+    "id": 472,
+    "set": 8
   },
   {
     "name": "Mausoleum",
@@ -111,7 +113,8 @@
     "type": 2,
     "imageurl": "Pyramidia.jpg",
     "ability": "FLOOP >>> If you control a Creature in this Lane, gain 1 Action. Use it only to play a Creature in this Lane.",
-    "id": 477
+    "id": 477,
+    "set": 2
   },
   {
     "name": "Sand Pyramid",
@@ -355,7 +358,8 @@
     "type": 2,
     "imageurl": "Fancy_Spa.jpg",
     "ability": "At the start of your Fight Phase, if you control an exhausted Creature on this Landscape, draw a card.",
-    "id": 502
+    "id": 502,
+    "set": 4
   },
   {
     "name": "Weary Trading Post",
@@ -383,7 +387,8 @@
     "type": 2,
     "imageurl": "Charming_City.jpg",
     "ability": "All Creatures in this Lane lose their Landscape type and become Rainbow Creatures.",
-    "id": 505
+    "id": 505,
+    "set": 5
   },
   {
     "name": "Learning Center",
@@ -392,7 +397,8 @@
     "type": 2,
     "imageurl": "Learning_Center.jpg",
     "ability": "Learning Center gains the game text of Buildings you control in adjacent Lanes (but not their names).",
-    "id": 506
+    "id": 506,
+    "set": 5
   },
   {
     "name": "Blood Castle",
@@ -430,7 +436,8 @@
     "type": 2,
     "imageurl": "Oil_Refinery.jpg",
     "ability": "Your Creature on this Landscape has +2 DEF for each Oil Refinery you control.",
-    "id": 510
+    "id": 510,
+    "set": 5
   },
   {
     "name": "Celestial Fortress",
@@ -488,7 +495,8 @@
     "type": 2,
     "imageurl": "Cloud_Tower.jpg",
     "ability": "Your Creature on this Landscape cannot be targeted by your foe's Spells or Creature abilities. FLOOP >>> Move a Creature you control to this Landscape.",
-    "id": 516
+    "id": 516,
+    "set": 6
   },
   {
     "name": "Domed Stronghold",
@@ -497,7 +505,8 @@
     "type": 2,
     "imageurl": "Domed_Stronghold.jpg",
     "ability": "Your Creature on this Landscape has +2 DEF and cannot be damaged by your foe's Spells.",
-    "id": 517
+    "id": 517,
+    "set": 6
   },
   {
     "name": "Haybarn",
