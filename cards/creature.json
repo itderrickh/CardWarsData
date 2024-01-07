@@ -1064,7 +1064,8 @@
     "ability": "When Lt. Mushroom leaves play during an opponent's turn, that opponent discards 3 cards.",
     "attack": 2,
     "defense": 3,
-    "id": 135
+    "id": 135,
+    "set": 8
   },
   {
     "name": "Mace Stump",
@@ -1075,7 +1076,8 @@
     "ability": "Destroy Mace Stump >>> Target opponent discards a card for every 5 cards in your discard pile.",
     "attack": 3,
     "defense": 3,
-    "id": 136
+    "id": 136,
+    "set": 1
   },
   {
     "name": "Mouthball",
