@@ -22,5 +22,21 @@
         "cost": 1,
         "set": 6,
         "imageurl": ""
+    },
+    {
+        "name": "Fellowship",
+        "type": 5,
+        "landscape": 4,
+        "cost": 1,
+        "set": 6,
+        "imageurl": ""
+    },
+    {
+        "name": "Solidarity",
+        "type": 5,
+        "landscape": 4,
+        "cost": 2,
+        "set": 6,
+        "imageurl": ""
     }
 ]
