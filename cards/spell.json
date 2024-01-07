@@ -546,7 +546,8 @@
     "type": 1,
     "imageurl": "Freeze_Ray.jpg",
     "ability": "Freeze target Landscape, and then draw a card.",
-    "id": 408
+    "id": 408,
+    "set": 3
   },
   {
     "name": "Freezing Point",
@@ -555,7 +556,8 @@
     "type": 1,
     "imageurl": "Freezing_Point.jpg",
     "ability": "Freeze each of your opponent's Landscapes.",
-    "id": 409
+    "id": 409,
+    "set": 3
   },
   {
     "name": "Frosty Frolic",
@@ -564,7 +566,8 @@
     "type": 1,
     "imageurl": "Frosty_Frolic.jpg",
     "ability": "Target player discards 1 card from her hand for each Landscape with a Frozen token on it she controls.",
-    "id": 410
+    "id": 410,
+    "set": 3
   },
   {
     "name": "Frozen Heart",
@@ -591,7 +594,8 @@
     "type": 1,
     "imageurl": "Snow_Way.jpg",
     "ability": "Freeze two target Landscapes.",
-    "id": 413
+    "id": 413,
+    "set": 3
   },
   {
     "name": "Rock Out!",
@@ -645,7 +649,8 @@
     "type": 1,
     "imageurl": "Snowblower.jpg",
     "ability": "Choose a Lane. Freeze both Landscapes in that Lane.",
-    "id": 419
+    "id": 419,
+    "set": 4
   },
   {
     "name": "Snowvalanche",
@@ -996,7 +1001,8 @@
     "type": 1,
     "imageurl": "Bomb_Pop.jpg",
     "ability": "Destroy target Creature on a Landscape with a Frozen token on it.",
-    "id": 458
+    "id": 458,
+    "set": 6
   },
   {
     "name": "Frozen Lemon Aid",
@@ -1005,7 +1011,8 @@
     "type": 1,
     "imageurl": "Frozen_Lemon_Aid.jpg",
     "ability": "Count the number of Landscapes with Frozen tokens. Heal 1 damage from that many friendly Creatures.",
-    "id": 459
+    "id": 459,
+    "set": 6
   },
   {
     "name": "Ice Sing",
@@ -1014,7 +1021,8 @@
     "type": 1,
     "imageurl": "Ice_Sing.jpg",
     "ability": "Freeze 1 of each player's target Landscapes an then draw a card.",
-    "id": 460
+    "id": 460,
+    "set": 6
   },
   {
     "name": "Slushie Salvo",
@@ -1023,7 +1031,8 @@
     "type": 1,
     "imageurl": "Slushie_Salvo.jpg",
     "ability": "Freeze target Landscape. You may move any number of Frozen tokens to new Landscapes (1 token per Landscape).",
-    "id": 461
+    "id": 461,
+    "set": 6
   },
   {
     "name": "Cuddle Puddle",

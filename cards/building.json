@@ -231,7 +231,8 @@
     "type": 2,
     "imageurl": "Crystal_Palace.jpg",
     "ability": "When a Landscape in this Lane becomes Frozen, deal 2 Damage to target Creature.",
-    "id": 491
+    "id": 491,
+    "set": 3
   },
   {
     "name": "Funeral Home",
@@ -249,7 +250,8 @@
     "type": 2,
     "imageurl": "Ice-olation_Cell.jpg",
     "ability": "Creatures on Landscapes with a Frozen token on it in this Lane cannot Attack or use abilities.",
-    "id": 493
+    "id": 493,
+    "set": 3
   },
   {
     "name": "Snow Business",
@@ -258,7 +260,8 @@
     "type": 2,
     "imageurl": "Snow_Business.jpg",
     "ability": "Pay 1 Action >>> Freeze target Landscape in this Lane.",
-    "id": 494
+    "id": 494,
+    "set": 3
   },
   {
     "name": "The Big Hen House",
@@ -312,7 +315,8 @@
     "type": 2,
     "imageurl": "Floating_Ice_Palace.jpg",
     "ability": "Your Creature on this Landscape has +1 ATK during your turn for each Landscape with a Frozen token on it.",
-    "id": 500
+    "id": 500,
+    "set": 4
   },
   {
     "name": "Snow Training Camp",
@@ -492,7 +496,8 @@
     "type": 2,
     "imageurl": "Ice_Base.jpg",
     "ability": "When Ice Base enters play, Freeze both Landscapes in this Lane. You may play Creatures onto this Landscape even while Frozen.",
-    "id": 520
+    "id": 520,
+    "set": 6
   },
   {
     "name": "Snow Bank",
@@ -501,7 +506,8 @@
     "type": 2,
     "imageurl": "Snow_Bank.jpg",
     "ability": "FLOOP, Remove a Frozen token from a Landscape in this Lane >>> Deal 3 Damage to target opponent.",
-    "id": 521
+    "id": 521,
+    "set": 6
   },
   {
     "name": "Bean Ball Bomba",

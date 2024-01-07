@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Camaraderie",
+        "type": 5,
+        "landscape": 5,
+        "cost": 2,
+        "imageurl": ""
+    },
+    {
+        "name": "Coordination",
+        "type": 5,
+        "landscape": 5,
+        "cost": 1,
+        "imageurl": ""
+    }
+]
