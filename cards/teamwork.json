@@ -5,7 +5,8 @@
         "landscape": 5,
         "cost": 2,
         "set": 6,
-        "imageurl": "Camaraderie.jpg"
+        "imageurl": "Camaraderie.jpg",
+        "id": 467
     },
     {
         "name": "Coordination",
@@ -13,7 +14,8 @@
         "landscape": 5,
         "cost": 1,
         "set": 6,
-        "imageurl": "Coordination.jpg"
+        "imageurl": "Coordination.jpg",
+        "id": 468
     },
     {
         "name": "Assistance",
@@ -21,7 +23,8 @@
         "landscape": 3,
         "cost": 1,
         "set": 6,
-        "imageurl": "Assistance.jpg"
+        "imageurl": "Assistance.jpg",
+        "id": 469
     },
     {
         "name": "Fellowship",
@@ -29,7 +32,8 @@
         "landscape": 4,
         "cost": 1,
         "set": 6,
-        "imageurl": "Fellowship.jpg"
+        "imageurl": "Fellowship.jpg",
+        "id": 470
     },
     {
         "name": "Solidarity",
@@ -37,7 +41,8 @@
         "landscape": 4,
         "cost": 2,
         "set": 6,
-        "imageurl": "Solidarity.jpg"
+        "imageurl": "Solidarity.jpg",
+        "id": 471
     },
     {
         "name": "Synchronization",
@@ -45,7 +50,8 @@
         "landscape": 2,
         "cost": 1,
         "set": 6,
-        "imageurl": "Synchronization.jpg"
+        "imageurl": "Synchronization.jpg",
+        "id": 472
     },
     {
         "name": "Cooperation",
@@ -53,7 +59,8 @@
         "landscape": 1,
         "cost": 1,
         "set": 6,
-        "imageurl": "Cooperation.jpg"
+        "imageurl": "Cooperation.jpg",
+        "id": 4673
     },
     {
         "name": "Contribution",
@@ -61,7 +68,8 @@
         "landscape": 0,
         "cost": 1,
         "set": 6,
-        "imageurl": "Contribution.jpg"
+        "imageurl": "Contribution.jpg",
+        "id": 474
     },
     {
         "name": "Collaboration",
@@ -69,7 +77,8 @@
         "landscape": 6,
         "cost": 1,
         "set": 6,
-        "imageurl": "Collaboration.jpg"
+        "imageurl": "Collaboration.jpg",
+        "id": 475
     },
     {
         "name": "Communication",
@@ -77,6 +86,7 @@
         "landscape": 6,
         "cost": 1,
         "set": 6,
-        "imageurl": "Communication.jpg"
+        "imageurl": "Communication.jpg",
+        "id": 476
     }
 ]
