@@ -159,7 +159,8 @@
     "type": 2,
     "imageurl": "Silo_of_Justice.jpg",
     "ability": "Pay 1 Action >>> Deal 1 Damage to target Creature in this Lane and 1 Damage to its controller.",
-    "id": 482
+    "id": 482,
+    "set": 8
   },
   {
     "name": "Silo of Truth",
@@ -168,7 +169,8 @@
     "type": 2,
     "imageurl": "Silo_of_Truth.jpg",
     "ability": "Pay 2 Actions >>> Steal a random card from your opponent's hand and play it at no cost.",
-    "id": 483
+    "id": 483,
+    "set": 0
   },
   {
     "name": "Spirit Tower",
@@ -216,7 +218,8 @@
     "type": 2,
     "imageurl": "Yellow_Lighthouse.jpg",
     "ability": "At the start of your turn, each player who controls a Creature in this Lane draws a card.",
-    "id": 488
+    "id": 488,
+    "set": 8
   },
   {
     "name": "Auto-Plucker",
@@ -304,7 +307,8 @@
     "type": 2,
     "imageurl": "Sinkhole.jpg",
     "ability": "Discard a card, FLOOP >> Flip target Landscape in this Lane face down until the start of your next turn.",
-    "id": 497
+    "id": 497,
+    "set": 4
   },
   {
     "name": "Silo of Freedom",
@@ -313,7 +317,8 @@
     "type": 2,
     "imageurl": "Silo_of_Freedom.jpg",
     "ability": "Discard a card >>> Your Landscape in this Lane loses its type and becomes the type of your choice (except face down) until the start of your next turn.",
-    "id": 498
+    "id": 498,
+    "set": 4
   },
   {
     "name": "Parrotmilitary Outpost",
@@ -405,7 +410,8 @@
     "type": 2,
     "imageurl": "Farmhouse.jpg",
     "ability": "Farmhouse counts as an additional Cornfield Landscape you control.",
-    "id": 508
+    "id": 508,
+    "set": 5
   },
   {
     "name": "Cabin of Many Woods",
@@ -414,7 +420,8 @@
     "type": 2,
     "imageurl": "Cabin_of_Many_Woods.jpg",
     "ability": "Cabin of Many Woods costs 1 less to play for each Flooped Creature you control. Your Creature in this Lane has +5 DEF.",
-    "id": 509
+    "id": 509,
+    "set": 5
   },
   {
     "name": "Oil Refinery",
@@ -499,7 +506,8 @@
     "type": 2,
     "imageurl": "Haybarn.jpg",
     "ability": "Pay 1 Action, FLOOP >>> If this Landscape is empty, play a 'Feedman' from your discard pile onto this Landscape for free. If Haybarn leaves play, destroy the Feedman on its Landscape.",
-    "id": 518
+    "id": 518,
+    "set": 6
   },
   {
     "name": "Husker Garrison",
@@ -508,7 +516,8 @@
     "type": 2,
     "imageurl": "Husker_Garrison.jpg",
     "ability": "Your Creature on this Landscape has +1 ATK and +1 DEF for each Cornfield Creature you control.",
-    "id": 519
+    "id": 519,
+    "set": 6
   },
   {
     "name": "Ice Base",

@@ -66,7 +66,8 @@
     "ability": "Apple Bully's Landscape cannot be flipped down by effects opponents control.",
     "attack": 3,
     "defense": 8,
-    "id": 52
+    "id": 52,
+    "set": 8
   },
   {
     "name": "Apple Pieclops",
@@ -89,7 +90,8 @@
     "ability": "FLOOP >>> Destroy target Building in Archer Dan's Lane.",
     "attack": 2,
     "defense": 6,
-    "id": 54
+    "id": 54,
+    "set": 0
   },
   {
     "name": "Beach Mummy",
@@ -236,7 +238,8 @@
     "ability": "When Captain Taco enters play, deal 1 Damage to each Creature that is not on a Cornfield Landscape.",
     "attack": 1,
     "defense": 1,
-    "id": 67
+    "id": 67,
+    "set": 8
   },
   {
     "name": "Chest Burster",
@@ -270,7 +273,8 @@
     "ability": "Pay 1 Action >>> Deal 1 Damage to target Creature in this Lane for each different Landscape type you control.",
     "attack": 2,
     "defense": 7,
-    "id": 70
+    "id": 70,
+    "set": 8
   },
   {
     "name": "Corn Dog",
@@ -281,7 +285,8 @@
     "ability": "Corn Dog has +1 DEF for each Cornfield Landscape you control. If you control 3 or fewer Cornfield Landscapes, Corn Dog has +1 ATK.",
     "attack": 0,
     "defense": 12,
-    "id": 71
+    "id": 71,
+    "set": 0
   },
   {
     "name": "Corn Lord",
@@ -292,7 +297,8 @@
     "ability": "Corn Lord has +1 ATK for each other Cornfield Creature you control.",
     "attack": 0,
     "defense": 7,
-    "id": 72
+    "id": 72,
+    "set": 0
   },
   {
     "name": "Corn Ronin",
@@ -303,7 +309,8 @@
     "ability": "+1 ATK for each adjacent Cornfield Landscape.",
     "attack": 1,
     "defense": 6,
-    "id": 73
+    "id": 73,
+    "set": 0
   },
   {
     "name": "Cornataur",
@@ -314,7 +321,8 @@
     "ability": "When Cornataur enters play, deal 1 Damage to your opponent for each Cornfield Landscape you control.",
     "attack": 2,
     "defense": 10,
-    "id": 74
+    "id": 74,
+    "set": 0
   },
   {
     "name": "Cotton Devil",
@@ -360,7 +368,8 @@
     "ability": "Each adjacent Cornfield Creature has +1 DEF.",
     "attack": 3,
     "defense": 8,
-    "id": 78
+    "id": 78,
+    "set": 8
   },
   {
     "name": "Cutie",
@@ -497,7 +506,8 @@
     "ability": "When Ethan Allfire leaves play, draw 1 card for each Cornfield Landscape you control.",
     "attack": 0,
     "defense": 4,
-    "id": 90
+    "id": 90,
+    "set": 8
   },
   {
     "name": "Evil Eye",
@@ -579,7 +589,8 @@
     "ability": "Additional Cost: Discard a card. When Field Reaper enters play, move target Creature in this Lane to an adjacent empty Lane on your side.",
     "attack": 1,
     "defense": 4,
-    "id": 97
+    "id": 97,
+    "set": 0
   },
   {
     "name": "Field Stalker",
@@ -590,7 +601,8 @@
     "ability": "At the start of your turn, each player draws a card.",
     "attack": 1,
     "defense": 10,
-    "id": 98
+    "id": 98,
+    "set": 0
   },
   {
     "name": "Fisher Fish",
@@ -715,7 +727,8 @@
     "ability": "When Gold Ninja enters play, deal 1 Damage to target Creature for each different Landscape type you control.",
     "attack": 2,
     "defense": 6,
-    "id": 109
+    "id": 109,
+    "set": 8
   },
   {
     "name": "Golden Axe Stump",
@@ -738,7 +751,8 @@
     "ability": "FLOOP and discard a SandyLands card >>> Deal 1 Damge to each opposing Creature.",
     "attack": 1,
     "defense": 4,
-    "id": 111
+    "id": 111,
+    "set": 8
   },
   {
     "name": "Grape Djini",
@@ -890,7 +904,8 @@
     "ability": "Husker Knight has +1 ATK and +2 DEF for each Cornfield Landscape you control.",
     "attack": 0,
     "defense": 0,
-    "id": 124
+    "id": 124,
+    "set": 0
   },
   {
     "name": "Husker Worm",
@@ -901,7 +916,8 @@
     "ability": "When Husker Worm enters play, flip a Cornfield Landscape you control face down.",
     "attack": 5,
     "defense": 4,
-    "id": 125
+    "id": 125,
+    "set": 0
   },
   {
     "name": "Immortal Maize Walker",
@@ -948,7 +964,8 @@
     "ability": "When Legion of Earlings enters play, you may return target Creature in this Lane to its owners hand.",
     "attack": 2,
     "defense": 8,
-    "id": 129
+    "id": 129,
+    "set": 0
   },
   {
     "name": "Life Beater Gnome",
@@ -994,7 +1011,8 @@
     "ability": "FLOOP >> Put a Building from your hand below this Lane (if it doesn't already have one).",
     "attack": 2,
     "defense": 2,
-    "id": 133
+    "id": 133,
+    "set": 8
   },
   {
     "name": "Lost Golem",
@@ -1097,7 +1115,8 @@
     "ability": "+1 DEF for each different Landscape type you control.",
     "attack": 4,
     "defense": 1,
-    "id": 142
+    "id": 142,
+    "set": 4
   },
   {
     "name": "Orange Slimey",
@@ -1131,7 +1150,8 @@
     "ability": "FLOOP >>> Deal 1 Damage to target Creature. Do this once for each Cornfield Landscape you control. (May only target each Creature once.)",
     "attack": 0,
     "defense": 5,
-    "id": 145
+    "id": 145,
+    "set": 0
   },
   {
     "name": "Peach Djinni",
@@ -1211,7 +1231,8 @@
     "ability": "When Pirate Bear is on Useless Swamp Landscape, it deals triple Damage.",
     "attack": 1,
     "defense": 3,
-    "id": 152
+    "id": 152,
+    "set": 8
   },
   {
     "name": "Polterclops",
@@ -1515,7 +1536,8 @@
     "ability": "Sun King counts as an additional Cornfield Landscape you control.",
     "attack": 0,
     "defense": 8,
-    "id": 178
+    "id": 178,
+    "set": 8
   },
   {
     "name": "Swamp Horn",
@@ -1596,7 +1618,8 @@
     "ability": "When Travelin' Farmer leaves play, deal 1 Damage to your opponent for each card in his hand.",
     "attack": 2,
     "defense": 12,
-    "id": 185
+    "id": 185,
+    "set": 0
   },
   {
     "name": "Travelin' Skeleton",
@@ -1664,7 +1687,8 @@
     "ability": "+1 DEF for each Cornfield Landscape in play (counting all players).",
     "attack": 2,
     "defense": 4,
-    "id": 191
+    "id": 191,
+    "set": 0
   },
   {
     "name": "Wall of Sand",
@@ -1742,7 +1766,8 @@
     "ability": "FLOOP >>> Deal 1 Damage to each opposing Creature that is on a NiceLands Landscape.",
     "attack": 1,
     "defense": 6,
-    "id": 198
+    "id": 198,
+    "set": 8
   },
   {
     "name": "Yellow Slimey",
@@ -1753,7 +1778,8 @@
     "ability": "While you control 3 or more different Landscape types, Yellow Slimey has +3 ATK.",
     "attack": 0,
     "defense": 6,
-    "id": 199
+    "id": 199,
+    "set": 8
   },
   {
     "name": "Abdominal Snowman",
@@ -2110,7 +2136,8 @@
     "ability": "+1 ATK for each different Landscape you control.",
     "attack": 0,
     "defense": 6,
-    "id": 229
+    "id": 229,
+    "set": 4
   },
   {
     "name": "Bouncing Zebracorn",
@@ -2121,7 +2148,8 @@
     "ability": "+1 ATK for each different Landscape you control.",
     "attack": 1,
     "defense": 9,
-    "id": 230
+    "id": 230,
+    "set": 4
   },
   {
     "name": "Mantle Masher",
@@ -2132,7 +2160,8 @@
     "ability": "When Mantle Masher enters play, flip a Landscape in this Lane face down. When Mantle Masher leaves play, flip it face up.",
     "attack": 1,
     "defense": 6,
-    "id": 231
+    "id": 231,
+    "set": 4
   },
   {
     "name": "Rock 'n Roller",
@@ -2143,7 +2172,8 @@
     "ability": "When Rock 'n Roller enters play, flip a Landscape in this Lane face down. When Rock 'n Roller leaves play, flip it face up.",
     "attack": 2,
     "defense": 8,
-    "id": 232
+    "id": 232,
+    "set": 4
   },
   {
     "name": "Quake Maker",
@@ -2154,7 +2184,8 @@
     "ability": "+2 ATK for each face down Landscape in play.",
     "attack": 1,
     "defense": 7,
-    "id": 233
+    "id": 233,
+    "set": 4
   },
   {
     "name": "Earth Mover",
@@ -2165,7 +2196,8 @@
     "ability": "+2 ATK for each face down Landscape in play.",
     "attack": 2,
     "defense": 10,
-    "id": 234
+    "id": 234,
+    "set": 4
   },
   {
     "name": "Carmel Camel",
@@ -2246,7 +2278,8 @@
     "ability": "+1 DEF for each different Landscape type you control.",
     "attack": 2,
     "defense": 4,
-    "id": 241
+    "id": 241,
+    "set": 4
   },
   {
     "name": "Snow Baller",
@@ -2605,7 +2638,8 @@
     "ability": "FLOOP >>> Move target building you control to any Landscape without one.",
     "attack": 2,
     "defense": 6,
-    "id": 273
+    "id": 273,
+    "set": 5
   },
   {
     "name": "Helping Hand",
@@ -2638,7 +2672,8 @@
     "ability": "Husker Champion has +2 ATK and +2 DEF if you control a Building on this Landscape.",
     "attack": 1,
     "defense": 4,
-    "id": 276
+    "id": 276,
+    "set": 5
   },
   {
     "name": "Burly Lumberjack",
@@ -2649,7 +2684,8 @@
     "ability": "You may play additional Buildings onto this Landscape.",
     "attack": 2,
     "defense": 9,
-    "id": 277
+    "id": 277,
+    "set": 5
   },
   {
     "name": "Corns Templar",
@@ -2660,7 +2696,8 @@
     "ability": "FLOOP >>> Heal 1 Damage from Corns Templar.",
     "attack": 1,
     "defense": 7,
-    "id": 278
+    "id": 278,
+    "set": 5
   },
   {
     "name": "Sharp Guy",
@@ -2671,7 +2708,8 @@
     "ability": "FLOOP >>> Deal 2 Damage to target opposing Creature in this Lane.",
     "attack": 1,
     "defense": 5,
-    "id": 279
+    "id": 279,
+    "set": 5
   },
   {
     "name": "Kernel Queen",
@@ -2682,7 +2720,8 @@
     "ability": "Kernel Queen has +1 ATK for each Flooped Creature you control.",
     "attack": 1,
     "defense": 6,
-    "id": 280
+    "id": 280,
+    "set": 5
   },
   {
     "name": "Husker Valkyrie",
@@ -2693,7 +2732,8 @@
     "ability": "Husker Valkyrie has +2 ATK and +2 DEF if you control a Building on this Landscape.",
     "attack": 2,
     "defense": 6,
-    "id": 281
+    "id": 281,
+    "set": 5
   },
   {
     "name": "Tough Lumberjill",
@@ -2704,7 +2744,8 @@
     "ability": "When Tough Lumberjill enters play, deal 1 Damage to your opponent for each Building you control.",
     "attack": 3,
     "defense": 6,
-    "id": 282
+    "id": 282,
+    "set": 5
   },
   {
     "name": "Archer Danica",
@@ -2715,7 +2756,8 @@
     "ability": "Destroy a Building you control and Floop >>> Deal 3 damage to each opposing Creature.",
     "attack": 1,
     "defense": 6,
-    "id": 283
+    "id": 283,
+    "set": 5
   },
   {
     "name": "Pied Piper",
@@ -2726,7 +2768,8 @@
     "ability": "When Pied Piper attacks an opposing Creature, you may have a Flooped Creature you controll attack it instead.",
     "attack": 1,
     "defense": 9,
-    "id": 284
+    "id": 284,
+    "set": 5
   },
   {
     "name": "Tornado Wall Of Fire",
@@ -2737,7 +2780,8 @@
     "ability": "FLOOP >>> Tornado Wall of Fire has +3 ATK while Flooped.",
     "attack": 0,
     "defense": 10,
-    "id": 285
+    "id": 285,
+    "set": 5
   },
   {
     "name": "Popcorn Butteredfly",
@@ -2748,7 +2792,8 @@
     "ability": "FLOOP >>> Draw a card for each Building you control.",
     "attack": 1,
     "defense": 5,
-    "id": 286
+    "id": 286,
+    "set": 5
   },
   {
     "name": "Druid of the Cob",
@@ -2759,7 +2804,8 @@
     "ability": "Flooped Creatures you control have +1 ATK.",
     "attack": 1,
     "defense": 8,
-    "id": 287
+    "id": 287,
+    "set": 5
   },
   {
     "name": "Pony",
@@ -3094,7 +3140,8 @@
     "ability": "When Feedman enters play the next Creature you play this turn costs 1 less to play.",
     "attack": 1,
     "defense": 8,
-    "id": 316
+    "id": 316,
+    "set": 6
   },
   {
     "name": "Green ZebraCorn",
@@ -3105,7 +3152,8 @@
     "ability": "When Green ZebraCorn attacks, deal 1 Damage to target opponent.",
     "attack": 1,
     "defense": 6,
-    "id": 317
+    "id": 317,
+    "set": 6
   },
   {
     "name": "Grizzled ZebraCorn",
@@ -3116,7 +3164,8 @@
     "ability": "When Grizzled ZebraCorn attacks, deal 2 Damage to target opponent.",
     "attack": 2,
     "defense": 8,
-    "id": 318
+    "id": 318,
+    "set": 6
   },
   {
     "name": "King Baby",
@@ -3127,7 +3176,8 @@
     "ability": "Pay 1 Action, FLOOP >>> Deal 1 Damage to target Creature for each Cornfield Landscape you control.",
     "attack": 2,
     "defense": 7,
-    "id": 319
+    "id": 319,
+    "set": 6
   },
   {
     "name": "Shielded ZebraCorn",
@@ -3138,7 +3188,8 @@
     "ability": "When Shielded ZebraCorn attacks, you may heal 1 Damage from an adjacent Creature.",
     "attack": 2,
     "defense": 6,
-    "id": 320
+    "id": 320,
+    "set": 6
   },
   {
     "name": "Spiked ZebraCorn",
@@ -3149,7 +3200,8 @@
     "ability": "When Spiked ZebraCorn attacks, deal 1 Damage to each opposing Creature in adjacent Lanes.",
     "attack": 2,
     "defense": 7,
-    "id": 321
+    "id": 321,
+    "set": 6
   },
   {
     "name": "Trained ZebraCorn Husker",
@@ -3160,7 +3212,8 @@
     "ability": "+1 ATK for each Teamwork your team controls. If Trained ZebraCorn Husker leaves play during your Fight Phase, you may put it into your hand.",
     "attack": 3,
     "defense": 7,
-    "id": 322
+    "id": 322,
+    "set": 6
   },
   {
     "name": "Young ZebraCorn Husker",
@@ -3171,7 +3224,8 @@
     "ability": "If Young ZebraCorn Husker leaves play during your Fight Phase, you may put it on top of your deck.",
     "attack": 2,
     "defense": 5,
-    "id": 323
+    "id": 323,
+    "set": 6
   },
   {
     "name": "Brigadier Banana Split",

@@ -46,5 +46,13 @@
         "cost": 1,
         "set": 6,
         "imageurl": ""
+    },
+    {
+        "name": "Cooperation",
+        "type": 5,
+        "landscape": 1,
+        "cost": 1,
+        "set": 6,
+        "imageurl": ""
     }
 ]

@@ -91,7 +91,8 @@
     "type": 1,
     "imageurl": "Field_of_Nightmares.jpg",
     "ability": "Deal 1 Damage to your opponent for each card in his hand.",
-    "id": 357
+    "id": 357,
+    "set": 0
   },
   {
     "name": "Full Metal Racket",
@@ -118,7 +119,8 @@
     "type": 1,
     "imageurl": "Grape_Butt.jpg",
     "ability": "Play only if you played a non-Cornfield card this turn. Deal 5 Damage to target Creature.",
-    "id": 360
+    "id": 360,
+    "set": 8
   },
   {
     "name": "Green Candy",
@@ -136,7 +138,8 @@
     "type": 1,
     "imageurl": "Husker_Amulet.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a NiceLands Landscape.",
-    "id": 362
+    "id": 362,
+    "set": 8
   },
   {
     "name": "Incredible Egg",
@@ -258,7 +261,8 @@
     "type": 1,
     "imageurl": "Popcorn_Power.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Blue Plains Landscape.",
-    "id": 375
+    "id": 375,
+    "set": 8
   },
   {
     "name": "Portal of Unsummoning",
@@ -493,7 +497,8 @@
     "type": 1,
     "imageurl": "Witch_Way.jpg",
     "ability": "Each of your Creatures that is on a Useless Swamp Landscape has +2 ATK this turn.",
-    "id": 400
+    "id": 400,
+    "set": 8
   },
   {
     "name": "Woad Blood",
@@ -635,7 +640,8 @@
     "type": 1,
     "imageurl": "Amaizing_Avalanche.jpg",
     "ability": "Each of your Creatures has +1 ATK this turn for each face down Landscape in play.",
-    "id": 415
+    "id": 415,
+    "set": 4
   },
   {
     "name": "Drop Zone",
@@ -809,7 +815,8 @@
     "type": 1,
     "imageurl": "Furious_Furor.jpg",
     "ability": "Target Creature has +2 ATK this turn for each Flooped Creature you control.",
-    "id": 434
+    "id": 434,
+    "set": 5
   },
   {
     "name": "Log Rhythm",
@@ -818,7 +825,8 @@
     "type": 1,
     "imageurl": "Log_Rhythm.jpg",
     "ability": "Each Creature you control with a Building on its Landscape has +2 ATK this turn.",
-    "id": 435
+    "id": 435,
+    "set": 5
   },
   {
     "name": "Harvest Moon",
@@ -827,7 +835,8 @@
     "type": 1,
     "imageurl": "Harvest_Moon.jpg",
     "ability": "Put a Building from your discard pile into play.",
-    "id": 436
+    "id": 436,
+    "set": 5
   },
   {
     "name": "Deforestation",
@@ -836,7 +845,8 @@
     "type": 1,
     "imageurl": "Deforestation.jpg",
     "ability": "Additional Cost: Floop a Creature you control. Search your deck for a Building and put it into play. Then shuffle your deck.",
-    "id": 437
+    "id": 437,
+    "set": 5
   },
   {
     "name": "Staff of Frailty",
@@ -1011,7 +1021,8 @@
     "type": 1,
     "imageurl": "Bale_Out.jpg",
     "ability": "When target Creature attacks this turn, if it would leave play during the Fight Phase, remove all Damage from it instead.",
-    "id": 456
+    "id": 456,
+    "set": 6
   },
   {
     "name": "Infinite Haymaker",
@@ -1020,7 +1031,8 @@
     "type": 1,
     "imageurl": "Infinite_Haymaker.jpg",
     "ability": "Deal damage to yourself equal to target Creature's remaining DEF, then destroy it.",
-    "id": 457
+    "id": 457,
+    "set": 6
   },
   {
     "name": "Bomb Pop",
