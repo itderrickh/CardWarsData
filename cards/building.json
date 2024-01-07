@@ -146,7 +146,8 @@
     "type": 2,
     "imageurl": "Schoolhouse.jpg",
     "ability": "FLOOP >>> Your Creature in this Lane loses all abilities and gains the FLOOP ability of a random Creature (with a FLOOP ability) in your discard pile until end of turn.",
-    "id": 480
+    "id": 480,
+    "set": 0
   },
   {
     "name": "Shadowy Pyramid",
@@ -215,7 +216,8 @@
     "type": 2,
     "imageurl": "Woad_Mobile_Home.jpg",
     "ability": "FLOOP >>> Move a Creature in an adjacent Lane to this Lane (if empty).",
-    "id": 487
+    "id": 487,
+    "set": 0
   },
   {
     "name": "Yellow Lighthouse",
