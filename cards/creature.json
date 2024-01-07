@@ -123,7 +123,8 @@
     "ability": "+1 ATK for each card players (including you) have discarded from their hand this turn.",
     "attack": 1,
     "defense": 7,
-    "id": 57
+    "id": 57,
+    "set": 8
   },
   {
     "name": "Blonde MerWitch",
@@ -156,7 +157,8 @@
     "ability": "FLOOP >>> Draw a card, and then discard a card.",
     "attack": 2,
     "defense": 5,
-    "id": 60
+    "id": 60,
+    "set": 8
   },
   {
     "name": "Blue Ogre",
@@ -245,7 +247,8 @@
     "ability": "At the start of your turn, deal 3 Damage to each opponent who has no cards in hand.",
     "attack": 1,
     "defense": 10,
-    "id": 68
+    "id": 68,
+    "set": 1
   },
   {
     "name": "Cool Dog",
@@ -380,7 +383,8 @@
     "ability": "+1 ATK for every 5 cards in your discard pile.",
     "attack": 0,
     "defense": 5,
-    "id": 80
+    "id": 80,
+    "set": 1
   },
   {
     "name": "Davey Bones",
@@ -436,7 +440,8 @@
     "ability": "Destroy a Creature you control and FLOOP >>> Destroy target opposing Creature in this Lane.",
     "attack": 1,
     "defense": 7,
-    "id": 85
+    "id": 85,
+    "set": 1
   },
   {
     "name": "Dragon Claw",
@@ -458,7 +463,8 @@
     "ability": "Discard a card >>> Dragon Foot has +1 ATK this turn. (Use up to five times during each of your turns.)",
     "attack": 1,
     "defense": 5,
-    "id": 87
+    "id": 87,
+    "set": 2
   },
   {
     "name": "Drooling Dude",
@@ -513,7 +519,8 @@
     "ability": "At the start of your turn, deal 1 Damage to target opponent for every 5 cards in your discard pile.",
     "attack": 1,
     "defense": 7,
-    "id": 92
+    "id": 92,
+    "set": 1
   },
   {
     "name": "Eye Guy",
@@ -524,7 +531,8 @@
     "ability": "At the start of your turn, look at the top card of your deck. You may put it on the bottom of your deck.",
     "attack": 1,
     "defense": 8,
-    "id": 93
+    "id": 93,
+    "set": 8
   },
   {
     "name": "Fairy Shepard",
@@ -547,7 +555,8 @@
     "ability": "FLOOP >>> Deal 1 Damage to each opposing Creature that is on a Cornfield Landscape.",
     "attack": 1,
     "defense": 6,
-    "id": 95
+    "id": 95,
+    "set": 8
   },
   {
     "name": "Fatapillar",
@@ -558,7 +567,8 @@
     "ability": "+2 ATK for every 5 cards in your discard pile.",
     "attack": 0,
     "defense": 3,
-    "id": 96
+    "id": 96,
+    "set": 2
   },
   {
     "name": "Field Reaper",
@@ -591,7 +601,8 @@
     "ability": "If Fisher Fish enters play onto a Blue Plains Landscape, deal 2 Damage to each opposing player.",
     "attack": 2,
     "defense": 6,
-    "id": 99
+    "id": 99,
+    "set": 8
   },
   {
     "name": "Fummy",
@@ -636,7 +647,8 @@
     "ability": "When Ghost Chest Burster leaves play, draw the bottom card of your deck.",
     "attack": 1,
     "defense": 9,
-    "id": 103
+    "id": 103,
+    "set": 8
   },
   {
     "name": "Ghost Hag",
@@ -748,7 +760,8 @@
     "ability": "Pay 1 Action >>> Return a random Useless Swamp Creature from your discard pile to your hand.",
     "attack": 2,
     "defense": 7,
-    "id": 113
+    "id": 113,
+    "set": 1
   },
   {
     "name": "Green Cactiball",
@@ -783,7 +796,8 @@
     "ability": "Destroy Green Mermaid >>> Deal 1 Damage to each opposing Creature.",
     "attack": 1,
     "defense": 9,
-    "id": 116
+    "id": 116,
+    "set": 1
   },
   {
     "name": "Green Merman",
@@ -794,7 +808,8 @@
     "ability": "FLOOP >>> Put the top card of your deck into your discard pile. Deal damage to each opposing Creature equal to the discarded cards Action Cost.",
     "attack": 0,
     "defense": 6,
-    "id": 117
+    "id": 117,
+    "set": 1
   },
   {
     "name": "Green Party Ogre",
@@ -851,7 +866,8 @@
     "ability": "Discard a card >>> Herculeye has +4 ATK this turn. (Use only once during each of your turns.)",
     "attack": 1,
     "defense": 6,
-    "id": 122
+    "id": 122,
+    "set": 2
   },
   {
     "name": "Hot Eyebat",
@@ -862,7 +878,8 @@
     "ability": "Play Hot Eyebat only if you have 10 or more cards in your discard pile.",
     "attack": 4,
     "defense": 4,
-    "id": 123
+    "id": 123,
+    "set": 1
   },
   {
     "name": "Husker Knight",
@@ -895,7 +912,8 @@
     "ability": "While Immortal Maize Walker is on a Cornfield Landscape, it deals triple Damage.",
     "attack": 2,
     "defense": 8,
-    "id": 126
+    "id": 126,
+    "set": 1
   },
   {
     "name": "Infinite Figure",
@@ -906,7 +924,8 @@
     "ability": "Discard a card >>> Deal 1 Damage to another Creature in this Lane. (Use any number of times during each of your turns.)",
     "attack": 1,
     "defense": 6,
-    "id": 127
+    "id": 127,
+    "set": 2
   },
   {
     "name": "Lady Beetle",
@@ -1020,7 +1039,8 @@
     "ability": "+2 DEF for every 5 cards in your discard pile.",
     "attack": 2,
     "defense": 4,
-    "id": 137
+    "id": 137,
+    "set": 1
   },
   {
     "name": "Ms. Fluff",
@@ -1088,7 +1108,8 @@
     "ability": "If you control 3 or more different Landscape types when Orange Slimey enters play, deal 3 Damage to your opponent.",
     "attack": 2,
     "defense": 6,
-    "id": 143
+    "id": 143,
+    "set": 8
   },
   {
     "name": "Paladim",
@@ -1154,7 +1175,8 @@
     "ability": "Sacrifice Pickler >>> Deal 3 Damage to target Creature.",
     "attack": 2,
     "defense": 9,
-    "id": 149
+    "id": 149,
+    "set": 8
   },
   {
     "name": "Pieclops",
@@ -1177,7 +1199,8 @@
     "ability": "Discard a card >>> Deal 1 Damage to each opposing Creature. (Use only once during each of your turns.)",
     "attack": 2,
     "defense": 8,
-    "id": 151
+    "id": 151,
+    "set": 2
   },
   {
     "name": "Pirate Bear",
@@ -1256,7 +1279,8 @@
     "ability": "FLOOP >>> Return a card with cost 0 from your discard pile to your hand.",
     "attack": 2,
     "defense": 6,
-    "id": 158
+    "id": 158,
+    "set": 1
   },
   {
     "name": "Rocktopus",
@@ -1408,7 +1432,8 @@
     "ability": "FLOOP >>> Discard the top 3 cards of your deck. For each Spell discarded this way, target player discards a card.",
     "attack": 3,
     "defense": 6,
-    "id": 171
+    "id": 171,
+    "set": 2
   },
   {
     "name": "Smoldering Elder",
@@ -1419,7 +1444,8 @@
     "ability": "When Smouldering Elder enters play, each player discards 2 cards.",
     "attack": 3,
     "defense": 8,
-    "id": 172
+    "id": 172,
+    "set": 8
   },
   {
     "name": "Snakemint",
@@ -1442,7 +1468,8 @@
     "ability": "Discard a card >>> Heal 1 Damage from Squatting Bald Man. (Use any number of times during each of your turns.)",
     "attack": 2,
     "defense": 7,
-    "id": 174
+    "id": 174,
+    "set": 2
   },
   {
     "name": "Steakchop",
@@ -1453,7 +1480,8 @@
     "ability": "At the start of your turn, discard 2 cards or destroy Steakchop. (Discard after your free draw.)",
     "attack": 4,
     "defense": 4,
-    "id": 175
+    "id": 175,
+    "set": 2
   },
   {
     "name": "Strawberry Slimey",
@@ -1498,7 +1526,8 @@
     "ability": "+1 DEF for each different Landscape type you control.",
     "attack": 4,
     "defense": 1,
-    "id": 179
+    "id": 179,
+    "set": 8
   },
   {
     "name": "Teeth Leaf",
@@ -1509,7 +1538,8 @@
     "ability": "If you have 10 or more cards in your discard pile, pay 2 fewer Actions to play Teeth Leaf.",
     "attack": 3,
     "defense": 10,
-    "id": 180
+    "id": 180,
+    "set": 1
   },
   {
     "name": "The Mariachi",
@@ -1543,7 +1573,8 @@
     "ability": "FLOOP >>> Choose a card name. Remove each card with that name in target player's discard pile from the game.",
     "attack": 1,
     "defense": 8,
-    "id": 183
+    "id": 183,
+    "set": 8
   },
   {
     "name": "Timmy Magic Eyes",
@@ -1598,7 +1629,8 @@
     "ability": "FLOOP >>> Return a random Creature from your discard pile to your hand.",
     "attack": 2,
     "defense": 6,
-    "id": 188
+    "id": 188,
+    "set": 1
   },
   {
     "name": "Uni-Knight",
@@ -1744,7 +1776,8 @@
     "ability": "When Ban-She Princess enters play, you may remove a token from an adjacent Landscape.",
     "attack": 2,
     "defense": 7,
-    "id": 201
+    "id": 201,
+    "set": 3
   },
   {
     "name": "Ban-She Queen",
@@ -1755,7 +1788,8 @@
     "ability": "When Ban-She Queen enters play, you may remove a token from an adjacent Landscape.",
     "attack": 3,
     "defense": 9,
-    "id": 202
+    "id": 202,
+    "set": 3
   },
   {
     "name": "Boarder Collie",
@@ -1778,7 +1812,8 @@
     "ability": "Pay 1 Action >>> Move all Damage on this Creature to target Creature.",
     "attack": 2,
     "defense": 7,
-    "id": 204
+    "id": 204,
+    "set": 3
   },
   {
     "name": "Bog Bum",
@@ -1789,7 +1824,8 @@
     "ability": "If Bog Bum leaves play while Ready, each opponent discards a random card.",
     "attack": 2,
     "defense": 6,
-    "id": 205
+    "id": 205,
+    "set": 3
   },
   {
     "name": "Bog Frog Bomb",
@@ -1800,7 +1836,8 @@
     "ability": "If Bog Frog Bomb leaves play while Ready, deal 2 Damage to each opposing Creature.",
     "attack": 3,
     "defense": 8,
-    "id": 206
+    "id": 206,
+    "set": 3
   },
   {
     "name": "Cold Soldier",
@@ -1859,7 +1896,8 @@
     "ability": "FLOOP >>> Each opponent discards a card with cost 0, or reveals a hand with none.",
     "attack": 1,
     "defense": 6,
-    "id": 211
+    "id": 211,
+    "set": 3
   },
   {
     "name": "Frost Dragon",
@@ -1941,7 +1979,8 @@
     "ability": "Whenever a foe discards a card, deal 1 Damage to that foe.",
     "attack": 1,
     "defense": 11,
-    "id": 218
+    "id": 218,
+    "set": 3
   },
   {
     "name": "Music Mallard",
@@ -2059,7 +2098,8 @@
     "ability": "At the start of your turn, each player draws a card and then discards a card.",
     "attack": 1,
     "defense": 10,
-    "id": 228
+    "id": 228,
+    "set": 3
   },
   {
     "name": "Rebounding Zebracorn",
@@ -2741,7 +2781,8 @@
     "ability": "Pay 1 Action, FLOOP >>> Deal 1 Damage to each opposing Creature in play.",
     "attack": 1,
     "defense": 6,
-    "id": 289
+    "id": 289,
+    "set": 6
   },
   {
     "name": "InvestiGator",
@@ -2752,7 +2793,8 @@
     "ability": "FLOOP >>> Reveal the top 3 cards of your deck. Play a revealed Teamwork for free, and then discard the other cards.",
     "attack": 3,
     "defense": 8,
-    "id": 290
+    "id": 290,
+    "set": 6
   },
   {
     "name": "SubjuGator",
@@ -2763,7 +2805,8 @@
     "ability": "The opposing Creature in this Lane has -1 DEF for every 5 cards in your discard pile.",
     "attack": 3,
     "defense": 7,
-    "id": 291
+    "id": 291,
+    "set": 6
   },
   {
     "name": "Granary Weevil",
@@ -2774,7 +2817,8 @@
     "ability": "Destroy Granary Weevil >>> Destroy target opposing Creature in this Lane and any Creature with the same name in play.",
     "attack": 2,
     "defense": 6,
-    "id": 292
+    "id": 292,
+    "set": 6
   },
   {
     "name": "TailGator",
@@ -2785,7 +2829,8 @@
     "ability": "When TailGator enters play, draw a card for each Creature that entered your discard pile this turn.",
     "attack": 2,
     "defense": 6,
-    "id": 293
+    "id": 293,
+    "set": 6
   },
   {
     "name": "IrriGator",
@@ -2796,7 +2841,8 @@
     "ability": "While IrriGator is on an Icylands Landscape, it has +2 ATK.",
     "attack": 1,
     "defense": 5,
-    "id": 294
+    "id": 294,
+    "set": 6
   },
   {
     "name": "NaviGator",
@@ -2807,7 +2853,8 @@
     "ability": "Discard a card >>> NaviGator gets +1 ATK equal to the cost of the discarded card. (Use only once during each of your turns.)",
     "attack": 2,
     "defense": 6,
-    "id": 295
+    "id": 295,
+    "set": 6
   },
   {
     "name": "InstiGator",
@@ -2818,7 +2865,8 @@
     "ability": "When InstiGator enters play, move target opposing Creature into InstiGator's Lane (if empty).",
     "attack": 5,
     "defense": 3,
-    "id": 296
+    "id": 296,
+    "set": 6
   },
   {
     "name": "Sailing Sand Crab",

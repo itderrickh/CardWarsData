@@ -52,7 +52,8 @@
     "type": 2,
     "imageurl": "Fright_Tower.jpg",
     "ability": "Pay 1 Action >>> Target Creature in this Lane has +1 ATK this turn for every 5 cards in your discard pile.",
-    "id": 471
+    "id": 471,
+    "set": 8
   },
   {
     "name": "Igloo of Sanctuary",
@@ -70,7 +71,8 @@
     "type": 2,
     "imageurl": "Mausoleum.jpg",
     "ability": "Your Creature in this Lane has +1 DEF for every 5 cards in your discard pile.",
-    "id": 473
+    "id": 473,
+    "set": 2
   },
   {
     "name": "Nice Windmill",
@@ -89,7 +91,8 @@
     "type": 2,
     "imageurl": "Night_Tower.jpg",
     "ability": "FLOOP >>> If your opponent has no Creatures in this Lane, they discard a card.",
-    "id": 475
+    "id": 475,
+    "set": 2
   },
   {
     "name": "Palace of Bone",
@@ -98,7 +101,8 @@
     "type": 2,
     "imageurl": "Palace_of_Bone.jpg",
     "ability": "Opposing Creatures in this Lane don't trigger entering or leaving play effects.",
-    "id": 476
+    "id": 476,
+    "set": 1
   },
   {
     "name": "Pyramidia",
@@ -145,7 +149,8 @@
     "type": 2,
     "imageurl": "Shadowy_Pyramid.jpg",
     "ability": "FLOOP >>> Draw a card. If you control a Creature in this Lane, discard a card.",
-    "id": 481
+    "id": 481,
+    "set": 8
   },
   {
     "name": "Silo of Justice",
@@ -172,7 +177,8 @@
     "type": 2,
     "imageurl": "Spirit_Tower.jpg",
     "ability": "Pay 1 Action and FLOOP >>> If you control no Creatures in this Lane, move target Creature in this Lane to your side and ready it. At the end of turn, return it to its owner's side.",
-    "id": 484
+    "id": 484,
+    "set": 1
   },
   {
     "name": "Temple of the Sun",
@@ -229,7 +235,8 @@
     "type": 2,
     "imageurl": "Cardboard_Mansion.jpg",
     "ability": "Cardboard Mansion costs 1 less to play for every 5 cards in your discard pile. FLOOP >>> Gain 1 Action.",
-    "id": 490
+    "id": 490,
+    "set": 3
   },
   {
     "name": "Crystal Palace",
@@ -248,7 +255,8 @@
     "type": 2,
     "imageurl": "Funeral_Home.jpg",
     "ability": "Whenever a foe discards a card, your Creature in this Lane has +1 ATK until end of turn.",
-    "id": 492
+    "id": 492,
+    "set": 3
   },
   {
     "name": "Ice-olation Cell",
@@ -433,7 +441,8 @@
     "type": 2,
     "imageurl": "Bayou_Fountain.jpg",
     "ability": "Discard a card >>> Your Creature on this Landscape has +1 ATK this turn. (Use any number of times during each of your turns.)",
-    "id": 512
+    "id": 512,
+    "set": 6
   },
   {
     "name": "Bog Palace",
@@ -442,7 +451,8 @@
     "type": 2,
     "imageurl": "Bog_Palace.jpg",
     "ability": "Your Creature on this Landscape has +3 ATK. At the start of each of your turns, discard a card.",
-    "id": 513
+    "id": 513,
+    "set": 6
   },
   {
     "name": "Sand Castle",

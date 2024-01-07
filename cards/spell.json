@@ -6,7 +6,8 @@
     "type": 1,
     "imageurl": "Abraca_Amadeus.jpg",
     "ability": "Target opponent discards a card from his hand for every 5 cards in your discard pile.",
-    "id": 348
+    "id": 348,
+    "set": 1
   },
   {
     "name": "Blue Candy",
@@ -172,7 +173,8 @@
     "type": 1,
     "imageurl": "Magic_Lamp.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a SandyLands Landscape.",
-    "id": 366
+    "id": 366,
+    "set": 8
   },
   {
     "name": "Magic Ring Ding",
@@ -181,7 +183,8 @@
     "type": 1,
     "imageurl": "Magic_Ring_Ding.jpg",
     "ability": "Each of your Creatures has +1 ATK this turn for every 5 cards in your discard pile.",
-    "id": 367
+    "id": 367,
+    "set": 1
   },
   {
     "name": "Master of Disguise",
@@ -208,7 +211,8 @@
     "type": 1,
     "imageurl": "Ogre_Braces.jpg",
     "ability": "You heal 1 Hit Point for every 5 cards in your discard pile.",
-    "id": 370
+    "id": 370,
+    "set": 8
   },
   {
     "name": "Ogre Gas",
@@ -302,7 +306,8 @@
     "type": 1,
     "imageurl": "Raise_the_Dead.jpg",
     "ability": "Put a Creature with cost 2 or less from your discard pile into play.",
-    "id": 380
+    "id": 380,
+    "set": 8
   },
   {
     "name": "Reclaim Landscape",
@@ -348,7 +353,8 @@
     "type": 1,
     "imageurl": "Scroll_of_Bad_Breath.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a NiceLands Landscape.",
-    "id": 385
+    "id": 385,
+    "set": 8
   },
   {
     "name": "Scroll of Fresh Breath",
@@ -440,7 +446,8 @@
     "type": 1,
     "imageurl": "Toilet_of_Doom.jpg",
     "ability": "Deal 1 Damage to target Creature for every 5 cards in your discard pile.",
-    "id": 395
+    "id": 395,
+    "set": 2
   },
   {
     "name": "Tome of Ankhs",
@@ -531,7 +538,8 @@
     "type": 1,
     "imageurl": "Blood_Bath.jpg",
     "ability": "Target foe may discard a card with cost 2 or greater. If they do not, deal 5 Damage to that foe.",
-    "id": 405
+    "id": 405,
+    "set": 3
   },
   {
     "name": "Blood Transfusion",
@@ -549,7 +557,8 @@
     "type": 1,
     "imageurl": "Bums_Away%21.jpg",
     "ability": "Target foe may discard a card. If they do not, deal 2 Damage to each of their Creatures.",
-    "id": 407
+    "id": 407,
+    "set": 3
   },
   {
     "name": "Freeze Ray",
@@ -836,7 +845,8 @@
     "type": 1,
     "imageurl": "Staff_of_Frailty.jpg",
     "ability": "Add Damage to target Creature until it has 1 DEF remaining.",
-    "id": 438
+    "id": 438,
+    "set": 6
   },
   {
     "name": "Water Logged",
@@ -845,7 +855,8 @@
     "type": 1,
     "imageurl": "Water_Logged.jpg",
     "ability": "Opposing Creatures have -2 ATK this turn (min 0).",
-    "id": 439
+    "id": 439,
+    "set": 6
   },
   {
     "name": "Bail Out",

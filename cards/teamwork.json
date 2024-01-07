@@ -38,5 +38,13 @@
         "cost": 2,
         "set": 6,
         "imageurl": ""
+    },
+    {
+        "name": "Synchronization",
+        "type": 5,
+        "landscape": 2,
+        "cost": 1,
+        "set": 6,
+        "imageurl": ""
     }
 ]
