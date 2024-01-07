@@ -5,6 +5,7 @@
         "landscape": 5,
         "cost": 2,
         "set": 6,
+        "ability": "Each time an opposing Creature deals Damage to your team, deal 1 Damage to the opposing Team.",
         "imageurl": "Camaraderie.jpg",
         "id": 524
     },
@@ -14,6 +15,7 @@
         "landscape": 5,
         "cost": 1,
         "set": 6,
+        "ability": "While you or your Teammate control a Creature on a Landscape with a Frozen token on it, your Team may play Creatures onto Landscapes with Frozen tokens on them.",
         "imageurl": "Coordination.jpg",
         "id": 525
     },
@@ -23,6 +25,7 @@
         "landscape": 3,
         "cost": 1,
         "set": 6,
+        "ability": "At the start of your or your Teammate's Fight Phase, if you or your Teammate played a Creature with cost 2 or greater this turn, the other Teammate may draw a card.",
         "imageurl": "Assistance.jpg",
         "id": 526
     },
@@ -32,6 +35,7 @@
         "landscape": 4,
         "cost": 1,
         "set": 6,
+        "ability": "During your turn and your Teammate's Fight Phase, the first time Damage is dealt to an opponent, the other Teammate may deal 1 Damage to target Creature in 1 of their Lanes.",
         "imageurl": "Fellowship.jpg",
         "id": 527
     },
@@ -41,6 +45,7 @@
         "landscape": 4,
         "cost": 2,
         "set": 6,
+        "ability": "The first Creature that attacks another Creature during your Team's turns has +1 ATK that turn.",
         "imageurl": "Solidarity.jpg",
         "id": 528
     },
@@ -50,6 +55,7 @@
         "landscape": 2,
         "cost": 1,
         "set": 6,
+        "ability": "At the start of your or your Teammate's Fight Phase, if you or your Teammate played no Spells this turn, the other Teammate may play a Spell with cost 1 or less without paying its cost.",
         "imageurl": "Synchronization.jpg",
         "id": 529
     },
@@ -59,6 +65,7 @@
         "landscape": 1,
         "cost": 1,
         "set": 6,
+        "ability": "At the start of your or your Teammate's Fight Phase, if you or your Teammate played no Creatures this turn, the other Teammate may play a Creature with cost 1 or less without paying its cost.",
         "imageurl": "Cooperation.jpg",
         "id": 530
     },
@@ -68,6 +75,7 @@
         "landscape": 0,
         "cost": 1,
         "set": 6,
+        "ability": "At the start of your or your Teammate's Fight Phase, if you or your Teammate drew 3 or more cards this turn, the other Teammate may draw a card.",
         "imageurl": "Contribution.jpg",
         "id": 531
     },
@@ -77,6 +85,7 @@
         "landscape": 6,
         "cost": 1,
         "set": 6,
+        "ability": "The first time you or your Teammate play a Rainbow Spell during their turn, the other Teammate may play a Rainbow Spell with the same cost without paying its cost.",
         "imageurl": "Collaboration.jpg",
         "id": 532
     },
@@ -86,6 +95,7 @@
         "landscape": 6,
         "cost": 1,
         "set": 6,
+        "ability": "The first time you or your Teammate play a Rainbow Spell with cost 0 during their turn, the other Teammate may copy it and may choose new targets.",
         "imageurl": "Communication.jpg",
         "id": 533
     }
