@@ -3102,7 +3102,8 @@
     "ability": "+1 DEF for each open eye depicted on other Creatures you control.",
     "attack": 3,
     "defense": 1,
-    "id": 305
+    "id": 305,
+    "set": 9
   },
   {
     "name": "Sheep",

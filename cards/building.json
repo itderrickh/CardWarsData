@@ -304,7 +304,8 @@
     "type": 2,
     "imageurl": "Sundae_School.jpg",
     "ability": "When you have an even amount of Hit Points, your Creature on this Landscape has +2 ATK.",
-    "id": 496
+    "id": 496,
+    "set": 9
   },
   {
     "name": "Sinkhole",
