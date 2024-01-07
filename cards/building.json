@@ -114,7 +114,8 @@
     "type": 2,
     "imageurl": "Sand_Pyramid.jpg",
     "ability": "Pay 2 Actions >>> Return each Creature in this Lane to its owner's hand. (Affects both players.)",
-    "id": 478
+    "id": 478,
+    "set": 8
   },
   {
     "name": "Sand Sphinx",
@@ -123,7 +124,8 @@
     "type": 2,
     "imageurl": "Sand_Sphinx.jpg",
     "ability": "FLOOP >>> Return a Creature you control in this Lane to its owner's hand.",
-    "id": 479
+    "id": 479,
+    "set": 1
   },
   {
     "name": "Schoolhouse",
@@ -177,7 +179,8 @@
     "type": 2,
     "imageurl": "Temple_of_the_Sun.jpg",
     "ability": "When a SandyLands Creature with cost 1 or greater you control enters play in this Lane, you may return it to its owner's hand.",
-    "id": 485
+    "id": 485,
+    "set": 8
   },
   {
     "name": "Windmill of Health",
@@ -352,7 +355,8 @@
     "type": 2,
     "imageurl": "Lunchpad.jpg",
     "ability": "FLOOP >>> Draw a card for each Creature that entered play onto this Landscape this turn.",
-    "id": 504
+    "id": 504,
+    "set": 4
   },
   {
     "name": "Charming City",
@@ -442,7 +446,8 @@
     "type": 2,
     "imageurl": "Sand_Castle.jpg",
     "ability": "Discard Sand Castle from play >>> Put your Creature on this Landscape into your hand and then play it for free.",
-    "id": 514
+    "id": 514,
+    "set": 6
   },
   {
     "name": "Crab Skull Island",
@@ -451,7 +456,8 @@
     "type": 2,
     "imageurl": "Crab_Skull_Island.jpg",
     "ability": "Pay 1 Action, FLOOP >>> If this Landscape is empty, reveal cards from the top of your deck until you reveal a Creature, then play it onto this Landscape for free and shuffle the other revealed cards into your deck.",
-    "id": 515
+    "id": 515,
+    "set": 6
   },
   {
     "name": "Cloud Tower",

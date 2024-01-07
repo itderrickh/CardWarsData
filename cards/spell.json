@@ -159,7 +159,8 @@
     "type": 1,
     "imageurl": "Lucky_Penny.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Blue Plains Landscape.",
-    "id": 365
+    "id": 365,
+    "set": 8
   },
   {
     "name": "Magic Lamp",
@@ -258,7 +259,8 @@
     "type": 1,
     "imageurl": "Portal_of_Unsummoning.jpg",
     "ability": "Return target Creature to its owner's hand.",
-    "id": 376
+    "id": 376,
+    "set": 8
   },
   {
     "name": "Portal to Nowhere",
@@ -267,7 +269,8 @@
     "type": 1,
     "imageurl": "Portal_to_Nowhere.jpg",
     "ability": "Move 1 of your opponent's Creatures to an adjacent empty Lane (on his side).",
-    "id": 377
+    "id": 377,
+    "set": 8
   },
   {
     "name": "Psychic Tempest",
@@ -276,7 +279,8 @@
     "type": 1,
     "imageurl": "Psychic_Tempest.jpg",
     "ability": "Return all Creatures in play you own to your hand. (This includes stolen Creatures.)",
-    "id": 378
+    "id": 378,
+    "set": 8
   },
   {
     "name": "Puma Paw",
@@ -366,7 +370,8 @@
     "type": 1,
     "imageurl": "Snake_Eyes.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Useless Swamp Landscape.",
-    "id": 388
+    "id": 388,
+    "set": 8
   },
   {
     "name": "Socks of Fortitude",
@@ -438,7 +443,8 @@
     "type": 1,
     "imageurl": "Tome_of_Ankhs.jpg",
     "ability": "Draw a card for each of your empty Lanes.",
-    "id": 396
+    "id": 396,
+    "set": 1
   },
   {
     "name": "Unempty Coffin",
@@ -640,7 +646,8 @@
     "type": 1,
     "imageurl": "Quick_Pick_Me_Up.jpg",
     "ability": "Return target Creature you control to its owner's hand. Gain Actions equal to its cost.",
-    "id": 418
+    "id": 418,
+    "set": 4
   },
   {
     "name": "Snowblower",
@@ -704,7 +711,8 @@
     "type": 1,
     "imageurl": "Free_Fall.jpg",
     "ability": "Each of your Creatures has +1 ATK this turn for each Creature that entered play this turn.",
-    "id": 425
+    "id": 425,
+    "set": 4
   },
   {
     "name": "Cute Overload",
@@ -839,7 +847,8 @@
     "type": 1,
     "imageurl": "Bail_Out.jpg",
     "ability": "Put target Creature you own into your hand, and then play it for free.",
-    "id": 440
+    "id": 440,
+    "set": 6
   },
   {
     "name": "Scorching Serve",
@@ -848,7 +857,8 @@
     "type": 1,
     "imageurl": "Scorching_Serve.jpg",
     "ability": "Destroy target opposing Creature. Each opponent draws cards equal to that Creature's cost.",
-    "id": 441
+    "id": 441,
+    "set": 6
   },
   {
     "name": "Clone",

@@ -4,6 +4,7 @@
         "type": 5,
         "landscape": 5,
         "cost": 2,
+        "set": 6,
         "imageurl": ""
     },
     {
@@ -11,6 +12,15 @@
         "type": 5,
         "landscape": 5,
         "cost": 1,
+        "set": 6,
+        "imageurl": ""
+    },
+    {
+        "name": "Assistance",
+        "type": 5,
+        "landscape": 3,
+        "cost": 1,
+        "set": 6,
         "imageurl": ""
     }
 ]

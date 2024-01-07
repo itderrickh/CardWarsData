@@ -4,7 +4,8 @@
     "Spell": 1,
     "Building": 2,
     "Landscape": 3,
-    "Hero": 4
+    "Hero": 4,
+    "Teamwork": 5
   },
   "landscape": {
     "BluePlains": 0,
