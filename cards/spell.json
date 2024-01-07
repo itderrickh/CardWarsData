@@ -15,7 +15,8 @@
     "type": 1,
     "imageurl": "Blue_Candy.jpg",
     "ability": "Heal up to 3 Damage from target Creature you control.",
-    "id": 349
+    "id": 349,
+    "set": 2
   },
   {
     "name": "Bone Wand",
@@ -51,7 +52,8 @@
     "type": 1,
     "imageurl": "Confectionary_Ring.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Cornfield Landscape.",
-    "id": 353
+    "id": 353,
+    "set": 8
   },
   {
     "name": "Corn Scepter",
@@ -78,7 +80,8 @@
     "type": 1,
     "imageurl": "Falling_Star.jpg",
     "ability": "Creatures you control take no Damage from opposing Creatures this turn.",
-    "id": 356
+    "id": 356,
+    "set": 2
   },
   {
     "name": "Field of Nightmares",
@@ -232,7 +235,8 @@
     "type": 1,
     "imageurl": "Piestorm.jpg",
     "ability": "Each of your Creatures with no Damage has +2 ATK this turn.",
-    "id": 373
+    "id": 373,
+    "set": 2
   },
   {
     "name": "Pink Candy",
@@ -325,7 +329,8 @@
     "type": 1,
     "imageurl": "Ring_of_Fluffy.jpg",
     "ability": "Target Creature you control has +X ATK this turn, where X is the amount of Damage on it.",
-    "id": 383
+    "id": 383,
+    "set": 2
   },
   {
     "name": "Ring of Third Eye",
@@ -352,7 +357,8 @@
     "type": 1,
     "imageurl": "Scroll_of_Fresh_Breath.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Useless Swamp Landscape.",
-    "id": 386
+    "id": 386,
+    "set": 8
   },
   {
     "name": "Snake Eye Ring",
@@ -591,7 +597,8 @@
     "type": 1,
     "imageurl": "Pentaid.jpg",
     "ability": "Heal exactly 5 Damage from target Creature you control (no more and no less).",
-    "id": 412
+    "id": 412,
+    "set": 3
   },
   {
     "name": "Snow Way",
@@ -1051,7 +1058,8 @@
     "type": 1,
     "imageurl": "Cuddle_Puddle.jpg",
     "ability": "Friendly Creatures have +1 ATK until the start of the Fight Phase. Then each Creature deals Damage equal to its ATK to the opposing Creature in its Lane.",
-    "id": 462
+    "id": 462,
+    "set": 6
   },
   {
     "name": "Hug It Out",
@@ -1060,7 +1068,8 @@
     "type": 1,
     "imageurl": "Hug_It_Out.jpg",
     "ability": "Destroy target Creature you control, and then destroy target opposing Creature in its Lane.",
-    "id": 463
+    "id": 463,
+    "set": 6
   },
   {
     "name": "Patchwork",
@@ -1068,8 +1077,9 @@
     "landscape": 4,
     "type": 1,
     "imageurl": "Patchwork.jpg",
-    "ability": "Redistribute the Damage oon Creatures you control (no Creature can have more Damage than DEF).",
-    "id": 464
+    "ability": "Redistribute the Damage on Creatures you control (no Creature can have more Damage than DEF).",
+    "id": 464,
+    "set": 6
   },
   {
     "name": "Stuffed",
@@ -1078,6 +1088,7 @@
     "type": 1,
     "imageurl": "Stuffed.jpg",
     "ability": "Choose a Creature you control and deal Damage to it equal to its ATK, and then double its ATK this turn.",
-    "id": 465
+    "id": 465,
+    "set": 6
   }
 ]

@@ -8,7 +8,8 @@
     "ability": "While Albino Eyebat has exactly 2 Damage on it, it has +2 ATK.",
     "attack": 2,
     "defense": 7,
-    "id": 47
+    "id": 47,
+    "set": 2
   },
   {
     "name": "Ancient Scholar",
@@ -41,7 +42,8 @@
     "ability": "Pay 1 Action >>> Heal all Damage from Angel of Chocolate.",
     "attack": 3,
     "defense": 7,
-    "id": 50
+    "id": 50,
+    "set": 2
   },
   {
     "name": "Angel of Vanilla",
@@ -52,7 +54,8 @@
     "ability": "Pay 1 Action >>> Heal all Damage from Angel of Vanilla.",
     "attack": 2,
     "defense": 6,
-    "id": 51
+    "id": 51,
+    "set": 2
   },
   {
     "name": "Apple Bully",
@@ -74,7 +77,8 @@
     "ability": "At the start of your turn, you may heal or deal 1 Damage to each Creature you control. (Choose for each Creature.)",
     "attack": 1,
     "defense": 7,
-    "id": 53
+    "id": 53,
+    "set": 2
   },
   {
     "name": "Archer Dan",
@@ -318,7 +322,8 @@
     "ability": "+1 DEF for each different Landscape type you control.",
     "attack": 4,
     "defense": 1,
-    "id": 75
+    "id": 75,
+    "set": 8
   },
   {
     "name": "Cotton Eyebat",
@@ -329,7 +334,8 @@
     "ability": "While Cotton Eyebat has exactly 4 Damage on it, it has +4 ATK.",
     "attack": 1,
     "defense": 8,
-    "id": 76
+    "id": 76,
+    "set": 2
   },
   {
     "name": "Cow",
@@ -362,7 +368,8 @@
     "ability": "FLOOP >>> You heal 1 Hit Point. (Can't go over 25.)",
     "attack": 0,
     "defense": 6,
-    "id": 79
+    "id": 79,
+    "set": 2
   },
   {
     "name": "Dark Angel",
@@ -528,7 +535,8 @@
     "ability": "Each adjacent NiceLands Creature has +2 DEF.",
     "attack": 2,
     "defense": 9,
-    "id": 94
+    "id": 94,
+    "set": 2
   },
   {
     "name": "Fancy Pants Gnome",
@@ -932,7 +940,8 @@
     "ability": "FLOOP >>> Deal 1 Damage to each opposing Creature that is on a SandyLands Landscape.",
     "attack": 1,
     "defense": 6,
-    "id": 130
+    "id": 130,
+    "set": 8
   },
   {
     "name": "Lime Slimey",
@@ -1022,7 +1031,8 @@
     "ability": "While Ms. Fluff has exactly 7 Damage on it, it has +7 ATK.",
     "attack": 2,
     "defense": 10,
-    "id": 138
+    "id": 138,
+    "set": 2
   },
   {
     "name": "Ms. Mummy",
@@ -1055,7 +1065,8 @@
     "ability": "At the start of your turn, if Niceasaurus Rex has Damage on it, draw a card.",
     "attack": 2,
     "defense": 7,
-    "id": 141
+    "id": 141,
+    "set": 2
   },
   {
     "name": "Ol' Corn Eye",
@@ -1154,7 +1165,8 @@
     "ability": "When Pieclops enters play, heal 1 Damage from each adjacent Creature.",
     "attack": 2,
     "defense": 7,
-    "id": 150
+    "id": 150,
+    "set": 2
   },
   {
     "name": "Pink Merwitch",
@@ -1232,7 +1244,8 @@
     "ability": "At the start of your turn, you heal 1 Hit Point for each different Landscape type you control. (Can't go over 25.)",
     "attack": 1,
     "defense": 4,
-    "id": 157
+    "id": 157,
+    "set": 2
   },
   {
     "name": "Red Eyeling",
@@ -1265,7 +1278,8 @@
     "ability": "While Sack of Pain has exactly 6 Damage on it, it has +6 ATK.",
     "attack": 2,
     "defense": 10,
-    "id": 160
+    "id": 160,
+    "set": 8
   },
   {
     "name": "Sand Angel",
@@ -1416,7 +1430,8 @@
     "ability": "When Snakemint deals Damage to an opposing player, you heal that many Hit Points. (Can't go over 25.)",
     "attack": 1,
     "defense": 7,
-    "id": 173
+    "id": 173,
+    "set": 2
   },
   {
     "name": "Squatting Bald Man",
@@ -1449,7 +1464,8 @@
     "ability": "If you control 3 or more different Landscape types when Strawberry Slimey enters play, heal 4 Damage from each Creature you control.",
     "attack": 2,
     "defense": 6,
-    "id": 176
+    "id": 176,
+    "set": 8
   },
   {
     "name": "Struzann Jinn",
@@ -1604,7 +1620,8 @@
     "ability": "While Wall of Chocolate has no Damage on it, it has +3 ATK.",
     "attack": 1,
     "defense": 9,
-    "id": 190
+    "id": 190,
+    "set": 2
   },
   {
     "name": "Wall of Ears",
@@ -1806,7 +1823,8 @@
     "ability": "FLOOP >>> Deal 1 Damage to target Creature. If Cottonpult has 5 or more Damage on it, it heals 1 Damage and readies.",
     "attack": 1,
     "defense": 8,
-    "id": 208
+    "id": 208,
+    "set": 3
   },
   {
     "name": "Dr. Stuffenstein",
@@ -1817,7 +1835,8 @@
     "ability": "FLOOP >>> Heal 2 Damage from a Creature on an adjacent Landscape. If Dr. Stuffenstein has 5 or more Damage on it, heal 2 Damage from each of your Creatures instead.",
     "attack": 1,
     "defense": 9,
-    "id": 209
+    "id": 209,
+    "set": 3
   },
   {
     "name": "Emperor Penguin",
@@ -1886,7 +1905,8 @@
     "ability": "Furious Hen has +1 ATK for each Damage on it.",
     "attack": 0,
     "defense": 10,
-    "id": 215
+    "id": 215,
+    "set": 3
   },
   {
     "name": "Furious Rooster",
@@ -1897,7 +1917,8 @@
     "ability": "Furious Rooster has +1 ATK for each Damage on it.",
     "attack": 0,
     "defense": 8,
-    "id": 216
+    "id": 216,
+    "set": 3
   },
   {
     "name": "Icemeister",
@@ -1931,7 +1952,8 @@
     "ability": "FLOOP >>> Draw a card. If Music Mallard has 5 or more Damage on it, draw an additional card.",
     "attack": 0,
     "defense": 9,
-    "id": 219
+    "id": 219,
+    "set": 3
   },
   {
     "name": "Papercut Tiger",
@@ -1942,7 +1964,8 @@
     "ability": "While Papercut Tiger has 5 Damage on it, it has +5 ATK.",
     "attack": 2,
     "defense": 9,
-    "id": 220
+    "id": 220,
+    "set": 3
   },
   {
     "name": "Reign Deer",
@@ -3255,7 +3278,8 @@
     "ability": "At the start of your turn, if Adorabunny has 4 or more Damage on it, deal 3 Damage to target opponent.",
     "attack": 0,
     "defense": 8,
-    "id": 336
+    "id": 336,
+    "set": 6
   },
   {
     "name": "Cutie Koala",
@@ -3266,7 +3290,8 @@
     "ability": "When Cutie Koala has 4 or more Damage on it, it has +2 ATK.",
     "attack": 1,
     "defense": 8,
-    "id": 337
+    "id": 337,
+    "set": 6
   },
   {
     "name": "Endearing Elephant",
@@ -3277,7 +3302,8 @@
     "ability": "Each time Endearing Elephant is targeted by an opponent's Spell, deal 2 Damage to target opponent.",
     "attack": 4,
     "defense": 4,
-    "id": 338
+    "id": 338,
+    "set": 6
   },
   {
     "name": "Fluffy Fox",
@@ -3288,7 +3314,8 @@
     "ability": "While Fluffy Fox has 4 or more Damage on it, it ignores the first 2 Damage dealt to it by opposing Creatures.",
     "attack": 2,
     "defense": 6,
-    "id": 339
+    "id": 339,
+    "set": 6
   },
   {
     "name": "Giddy Giraffe",
@@ -3299,7 +3326,8 @@
     "ability": "While Giddy Giraffe has 4 or more Damage on it, it deals Damage directly to your opponent instead of the opposing Creature.",
     "attack": 1,
     "defense": 8,
-    "id": 340
+    "id": 340,
+    "set": 6
   },
   {
     "name": "Huggable Hedgehog",
@@ -3310,7 +3338,8 @@
     "ability": "While Huggable Hedgehog has 4 or more Damage on it, it deals Damage directly to your opponent instead of the opposing Creature.",
     "attack": 3,
     "defense": 8,
-    "id": 341
+    "id": 341,
+    "set": 6
   },
   {
     "name": "Knit Kitty",
@@ -3321,7 +3350,8 @@
     "ability": "Knit Kitty is affected by Buildings on adjacent Landscapes.",
     "attack": 3,
     "defense": 7,
-    "id": 342
+    "id": 342,
+    "set": 6
   },
   {
     "name": "Loveable Lamb",
@@ -3332,7 +3362,8 @@
     "ability": "At the start of your turn, if Loveable Lamb has 4 or more Damage on it, deal 2 Damage to target opposing Creature in this Lane.",
     "attack": 2,
     "defense": 7,
-    "id": 343
+    "id": 343,
+    "set": 6
   },
   {
     "name": "Overstuffed Orangutan",
@@ -3343,7 +3374,8 @@
     "ability": "While Overstuffed Orangutan has 4 or more Damage on it, double its ATK.",
     "attack": 2,
     "defense": 8,
-    "id": 344
+    "id": 344,
+    "set": 6
   },
   {
     "name": "Patched Puppy",
@@ -3354,7 +3386,8 @@
     "ability": "Deal 3 Damage to Patched Puppy >>> Patched Puppy has +2 ATK this turn.",
     "attack": 3,
     "defense": 8,
-    "id": 345
+    "id": 345,
+    "set": 6
   },
   {
     "name": "Sewn Sloth",
@@ -3365,7 +3398,8 @@
     "ability": "Each adjacent Creature has +1 ATK. If Sewn Sloth has 4 or more Damage on it, each adjacent Creature has +2 ATK instead.",
     "attack": 0,
     "defense": 8,
-    "id": 346
+    "id": 346,
+    "set": 6
   },
   {
     "name": "Stitched Squirrel",
@@ -3376,6 +3410,7 @@
     "ability": "At the start of your turn, if Stitched Squirrel has 4 or more Damage on it, destroy target opposing Building in this Lane.",
     "attack": 2,
     "defense": 8,
-    "id": 347
+    "id": 347,
+    "set": 6
   }
 ]

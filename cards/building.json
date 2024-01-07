@@ -15,7 +15,8 @@
     "type": 2,
     "imageurl": "Cave_of_Solitude.jpg",
     "ability": "Discard a card >>> Your Creature in this Lane can't be targeted or attacked until the start of your next turn.",
-    "id": 467
+    "id": 467,
+    "set": 2
   },
   {
     "name": "Celestial Castle",
@@ -78,7 +79,8 @@
     "type": 2,
     "imageurl": "Nice_Windmill.jpg",
     "ability": "Pay 1 Action >>> Heal or deal up to 2 Damage to your Creature in this Lane.",
-    "id": 474
+    "id": 474,
+    "set": 8
   },
   {
     "name": "Night Tower",
@@ -189,7 +191,8 @@
     "type": 2,
     "imageurl": "Windmill_of_Health.jpg",
     "ability": "While your Creature in this Lane has no Damage on it, it has +2 ATK.",
-    "id": 486
+    "id": 486,
+    "set": 2
   },
   {
     "name": "Woad Mobile Home",
@@ -216,7 +219,8 @@
     "type": 2,
     "imageurl": "Auto-Plucker.jpg",
     "ability": "FLOOP >>> Heal or deal 1 Damage to your Creature in this Lane.",
-    "id": 489
+    "id": 489,
+    "set": 3
   },
   {
     "name": "Cardboard Mansion",
@@ -273,7 +277,8 @@
     "type": 2,
     "imageurl": "The_Big_Hen_House.jpg",
     "ability": "At the start of your turn, deal 1 or 2 Damage to your Creature in this Lane, then you heal 1 HP (Max 25).",
-    "id": 495
+    "id": 495,
+    "set": 3
   },
   {
     "name": "Sundae School",
@@ -522,7 +527,8 @@
     "type": 2,
     "imageurl": "Bean_Ball_Bomba.jpg",
     "ability": "FLOOP >>> Heal or deal Damage to your Creature on this Landscape until it has 4 Damage on it.",
-    "id": 522
+    "id": 522,
+    "set": 6
   },
   {
     "name": "Pillow Fortress",
@@ -531,6 +537,7 @@
     "type": 2,
     "imageurl": "Pillow_Fortress.jpg",
     "ability": "Pay 1 Action, FLOOP >> Heal 2 or deal 2 Damage to a Creature you control on this Landscape. Do the same to another friendly Creature.",
-    "id": 523
+    "id": 523,
+    "set": 6
   }
 ]
