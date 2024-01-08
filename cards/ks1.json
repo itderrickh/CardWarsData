@@ -1,1 +1,235 @@
-[]
+[
+  {
+    "name": "Peppermint Butler",
+    "type": 4,
+    "imageurl": "Peppermint_Butler.jpg",
+    "ability": "The first time a Creature you control is destroyed on your turn >>> Deal 2 Damage to a Creature an opponent controls.",
+    "set": 10
+  },
+  {
+    "name": "Dark-o-Mint",
+    "type": 0,
+    "imageurl": "Dark-o-Mint.jpg",
+    "set": 10,
+    "ability": "When this is destroyed, your opponent must discard 2 cards.",
+    "cost": 1,
+    "landscape": 4,
+    "attack": 4,
+    "defense": 4
+  },
+  {
+    "name": "Terrible Tower",
+    "type": 2,
+    "landscape": 4,
+    "imageurl": "Terrible_Tower.jpg",
+    "ability": "Destroy your Creature on this Landscape, FLOOP >>> Play the top 2 cards of your deck.",
+    "cost": 2,
+    "set": 10
+  },
+  {
+    "name": "Tools of the Trade",
+    "type": 1,
+    "landscape": 4,
+    "imageurl": "Tools_of_the_Trade.jpg",
+    "cost": 1,
+    "ability": "Each of your Creatures has +1 ATK this turn. If an opponent's Creature is defeated this turn, ignore its text.",
+    "set": 10
+  },
+  {
+    "name": "Ice Queen",
+    "type": 4,
+    "imageurl": "Ice_Queen.jpg",
+    "ability": "During each opponent's turn, Creatures you control with no Damage on them have +1 ATK.",
+    "set": 10
+  },
+  {
+    "name": "Cinnamon Bun",
+    "type": 4,
+    "imageurl": "Cinnamon_Bun.jpg",
+    "ability": "Once during your turn, you may deal 2 Damage to one of your Creatures and gain 2 HP.",
+    "set": 10
+  },
+  {
+    "name": "The Lich",
+    "type": 4,
+    "imageurl": "The_Lich.jpg",
+    "ability": "Once during your turn, you may destroy a Creature you control to gain 1 Action.",
+    "set": 10
+  },
+  {
+    "name": "Whims of Fate",
+    "type": 1,
+    "landscape": 6,
+    "imageurl": "Whims_of_Fate.jpg",
+    "cost": 0,
+    "ability": "Flip a coin. If heads, destroy a Creature you control. If tails, place a Creature in your discard pile onto an empty Landscape you control.",
+    "set": 10
+  },
+  {
+    "name": "Ancient Comet",
+    "type": 1,
+    "landscape": 6,
+    "imageurl": "Ancient_Comet.jpg",
+    "cost": 0,
+    "ability": "Flip a coin. If heads, deal 2 Damage to each of your Creatures. If tails, your Creatures get +2 ATK this turn.",
+    "set": 10
+  },
+  {
+    "name": "Monolith of Doom",
+    "type": 2,
+    "landscape": 6,
+    "imageurl": "Monolith_of_Doom.jpg",
+    "cost": 2,
+    "ability": "If your Creature in this Lane is destroyed, destroy Monolith of Doom and all Creatures in all Lanes.",
+    "set": 10
+  },
+  {
+    "name": "Neptr",
+    "type": 4,
+    "imageurl": "Neptr.jpg",
+    "ability": "Once during each of your turns, you may discard the top card of your deck. If it was a Creature, put it into your hand.",
+    "set": 10
+  },
+  {
+    "name": "Berserk Bakery",
+    "type": 2,
+    "landscape": 1,
+    "imageurl": "Berserk_Bakery.jpg",
+    "cost": 2,
+    "ability": "Once during your turn, you may discard a card from your hand to put a token on this. FLOOP >>> Deal 1 Damage to the opposing Creature in this Lane for each token on Berserk Bakery.",
+    "set": 10
+  },
+  {
+    "name": "Infinite Pies",
+    "type": 1,
+    "landscape": 1,
+    "imageurl": "Infinite_Pies.jpg",
+    "cost": 2,
+    "ability": "Discard the top card of your deck. If it was a Creature, deal 2 Damage to an opponent and you may play this Spell again.",
+    "set": 10
+  },
+  {
+    "name": "Crust Crusher",
+    "type": 0,
+    "landscape": 1,
+    "imageurl": "Crust_Crusher.jpg",
+    "cost": 2,
+    "ability": "This can be on a Landscape with another Creature. When the other Creature on this Landscape is dealt Damage, deal it to Crust Crusher instead.",
+    "set": 10,
+    "attack": 2,
+    "defense": 8
+  },
+  {
+    "name": "Party_God",
+    "type": 4,
+    "imageurl": "Party_God.jpg",
+    "ability": "When a Creature you control moves, it has +1 ATK this turn.",
+    "set": 10
+  },
+  {
+    "name": "Party Energy",
+    "type": 1,
+    "landscape": 3,
+    "imageurl": "Party_Energy.jpg",
+    "cost": 2,
+    "ability": "Move all of your Creatures to new Lanes. Each Creature that moved gets +2 ATK this turn.",
+    "set": 10
+  },
+  {
+    "name": "Party Oasis",
+    "type": 2,
+    "landscape": 3,
+    "imageurl": "Party_Oasis.jpg",
+    "cost": 1,
+    "ability": "FLOOP >>> Move a Creature from this Lane to an empty Lane. You may move another Creature you control to this Lane.",
+    "set": 10
+  },
+  {
+    "name": "Bongo Bounce House",
+    "type": 2,
+    "landscape": 3,
+    "imageurl": "Bongo_Bounce_House.jpg",
+    "cost": 2,
+    "ability": "When you would be dealt Damage, deal that Damage to Bongo Bounce House instead.",
+    "defense": 8,
+    "set": 10
+  },
+  {
+    "name": "Death",
+    "type": 4,
+    "imageurl": "Death.jpg",
+    "ability": "Once during your turn, you may turn a Landscape you control face down to deal 4 Damage to your opponent.",
+    "set": 10
+  },
+  {
+    "name": "Ancient Healer",
+    "type": 0,
+    "landscape": 0,
+    "imageurl": "Ancient_Healer.jpg",
+    "cost": 2,
+    "ability": "When this is played on a facedown Landscape, turn it face up and heal 4 HP.",
+    "set": 10,
+    "attack": 2,
+    "defense": 10
+  },
+  {
+    "name": "Last Will & Detriment",
+    "type": 1,
+    "landscape": 0,
+    "imageurl": "Last_Will_&_Detriment.jpg",
+    "cost": 1,
+    "ability": "Put this under an opposing Creature. If the Creature is destroyed, deal 5 Damage to your opponent.",
+    "set": 10
+  },
+  {
+    "name": "Creepy Crypt",
+    "type": 2,
+    "landscape": 0,
+    "imageurl": "Creepy_Crypt.jpg",
+    "cost": 2,
+    "ability": "When your Creature in this Lane leaves play, deal its ATK to your opponent.",
+    "set": 10
+  },
+  {
+    "name": "James Baxter",
+    "type": 4,
+    "imageurl": "James_Baxter.jpg",
+    "ability": "Once during your turn, you may draw a card. If you do, your opponent may draw a card.",
+    "set": 10
+  },
+  {
+    "name": "Beach Ball",
+    "type": 1,
+    "landscape": 6,
+    "imageurl": "Beach_Ball.jpg",
+    "cost": 0,
+    "ability": "Gain 4 HP. Draw a card. You may put this into an opponent's hand. If you do, draw another card.",
+    "set": 10
+  },
+  {
+    "name": "Dressage Dance Hall",
+    "type": 2,
+    "landscape": 6,
+    "imageurl": "Dressage_Dance_Hall.jpg",
+    "cost": 1,
+    "ability": "This counts as a copy of your Landscape in this Lane.",
+    "set": 10
+  },
+  {
+    "name": "Happy Ghost Lucky",
+    "type": 0,
+    "landscape": 6,
+    "imageurl": "Happy_Ghost_Lucky.jpg",
+    "cost": 0,
+    "ability": "When this enters play, and when it Attacks, you may look at the top card of your deck. If it is a Rainbow card, you may put it into your hand.",
+    "attack": 1,
+    "defense": 4
+  },
+  {
+    "name": "10th Anniversary Backer",
+    "type": 4,
+    "imageurl": "10th_Anniversary_Backer.jpg",
+    "ability": "The first time you play a KICKSTARTER card on your turn, reveal the top card of your deck. If it is a KICKSTARTER card, draw it.",
+    "set": 10
+  }
+]

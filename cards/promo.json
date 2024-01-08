@@ -20,5 +20,16 @@
     "ability": "When you have an even amount of Hit Points, your Creature on this Landscape has +2 ATK.",
     "id": 533,
     "set": 9
+  },
+  {
+    "name": "Blue Plains Drifter",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "imageurl": "Blue_Plains_Drifter.jpg",
+    "ability": "FLOOP >>> Swap Lanes with another of your Creatures. Both Creatures have +1 ATK this turn.",
+    "set": 9,
+    "attack": 1,
+    "defense": 6
   }
 ]
