@@ -15,7 +15,7 @@
     "name": "The Winter King",
     "type": 4,
     "imageurl": "The_Winter_King.jpg",
-    "ability": "When you would discard a card by the effect of a Frozen token on a Landscape you control, you may Draw a card instead.",
+    "ability": "When you would discard a card by the effect of a Frozen token on a Landscape you control, you may Draw a card instead. You must start the game with 2 IcyLands Landscapes.",
     "id": 10001,
     "set": 11
   },
