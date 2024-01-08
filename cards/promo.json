@@ -8,7 +8,7 @@
     "ability": "+1 DEF for each open eye depicted on other Creatures you control.",
     "attack": 3,
     "defense": 1,
-    "id": 532,
+    "id": 523,
     "set": 9
   },
   {
@@ -18,7 +18,7 @@
     "type": 2,
     "imageurl": "Sundae_School.jpg",
     "ability": "When you have an even amount of Hit Points, your Creature on this Landscape has +2 ATK.",
-    "id": 533,
+    "id": 524,
     "set": 9
   },
   {
@@ -30,6 +30,7 @@
     "ability": "FLOOP >>> Swap Lanes with another of your Creatures. Both Creatures have +1 ATK this turn.",
     "set": 9,
     "attack": 1,
-    "defense": 6
+    "defense": 6,
+    "id": 525
   }
 ]

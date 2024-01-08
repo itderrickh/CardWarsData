@@ -8,7 +8,7 @@
     "ability": "Apple Bully's Landscape cannot be flipped down by effects opponents control.",
     "attack": 3,
     "defense": 8,
-    "id": 436,
+    "id": 427,
     "set": 8
   },
   {
@@ -20,7 +20,7 @@
     "ability": "+1 ATK for each card players (including you) have discarded from their hand this turn.",
     "attack": 1,
     "defense": 7,
-    "id": 437,
+    "id": 428,
     "set": 8
   },
   {
@@ -32,7 +32,7 @@
     "ability": "FLOOP >>> Deal 1 Damage to each opposing Creture that is on a Useless Swamp Landscape.",
     "attack": 1,
     "defense": 6,
-    "id": 438,
+    "id": 429,
     "set": 8
   },
   {
@@ -44,7 +44,7 @@
     "ability": "FLOOP >>> Draw a card, and then discard a card.",
     "attack": 2,
     "defense": 5,
-    "id": 439,
+    "id": 430,
     "set": 8
   },
   {
@@ -56,7 +56,7 @@
     "ability": "Whenever you draw a card, Blue Ogre has +1 ATK this turn.",
     "attack": 1,
     "defense": 5,
-    "id": 440,
+    "id": 431,
     "set": 8
   },
   {
@@ -68,7 +68,7 @@
     "ability": "If you control 3 or more different Landscape types when Blue Slimey enters play, return a Creature in this Lane to its owner's hand.",
     "attack": 2,
     "defense": 6,
-    "id": 441,
+    "id": 432,
     "set": 8
   },
   {
@@ -80,7 +80,7 @@
     "ability": "Blueberry Pieclops costs 1 less to play for each Spell you have played this turn.",
     "attack": 5,
     "defense": 6,
-    "id": 442,
+    "id": 433,
     "set": 8
   },
   {
@@ -92,7 +92,7 @@
     "ability": "Adjacent Cornfield Creatures have +1 ATK.",
     "attack": 2,
     "defense": 7,
-    "id": 443,
+    "id": 434,
     "set": 8
   },
   {
@@ -104,7 +104,7 @@
     "ability": "When Captain Taco enters play, deal 1 Damage to each Creature that is not on a Cornfield Landscape.",
     "attack": 1,
     "defense": 1,
-    "id": 444,
+    "id": 435,
     "set": 8
   },
   {
@@ -116,7 +116,7 @@
     "ability": "Pay 1 Action >>> Deal 1 Damage to target Creature in this Lane for each different Landscape type you control.",
     "attack": 2,
     "defense": 7,
-    "id": 445,
+    "id": 436,
     "set": 8
   },
   {
@@ -128,7 +128,7 @@
     "ability": "+1 DEF for each different Landscape type you control.",
     "attack": 4,
     "defense": 1,
-    "id": 446,
+    "id": 437,
     "set": 8
   },
   {
@@ -140,7 +140,7 @@
     "ability": "Each adjacent Cornfield Creature has +1 DEF.",
     "attack": 3,
     "defense": 8,
-    "id": 447,
+    "id": 438,
     "set": 8
   },
   {
@@ -152,7 +152,7 @@
     "ability": "Davey Bones has +2 ATK while defending against a Creature that is on a SandyLands Landscape.",
     "attack": 1,
     "defense": 4,
-    "id": 448,
+    "id": 439,
     "set": 8
   },
   {
@@ -164,7 +164,7 @@
     "ability": "When Diamond Dan leaves play from a NiceLands Landscape, return it to its owner's hand.",
     "attack": 2,
     "defense": 2,
-    "id": 449,
+    "id": 440,
     "set": 8
   },
   {
@@ -176,7 +176,7 @@
     "ability": "FLOOP >>> Pay 2 less to play your next Spell this turn.",
     "attack": 1,
     "defense": 6,
-    "id": 450,
+    "id": 441,
     "set": 8
   },
   {
@@ -188,7 +188,7 @@
     "ability": "When Ethan Allfire leaves play, draw 1 card for each Cornfield Landscape you control.",
     "attack": 0,
     "defense": 4,
-    "id": 451,
+    "id": 442,
     "set": 8
   },
   {
@@ -200,7 +200,7 @@
     "ability": "At the start of your turn, look at the top card of your deck. You may put it on the bottom of your deck.",
     "attack": 1,
     "defense": 8,
-    "id": 452,
+    "id": 443,
     "set": 8
   },
   {
@@ -212,7 +212,7 @@
     "ability": "FLOOP >>> Deal 1 Damage to each opposing Creature that is on a Cornfield Landscape.",
     "attack": 1,
     "defense": 6,
-    "id": 453,
+    "id": 444,
     "set": 8
   },
   {
@@ -224,7 +224,7 @@
     "ability": "If Fisher Fish enters play onto a Blue Plains Landscape, deal 2 Damage to each opposing player.",
     "attack": 2,
     "defense": 6,
-    "id": 454,
+    "id": 445,
     "set": 8
   },
   {
@@ -236,7 +236,7 @@
     "ability": "Ghost has +2 ATK while defending against a Creature that is on a Useless Swamp Landscape.",
     "attack": 1,
     "defense": 4,
-    "id": 455,
+    "id": 446,
     "set": 8
   },
   {
@@ -248,7 +248,7 @@
     "ability": "When Ghost Chest Burster leaves play, draw the bottom card of your deck.",
     "attack": 1,
     "defense": 9,
-    "id": 456,
+    "id": 447,
     "set": 8
   },
   {
@@ -260,7 +260,7 @@
     "ability": "Ghost Hag has +2 ATK while defending against a Creature that is on a Blue Plains Landscape.",
     "attack": 1,
     "defense": 4,
-    "id": 457,
+    "id": 448,
     "set": 8
   },
   {
@@ -272,7 +272,7 @@
     "ability": "When Ghost Ninja deals Damage to an opposing player, that opponent can't play Spells during his next turn.",
     "attack": 2,
     "defense": 7,
-    "id": 458,
+    "id": 449,
     "set": 8
   },
   {
@@ -284,7 +284,7 @@
     "ability": "Ghost Tree has +2 ATK while defending against a Creature that is on a Cornfield Landscape.",
     "attack": 1,
     "defense": 4,
-    "id": 459,
+    "id": 450,
     "set": 8
   },
   {
@@ -296,7 +296,7 @@
     "ability": "FLOOP >>> Deal 1 Damage to target Creature for each Cornfield Landscape adjacent to this Lane.",
     "attack": 0,
     "defense": 7,
-    "id": 460,
+    "id": 451,
     "set": 8
   },
   {
@@ -308,7 +308,7 @@
     "ability": "When Gold Ninja enters play, deal 1 Damage to target Creature for each different Landscape type you control.",
     "attack": 2,
     "defense": 6,
-    "id": 461,
+    "id": 452,
     "set": 8
   },
   {
@@ -320,7 +320,7 @@
     "ability": "Whenever an opponent draws a card, deal 1 Damage to that player.",
     "attack": 1,
     "defense": 7,
-    "id": 462,
+    "id": 453,
     "set": 8
   },
   {
@@ -332,7 +332,7 @@
     "ability": "FLOOP and discard a SandyLands card >>> Deal 1 Damge to each opposing Creature.",
     "attack": 1,
     "defense": 4,
-    "id": 463,
+    "id": 454,
     "set": 8
   },
   {
@@ -344,7 +344,7 @@
     "ability": "FLOOP >>> Deal 1 Damage to each opposing Creature that is on a Blue Plains Landscape",
     "attack": 1,
     "defense": 6,
-    "id": 464,
+    "id": 455,
     "set": 8
   },
   {
@@ -356,7 +356,7 @@
     "ability": "When a Creature you control leaves play, heal 1 Damage from Green Party Ogre.",
     "attack": 1,
     "defense": 8,
-    "id": 465,
+    "id": 456,
     "set": 8
   },
   {
@@ -368,7 +368,7 @@
     "ability": "When Green Snakey leaves play, deal 1 Damage to target Creature in this Lane.",
     "attack": 1,
     "defense": 6,
-    "id": 466,
+    "id": 457,
     "set": 8
   },
   {
@@ -380,7 +380,7 @@
     "ability": "At the start of your turn, you may return a Creature you control with 2 or fewer DEF remaining to its owners hand.",
     "attack": 1,
     "defense": 9,
-    "id": 467,
+    "id": 458,
     "set": 8
   },
   {
@@ -392,7 +392,7 @@
     "ability": "FLOOP >>> Deal 1 Damage to each opposing Creature that is on a SandyLands Landscape.",
     "attack": 1,
     "defense": 6,
-    "id": 468,
+    "id": 459,
     "set": 8
   },
   {
@@ -404,7 +404,7 @@
     "ability": "If you control 3 or more different Landscape types when Lime Slimey enters play, draw 2 cards.",
     "attack": 2,
     "defense": 6,
-    "id": 469,
+    "id": 460,
     "set": 8
   },
   {
@@ -416,7 +416,7 @@
     "ability": "+1 DEF for each different Landscape type you control.",
     "attack": 4,
     "defense": 1,
-    "id": 470,
+    "id": 461,
     "set": 8
   },
   {
@@ -428,7 +428,7 @@
     "ability": "FLOOP >> Put a Building from your hand below this Lane (if it doesn't already have one).",
     "attack": 2,
     "defense": 2,
-    "id": 471,
+    "id": 462,
     "set": 8
   },
   {
@@ -440,7 +440,7 @@
     "ability": "When Lt. Mushroom leaves play during an opponent's turn, that opponent discards 3 cards.",
     "attack": 2,
     "defense": 3,
-    "id": 472,
+    "id": 463,
     "set": 8
   },
   {
@@ -452,7 +452,7 @@
     "ability": "If you control 3 or more different Landscape types when Orange Slimey enters play, deal 3 Damage to your opponent.",
     "attack": 2,
     "defense": 6,
-    "id": 473,
+    "id": 464,
     "set": 8
   },
   {
@@ -464,7 +464,7 @@
     "ability": "Each Creature that changed Lanes this turn has +3 ATK this turn. (Opposing Creatures do not benefit from this.)",
     "attack": 3,
     "defense": 7,
-    "id": 474,
+    "id": 465,
     "set": 8
   },
   {
@@ -476,7 +476,7 @@
     "ability": "Opponents can't play 0 cost cards.",
     "attack": 3,
     "defense": 8,
-    "id": 475,
+    "id": 466,
     "set": 8
   },
   {
@@ -488,7 +488,7 @@
     "ability": "Sacrifice Pickler >>> Deal 3 Damage to target Creature.",
     "attack": 2,
     "defense": 9,
-    "id": 476,
+    "id": 467,
     "set": 8
   },
   {
@@ -500,7 +500,7 @@
     "ability": "When Pirate Bear is on Useless Swamp Landscape, it deals triple Damage.",
     "attack": 1,
     "defense": 3,
-    "id": 477,
+    "id": 468,
     "set": 8
   },
   {
@@ -512,7 +512,7 @@
     "ability": "+1 DEF for each different Landscape type you control.",
     "attack": 4,
     "defense": 1,
-    "id": 478,
+    "id": 469,
     "set": 8
   },
   {
@@ -524,7 +524,7 @@
     "ability": "At the start of your turn, deal 2 Damage to each opponent with 4 or more cards in hand.",
     "attack": 0,
     "defense": 6,
-    "id": 479,
+    "id": 470,
     "set": 8
   },
   {
@@ -536,7 +536,7 @@
     "ability": "Rocktopus has +1 ATK while attacking a Creature that is on a SandyLands Landscape.",
     "attack": 3,
     "defense": 6,
-    "id": 480,
+    "id": 471,
     "set": 8
   },
   {
@@ -548,7 +548,7 @@
     "ability": "While Sack of Pain has exactly 6 Damage on it, it has +6 ATK.",
     "attack": 2,
     "defense": 10,
-    "id": 481,
+    "id": 472,
     "set": 8
   },
   {
@@ -560,7 +560,7 @@
     "ability": "While Sand Jackal is on a NiceLands Landscape, when it defeats an opposing Creature, you heal 3 Hit Points.",
     "attack": 3,
     "defense": 3,
-    "id": 482,
+    "id": 473,
     "set": 8
   },
   {
@@ -572,7 +572,7 @@
     "ability": "Sea Hag has +1 ATK while attacking a Creature that is on a Useless Swamp Landscape.",
     "attack": 3,
     "defense": 6,
-    "id": 483,
+    "id": 474,
     "set": 8
   },
   {
@@ -584,7 +584,7 @@
     "ability": "When Smouldering Elder enters play, each player discards 2 cards.",
     "attack": 3,
     "defense": 8,
-    "id": 484,
+    "id": 475,
     "set": 8
   },
   {
@@ -596,7 +596,7 @@
     "ability": "If you control 3 or more different Landscape types when Strawberry Slimey enters play, heal 4 Damage from each Creature you control.",
     "attack": 2,
     "defense": 6,
-    "id": 485,
+    "id": 476,
     "set": 8
   },
   {
@@ -608,7 +608,7 @@
     "ability": "Sun King counts as an additional Cornfield Landscape you control.",
     "attack": 0,
     "defense": 8,
-    "id": 486,
+    "id": 477,
     "set": 8
   },
   {
@@ -620,7 +620,7 @@
     "ability": "+1 DEF for each different Landscape type you control.",
     "attack": 4,
     "defense": 1,
-    "id": 487,
+    "id": 478,
     "set": 8
   },
   {
@@ -632,7 +632,7 @@
     "ability": "FLOOP >>> Choose a card name. Remove each card with that name in target player's discard pile from the game.",
     "attack": 1,
     "defense": 8,
-    "id": 488,
+    "id": 479,
     "set": 8
   },
   {
@@ -644,7 +644,7 @@
     "ability": "Timmy Magic Eyes has +1 ATK while attacking a Creature that is on a Blue Plains Landscape.",
     "attack": 3,
     "defense": 6,
-    "id": 489,
+    "id": 480,
     "set": 8
   },
   {
@@ -656,7 +656,7 @@
     "ability": "When Travelin' Wizard enters play, the opposing Creature in this Lane and Travelin' Wizard switch sides.",
     "attack": 3,
     "defense": 3,
-    "id": 490,
+    "id": 481,
     "set": 8
   },
   {
@@ -668,7 +668,7 @@
     "ability": "Well-Dressed Wolf has +1 ATK while attacking a Creature that is on a Cornfield Landscape.",
     "attack": 3,
     "defense": 6,
-    "id": 491,
+    "id": 482,
     "set": 8
   },
   {
@@ -680,7 +680,7 @@
     "ability": "FLOOP >>> Deal 1 Damage to each opposing Creature that is on a NiceLands Landscape.",
     "attack": 1,
     "defense": 6,
-    "id": 492,
+    "id": 483,
     "set": 8
   },
   {
@@ -692,7 +692,7 @@
     "ability": "While you control 3 or more different Landscape types, Yellow Slimey has +3 ATK.",
     "attack": 0,
     "defense": 6,
-    "id": 493,
+    "id": 484,
     "set": 8
   },
   {
@@ -702,7 +702,7 @@
     "type": 1,
     "imageurl": "Confectionary_Ring.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Cornfield Landscape.",
-    "id": 494,
+    "id": 485,
     "set": 8
   },
   {
@@ -712,7 +712,7 @@
     "type": 1,
     "imageurl": "Full_Metal_Racket.jpg",
     "ability": "Deal 2 Damage to target Creature.",
-    "id": 495,
+    "id": 486,
     "set": 8
   },
   {
@@ -722,7 +722,7 @@
     "type": 1,
     "imageurl": "Grape_Butt.jpg",
     "ability": "Play only if you played a non-Cornfield card this turn. Deal 5 Damage to target Creature.",
-    "id": 496,
+    "id": 487,
     "set": 8
   },
   {
@@ -732,7 +732,7 @@
     "type": 1,
     "imageurl": "Husker_Amulet.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a NiceLands Landscape.",
-    "id": 497,
+    "id": 488,
     "set": 8
   },
   {
@@ -742,7 +742,7 @@
     "type": 1,
     "imageurl": "Incredible_Egg.jpg",
     "ability": "Reveal the top 2 cards of your deck. You may put a revealed Cornfield card into your hand. Discard the rest.",
-    "id": 498,
+    "id": 489,
     "set": 8
   },
   {
@@ -752,7 +752,7 @@
     "type": 1,
     "imageurl": "Kung_Fu_Power.jpg",
     "ability": "Ready 1 Creature of each type you control. (The types are Cornfield, Rainbow, Useless Swamp, Blue Plains, NiceLands, and SandyLands.)",
-    "id": 499,
+    "id": 490,
     "set": 8
   },
   {
@@ -762,7 +762,7 @@
     "type": 1,
     "imageurl": "Lucky_Penny.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Blue Plains Landscape.",
-    "id": 500,
+    "id": 491,
     "set": 8
   },
   {
@@ -772,7 +772,7 @@
     "type": 1,
     "imageurl": "Magic_Lamp.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a SandyLands Landscape.",
-    "id": 501,
+    "id": 492,
     "set": 8
   },
   {
@@ -782,7 +782,7 @@
     "type": 1,
     "imageurl": "Master_of_Disguise.jpg",
     "ability": "Each of your opponent's Creatures has -1 ATK this turn.",
-    "id": 502,
+    "id": 493,
     "set": 8
   },
   {
@@ -792,7 +792,7 @@
     "type": 1,
     "imageurl": "Musical_Chair.jpg",
     "ability": "Swap up to 2 of your Landscapes with ones from outside of the game.",
-    "id": 503,
+    "id": 494,
     "set": 8
   },
   {
@@ -802,7 +802,7 @@
     "type": 1,
     "imageurl": "Ogre_Braces.jpg",
     "ability": "You heal 1 Hit Point for every 5 cards in your discard pile.",
-    "id": 504,
+    "id": 495,
     "set": 8
   },
   {
@@ -812,7 +812,7 @@
     "type": 1,
     "imageurl": "Pink_Candy.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a SandyLands Landscape.",
-    "id": 505,
+    "id": 496,
     "set": 8
   },
   {
@@ -822,7 +822,7 @@
     "type": 1,
     "imageurl": "Popcorn_Power.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Blue Plains Landscape.",
-    "id": 506,
+    "id": 497,
     "set": 8
   },
   {
@@ -832,7 +832,7 @@
     "type": 1,
     "imageurl": "Portal_of_Unsummoning.jpg",
     "ability": "Return target Creature to its owner's hand.",
-    "id": 507,
+    "id": 498,
     "set": 8
   },
   {
@@ -842,7 +842,7 @@
     "type": 1,
     "imageurl": "Portal_to_Nowhere.jpg",
     "ability": "Move 1 of your opponent's Creatures to an adjacent empty Lane (on his side).",
-    "id": 508,
+    "id": 499,
     "set": 8
   },
   {
@@ -852,7 +852,7 @@
     "type": 1,
     "imageurl": "Psychic_Tempest.jpg",
     "ability": "Return all Creatures in play you own to your hand. (This includes stolen Creatures.)",
-    "id": 509,
+    "id": 500,
     "set": 8
   },
   {
@@ -862,7 +862,7 @@
     "type": 1,
     "imageurl": "Puma_Paw.jpg",
     "ability": "Ready a Flooped Creature you control. It has +2 ATK this turn.",
-    "id": 510,
+    "id": 501,
     "set": 8
   },
   {
@@ -872,7 +872,7 @@
     "type": 1,
     "imageurl": "Raise_the_Dead.jpg",
     "ability": "Put a Creature with cost 2 or less from your discard pile into play.",
-    "id": 511,
+    "id": 502,
     "set": 8
   },
   {
@@ -882,7 +882,7 @@
     "type": 1,
     "imageurl": "Ring_of_Damage.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn.",
-    "id": 512,
+    "id": 503,
     "set": 8
   },
   {
@@ -892,7 +892,7 @@
     "type": 1,
     "imageurl": "Ring_of_Third_Eye.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Cornfield Landscape.",
-    "id": 513,
+    "id": 504,
     "set": 8
   },
   {
@@ -902,7 +902,7 @@
     "type": 1,
     "imageurl": "Scroll_of_Bad_Breath.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a NiceLands Landscape.",
-    "id": 514,
+    "id": 505,
     "set": 8
   },
   {
@@ -912,7 +912,7 @@
     "type": 1,
     "imageurl": "Scroll_of_Fresh_Breath.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Useless Swamp Landscape.",
-    "id": 515,
+    "id": 506,
     "set": 8
   },
   {
@@ -922,7 +922,7 @@
     "type": 1,
     "imageurl": "Snake_Eyes.jpg",
     "ability": "Each of your Creatures has +2 ATK this turn while attacking a Creature that is on a Useless Swamp Landscape.",
-    "id": 516,
+    "id": 507,
     "set": 8
   },
   {
@@ -932,7 +932,7 @@
     "type": 1,
     "imageurl": "Socks_of_Fortitude.jpg",
     "ability": "Ready each Creature that changed Lanes this turn. They each have +2 ATK this turn.",
-    "id": 517,
+    "id": 508,
     "set": 8
   },
   {
@@ -942,7 +942,7 @@
     "type": 1,
     "imageurl": "Spell_Warp.jpg",
     "ability": "Swap the positions of 2 Creatures you control. (They change Lanes simultaneously.)",
-    "id": 518,
+    "id": 509,
     "set": 8
   },
   {
@@ -952,7 +952,7 @@
     "type": 1,
     "imageurl": "Tax_Reduction.jpg",
     "ability": "You may move each of your Buildings to different Lanes you control. You may move each of your opponent's Buildings to different Lanes he controls.",
-    "id": 519,
+    "id": 510,
     "set": 8
   },
   {
@@ -962,7 +962,7 @@
     "type": 1,
     "imageurl": "Witch_Slap.jpg",
     "ability": "Target opponent discards down to 5 cards, and then takes 1 Damage for each card discarded this way.",
-    "id": 520,
+    "id": 511,
     "set": 8
   },
   {
@@ -972,7 +972,7 @@
     "type": 1,
     "imageurl": "Witch_Way.jpg",
     "ability": "Each of your Creatures that is on a Useless Swamp Landscape has +2 ATK this turn.",
-    "id": 521,
+    "id": 512,
     "set": 8
   },
   {
@@ -982,7 +982,7 @@
     "type": 2,
     "imageurl": "Elf_Hut.jpg",
     "ability": "Pay 1 Action >>> Draw a card for each Creature in this Lane.",
-    "id": 522,
+    "id": 513,
     "set": 8
   },
   {
@@ -992,7 +992,7 @@
     "type": 2,
     "imageurl": "Fountain_of_Tears.jpg",
     "ability": "While your Creature in this Lane has exactly 3 Damage on it, it has +3 ATK.",
-    "id": 523,
+    "id": 514,
     "set": 8
   },
   {
@@ -1002,7 +1002,7 @@
     "type": 2,
     "imageurl": "Fright_Tower.jpg",
     "ability": "Pay 1 Action >>> Target Creature in this Lane has +1 ATK this turn for every 5 cards in your discard pile.",
-    "id": 524,
+    "id": 515,
     "set": 8
   },
   {
@@ -1012,7 +1012,7 @@
     "type": 2,
     "imageurl": "Igloo_of_Sanctuary.jpg",
     "ability": "FLOOP >>> If your Creature in this Lane moved here from another Lane this turn, it has +3 ATK this turn.",
-    "id": 525,
+    "id": 516,
     "set": 8
   },
   {
@@ -1022,7 +1022,7 @@
     "type": 2,
     "imageurl": "Nice_Windmill.jpg",
     "ability": "Pay 1 Action >>> Heal or deal up to 2 Damage to your Creature in this Lane.",
-    "id": 526,
+    "id": 517,
     "set": 8
   },
   {
@@ -1032,7 +1032,7 @@
     "type": 2,
     "imageurl": "Sand_Pyramid.jpg",
     "ability": "Pay 2 Actions >>> Return each Creature in this Lane to its owner's hand. (Affects both players.)",
-    "id": 527,
+    "id": 518,
     "set": 8
   },
   {
@@ -1042,7 +1042,7 @@
     "type": 2,
     "imageurl": "Shadowy_Pyramid.jpg",
     "ability": "FLOOP >>> Draw a card. If you control a Creature in this Lane, discard a card.",
-    "id": 528,
+    "id": 519,
     "set": 8
   },
   {
@@ -1052,7 +1052,7 @@
     "type": 2,
     "imageurl": "Silo_of_Justice.jpg",
     "ability": "Pay 1 Action >>> Deal 1 Damage to target Creature in this Lane and 1 Damage to its controller.",
-    "id": 529,
+    "id": 520,
     "set": 8
   },
   {
@@ -1062,7 +1062,7 @@
     "type": 2,
     "imageurl": "Temple_of_the_Sun.jpg",
     "ability": "When a SandyLands Creature with cost 1 or greater you control enters play in this Lane, you may return it to its owner's hand.",
-    "id": 530,
+    "id": 521,
     "set": 8
   },
   {
@@ -1072,7 +1072,7 @@
     "type": 2,
     "imageurl": "Yellow_Lighthouse.jpg",
     "ability": "At the start of your turn, each player who controls a Creature in this Lane draws a card.",
-    "id": 531,
+    "id": 522,
     "set": 8
   }
 ]
