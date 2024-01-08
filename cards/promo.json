@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Cyclops",
+    "cost": 1,
+    "landscape": 6,
+    "type": 0,
+    "imageurl": "Cyclops.jpg",
+    "ability": "+1 DEF for each open eye depicted on other Creatures you control.",
+    "attack": 3,
+    "defense": 1,
+    "id": 532,
+    "set": 9
+  },
+  {
+    "name": "Sundae School",
+    "cost": 1,
+    "landscape": 6,
+    "type": 2,
+    "imageurl": "Sundae_School.jpg",
+    "ability": "When you have an even amount of Hit Points, your Creature on this Landscape has +2 ATK.",
+    "id": 533,
+    "set": 9
+  }
+]
