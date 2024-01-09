@@ -2,132 +2,154 @@
   {
     "name": "Blue Plains",
     "type": 3,
+    "landscape": 0,
     "imageurl": "Blue_Plains1.jpg",
     "id": 0
   },
   {
     "name": "Blue Plains",
     "type": 3,
+    "landscape": 0,
     "imageurl": "Blue_Plains2.jpg",
     "id": 1
   },
   {
     "name": "Blue Plains",
     "type": 3,
+    "landscape": 0,
     "imageurl": "Blue_Plains3.jpg",
     "id": 2
   },
   {
     "name": "Blue Plains",
     "type": 3,
+    "landscape": 0,
     "imageurl": "Blue_Plains4.jpg",
     "id": 3
   },
   {
     "name": "Cornfield",
     "type": 3,
+    "landscape": 1,
     "imageurl": "Cornfield1.jpg",
     "id": 4
   },
   {
     "name": "Cornfield",
     "type": 3,
+    "landscape": 1,
     "imageurl": "Cornfield2.jpg",
     "id": 5
   },
   {
     "name": "Cornfield",
     "type": 3,
+    "landscape": 1,
     "imageurl": "Cornfield3.jpg",
     "id": 6
   },
   {
     "name": "Cornfield",
     "type": 3,
+    "landscape": 1,
     "imageurl": "Cornfield4.jpg",
     "id": 7
   },
   {
     "name": "Useless Swamp",
     "type": 3,
+    "landscape": 2,
     "imageurl": "Useless_Swamp1.jpg",
     "id": 8
   },
   {
     "name": "Useless Swamp",
     "type": 3,
+    "landscape": 2,
     "imageurl": "Useless_Swamp2.jpg",
     "id": 9
   },
   {
     "name": "Useless Swamp",
     "type": 3,
+    "landscape": 2,
     "imageurl": "Useless_Swamp3.jpg",
     "id": 10
   },
   {
     "name": "Useless Swamp",
     "type": 3,
+    "landscape": 2,
     "imageurl": "Useless_Swamp4.jpg",
     "id": 11
   },
   {
     "name": "SandyLands",
     "type": 3,
+    "landscape": 3,
     "imageurl": "SandyLands1.jpg",
     "id": 12
   },
   {
     "name": "SandyLands",
     "type": 3,
+    "landscape": 3,
     "imageurl": "SandyLands2.jpg",
     "id": 13
   },
   {
     "name": "SandyLands",
     "type": 3,
+    "landscape": 3,
     "imageurl": "SandyLands3.jpg",
     "id": 14
   },
   {
     "name": "SandyLands",
     "type": 3,
+    "landscape": 3,
     "imageurl": "SandyLands4.jpg",
     "id": 15
   },
   {
     "name": "NiceLands",
     "type": 3,
+    "landscape": 4,
     "imageurl": "NiceLands1.jpg",
     "id": 16
   },
   {
     "name": "NiceLands",
     "type": 3,
+    "landscape": 4,
     "imageurl": "NiceLands2.jpg",
     "id": 17
   },
   {
     "name": "IcyLands",
     "type": 3,
+    "landscape": 5,
     "imageurl": "IcyLands1.jpg",
     "id": 18
   },
   {
     "name": "IcyLands",
     "type": 3,
+    "landscape": 5,
     "imageurl": "IcyLands2.jpg",
     "id": 19
   },
   {
     "name": "IcyLands",
     "type": 3,
+    "landscape": 5,
     "imageurl": "IcyLands3.jpg",
     "id": 20
   },
   {
     "name": "IcyLands",
     "type": 3,
+    "landscape": 5,
     "imageurl": "IcyLands4.jpg",
     "id": 21
   }
