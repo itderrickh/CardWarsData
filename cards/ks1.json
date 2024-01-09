@@ -258,5 +258,53 @@
     "ability": "The first time you play a KICKSTARTER card on your turn, reveal the top card of your deck. If it is a KICKSTARTER card, draw it.",
     "set": 10,
     "id": 552
+  },
+  {
+    "name": "Blue Plains Drifter - Kickstarter",
+    "imageurl": "Blue_Plains_Drifter_Kickstarter.png",
+    "cost": 1,
+    "landscape": 0,
+    "type": 1,
+    "ability": "FLOOP >>> Swap Lanes with another of your Creatures. Both Creatures have +1 ATK this turn.",
+    "set": 10,
+    "attack": 1,
+    "defense": 6,
+    "id": 553
+  },
+  {
+    "name": "The Pig Promo",
+    "cost": 1,
+    "landscape": 6,
+    "type": 0,
+    "imageurl": "The_Pig_Promo.png",
+    "ability": "FLOOP >>> Flip target Cornfield Landscape in this Lane face down.",
+    "attack": 1,
+    "defense": 4,
+    "id": 554,
+    "set": 10
+  },
+  {
+    "name": "The Pig - Kickstarter",
+    "cost": 1,
+    "landscape": 6,
+    "type": 0,
+    "imageurl": "The_Pig_Kickstarter.png",
+    "ability": "FLOOP >>> Flip target Cornfield Landscape in this Lane face down.",
+    "attack": 1,
+    "defense": 4,
+    "id": 555,
+    "set": 10
+  },
+  {
+    "name": "Niceasaurus Rex - Pink",
+    "cost": 1,
+    "landscape": 4,
+    "type": 0,
+    "imageurl": "PINKNiceasaurus_Rex.jpg",
+    "ability": "At the start of your turn, if Niceasaurus Rex has Damage on it, draw a card.",
+    "attack": 2,
+    "defense": 7,
+    "id": 556,
+    "set": 10
   }
 ]
