@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Abracadaniel",
+      "type": 4,
+      "imageurl": "Abracadaniel.jpg",
+      "ability": "Pay 1 Action >>> Reveal the top card of your deck. If it's a Rainbow card, play it.",
+      "id": 557,
+      "set": 7
+    },
+    {
+      "name": "Billy",
+      "type": 4,
+      "imageurl": "Billy.jpg",
+      "ability": "If your opponent's deck runs out of cards, you win the game.",
+      "id": 558,
+      "set": 7
+    },
+    {
+      "name": "Cosmic Owl",
+      "type": 4,
+      "imageurl": "Cosmic_Owl.jpg",
+      "ability": "Pay 1 Action >>> Look at the top 4 cards of your deck and rearrange them.",
+      "id": 559,
+      "set": 7
+    },
+    {
+      "name": "Huntress Wizard",
+      "type": 4,
+      "imageurl": "Huntress_Wizard.jpg",
+      "ability": "At the start of the game, choose a word with 3 or more letters. Whenever you play a card with that work in its name, deal 1 Damage to target Creature an opponent controls.",
+      "id": 560,
+      "set": 7
+    },
+    {
+      "name": "Magic Man",
+      "type": 4,
+      "imageurl": "Magic_Man.jpg",
+      "ability": "When you play a card with cost exactly 2, deal 2 Damage to a Creature an opponent controls.",
+      "id": 561,
+      "set": 7
+    },
+    {
+      "name": "Prismo",
+      "type": 4,
+      "imageurl": "Prismo.jpg",
+      "ability": "If you have no matching Landscapes, your Creatures have +1 DEF.",
+      "id": 562,
+      "set": 7
+    },
+    {
+      "name": "Ricardio",
+      "type": 4,
+      "imageurl": "Ricardio.jpg",
+      "ability": "Once during each of your turns, you may pay 1 HP. If you do, reveal the top card of your deck. You may discard it.",
+      "id": 563,
+      "set": 7
+    },
+    {
+      "name": "Susan Strong",
+      "type": 4,
+      "imageurl": "Susan_Strong.jpg",
+      "ability": "Pay 1 Action & destroy a Creature you control >>> Deal Damage equal to its cost to each opposing Creature.",
+      "id": 564,
+      "set": 7
+    },
+    {
+      "name": "Tree Trunks",
+      "type": 4,
+      "imageurl": "Tree_Trunks.jpg",
+      "ability": "Once during each of your turns, you may discard a card with \"Pie\" in its name to gain 1 Action.",
+      "id": 565,
+      "set": 7
+    }
+  ]
