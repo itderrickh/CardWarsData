@@ -152,5 +152,19 @@
     "landscape": 5,
     "imageurl": "IcyLands4.jpg",
     "id": 21
+  },
+  {
+    "name": "NiceLands",
+    "type": 3,
+    "landscape": 5,
+    "imageurl": "NiceLands1_Pink.jpg",
+    "id": 22
+  },
+  {
+    "name": "NiceLands",
+    "type": 3,
+    "landscape": 5,
+    "imageurl": "NiceLands2_Pink.jpg",
+    "id": 23
   }
 ]
