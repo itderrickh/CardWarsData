@@ -316,7 +316,6 @@
     "ability": "FLOOP >>> Heal 2 damage from a Creature on an adjacent Landscape. If Dr. Stuffenstein has 5 or more damage on it, heal 2 damage from each of your Creatures instead.",
     "attack": 1,
     "defense": 9,
-    "set": 10,
-    "id": 559
+    "set": 10
   }
 ]
