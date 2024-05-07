@@ -157,14 +157,12 @@
     "name": "NiceLands",
     "type": 3,
     "landscape": 5,
-    "imageurl": "NiceLands1_Pink.jpg",
-    "id": 22
+    "imageurl": "NiceLands1_Pink.jpg"
   },
   {
     "name": "NiceLands",
     "type": 3,
     "landscape": 5,
-    "imageurl": "NiceLands2_Pink.jpg",
-    "id": 23
+    "imageurl": "NiceLands2_Pink.jpg"
   }
 ]
