@@ -3,7 +3,7 @@
     "name": "Finn",
     "type": 4,
     "imageurl": "Finn.jpg",
-    "ability": "Creatures you control with Damage on them have \"FLOOP\">> Deal 1 Damage to target Creature",
+    "ability": "Creatures you control with no Damage on them have \"FLOOP\">> Deal 1 Damage to target Creature",
     "id": 22,
     "set": 0
   },
