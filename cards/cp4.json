@@ -261,7 +261,7 @@
     "landscape": 4,
     "type": 0,
     "imageurl": "Papercut_Tiger.jpg",
-    "ability": "While Papercut Tiger has 5 Damage on it, it has +5 ATK.",
+    "ability": "While Papercut Tiger has exactly 5 Damage on it, it has +5 ATK.",
     "attack": 2,
     "defense": 9,
     "id": 184,
