@@ -93,6 +93,7 @@ CREATE TABLE IF NOT EXISTS card_image_type (
 );
 
 INSERT INTO card_image_type (id, descriptor) VALUES
+(0, 'xs'),
 (1, 'sm'),
 (2, 'rg'),
 (3, 'lg');
