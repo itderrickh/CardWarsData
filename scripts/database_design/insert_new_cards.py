@@ -1,7 +1,7 @@
 import sqlite3
 import time
 
-DB_OUTPUT_NAME = 'card_database.db'
+DB_OUTPUT_NAME = '../../card_database.db'
 CARD_INSERT_SQL = open('insert_card.sql', 'r').read()
 REVISION_INSERT_SQL = open('insert_revision.sql', 'r').read()
 IMAGE_INSERT_SQL = open('insert_image.sql', 'r').read()
