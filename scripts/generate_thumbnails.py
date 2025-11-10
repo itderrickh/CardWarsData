@@ -71,7 +71,8 @@ def add_thumbnail_images(db, cards):
         conn = sqlite3.connect(db)
         cursor = conn.cursor()
 
-        card_images = [(card["RevisionId"], card["CardImageTypeId"], card["ImageUrl"].replace("regular/", "generated/small/").replace("old/", "generated/small/").replace("upload/", "generated/small/")) for card in cards]
+        # Set card size to small
+        card_images = [(card["RevisionId"], 1, card["ImageUrl"].replace("regular/", "generated/small/").replace("old/", "generated/small/").replace("upload/", "generated/small/")) for card in cards]
 
         # Insert multiple rows into the table
         cursor.executemany(insert_query, card_images)
