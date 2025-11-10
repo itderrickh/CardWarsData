@@ -3,7 +3,7 @@ from PIL import Image
 import sqlite3
 import urllib.parse
 
-def generate_thumbnails(file_list, output_dir="../images/generated/small", size=(118, 167)):
+def generate_thumbnails(file_list, output_dir="../images/generated/small", size=(227, 320)):
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
 
@@ -23,10 +23,6 @@ def generate_thumbnails(file_list, output_dir="../images/generated/small", size=
 
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
-
-
-base_dir = f"F:\\CornDome\\data\\images"
-db_path ="../carddatabase.db"
 
 def get_card_images(db):
     try:
@@ -86,6 +82,9 @@ def add_thumbnail_images(db, cards):
             conn.close()
 
 if __name__ == "__main__":
+    base_dir = f"F:\\CornDome\\data\\images"
+    db_path ="../carddatabase.db"
+
     files = get_card_images(db_path)
     add_thumbnail_images(db_path, files)
     file_paths = [os.path.join(base_dir, urllib.parse.unquote(f["ImageUrl"])) for f in files]
