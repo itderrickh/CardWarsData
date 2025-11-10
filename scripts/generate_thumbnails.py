@@ -1,8 +1,9 @@
 import os
 from PIL import Image
 import sqlite3
+import urllib.parse
 
-def generate_thumbnails(file_list, output_dir="../../images/generated/small", size=(118, 167)):
+def generate_thumbnails(file_list, output_dir="../images/generated/small", size=(118, 167)):
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
 
@@ -18,7 +19,7 @@ def generate_thumbnails(file_list, output_dir="../../images/generated/small", si
 
                 # Save the thumbnail
                 img.save(output_path)
-                print(f"Thumbnail created: {output_path}")
+                #print(f"Thumbnail created: {output_path}")
 
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
@@ -70,7 +71,7 @@ def add_thumbnail_images(db, cards):
         conn = sqlite3.connect(db)
         cursor = conn.cursor()
 
-        card_images = [(card["RevisionId"], card["CardImageTypeId"], card["ImageUrl"].replace("regular/", "small/").replace("old/", "small/").replace("upload/", "small/")) for card in cards]
+        card_images = [(card["RevisionId"], card["CardImageTypeId"], card["ImageUrl"].replace("regular/", "generated/small/").replace("old/", "generated/small/").replace("upload/", "generated/small/")) for card in cards]
 
         # Insert multiple rows into the table
         cursor.executemany(insert_query, card_images)
@@ -86,6 +87,6 @@ def add_thumbnail_images(db, cards):
 if __name__ == "__main__":
     files = get_card_images(db_path)
     add_thumbnail_images(db_path, files)
-    file_paths = [os.path.join(base_dir, f["ImageUrl"]) for f in files]
+    file_paths = [os.path.join(base_dir, urllib.parse.unquote(f["ImageUrl"])) for f in files]
 
     generate_thumbnails(file_paths)
