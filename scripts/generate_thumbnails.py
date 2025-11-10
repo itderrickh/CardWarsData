@@ -2,15 +2,7 @@ import os
 from PIL import Image
 import sqlite3
 
-def generate_thumbnails(file_list, output_dir="generated/small", size=(118, 167)):
-    """
-    Creates thumbnails for a list of image files.
-
-    Args:
-        file_list (list): List of file paths to images.
-        output_dir (str): Directory where thumbnails will be saved.
-        size (tuple): Thumbnail size (width, height).
-    """
+def generate_thumbnails(file_list, output_dir="../../images/generated/small", size=(118, 167)):
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
 
@@ -36,9 +28,6 @@ base_dir = f"F:\\CornDome\\data\\images"
 db_path ="../carddatabase.db"
 
 def get_card_images(db):
-    """
-    Connects to the SQLite database and retrieves all cardImage records.
-    """
     try:
         # Connect to the database
         conn = sqlite3.connect(db)
@@ -67,8 +56,36 @@ def get_card_images(db):
         if conn:
             conn.close()
 
+
+insert_query = """
+INSERT INTO cardImage
+    (revisionId, cardImageTypeId, imageUrl)
+VALUES
+    (?, ?, ?);
+"""
+
+def add_thumbnail_images(db, cards):
+    try:
+        # Connect to the database
+        conn = sqlite3.connect(db)
+        cursor = conn.cursor()
+
+        card_images = [(card["RevisionId"], card["CardImageTypeId"], card["ImageUrl"].replace("regular/", "small/").replace("old/", "small/").replace("upload/", "small/")) for card in cards]
+
+        # Insert multiple rows into the table
+        cursor.executemany(insert_query, card_images)
+
+        conn.commit()
+    except sqlite3.Error as e:
+        print(f"Database error: {e}")
+        return []
+    finally:
+        if conn:
+            conn.close()
+
 if __name__ == "__main__":
     files = get_card_images(db_path)
+    add_thumbnail_images(db_path, files)
     file_paths = [os.path.join(base_dir, f["ImageUrl"]) for f in files]
 
     generate_thumbnails(file_paths)
